@@ -10,7 +10,41 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/George_Washington". 
             "start_mandate" = "1789-04-30". 
             "end_mandate" = "1797-03-04". 
-            "first_wiki_para" = "George Washington (February 22, 1732\u00a0\u2013 December 14, 1799) was a Founding Father of the United States, military officer, and farmer who served as the first president of the United States from 1789 to 1797. Appointed by the Second Continental Congress as commander of the Continental Army in 1775, Washington led Patriot forces to victory in the American Revolutionary War and then served as president of the Constitutional Convention in 1787, which drafted the current Constitution of the United States. Washington has thus become commonly known as the \"Father of his Country\"."
+            "first_wiki_para" = "George Washington (February 22, 1732\u00a0\u2013 December 14, 1799) was a Founding Father of the United States, military officer, and farmer who served as the first president of the United States from 1789 to 1797. Appointed by the Second Continental Congress as commander of the Continental Army in 1775, Washington led Patriot forces to victory in the American Revolutionary War and then served as president of the Constitutional Convention in 1787, which drafted the current Constitution of the United States. Washington has thus become commonly known as the \"Father of his Country\".". 
+            "personal_details" = {
+                "Born" = [
+                    "February 22 1732 OS February 11 1731Popes Creek Virginia Colony British America"
+                ]. 
+                "Died" = [
+                    "December 14 1799 Mount Vernon Virginia US"
+                ]. 
+                "Resting place" = [
+                    "Mount Vernon Virginia3842284N 7705099W 38707889N 77086083W 38707889 77086083"
+                ]. 
+                "Political party" = [
+                    "Independent"
+                ]. 
+                "Spouse" = [
+                    "Martha Dandridge "
+                ]. 
+                "Parents" = [
+                    "Augustine Washington". 
+                    "Mary Ball Washington"
+                ]. 
+                "Relatives" = [
+                    "Washington family"
+                ]. 
+                "Occupation" = [
+                    "Farmermilitary officerstatesmansurveyor"
+                ]. 
+                "Awards" = [
+                    "Congressional Gold Medal". 
+                    "Thanks of Congress1"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q76". 
@@ -22,7 +56,46 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Barack_Obama". 
             "start_mandate" = "2009-01-20". 
             "end_mandate" = "2017-01-20". 
-            "first_wiki_para" = "Barack Hussein Obama II (born August 4, 1961) is an American politician who served as the 44th president of the United States from 2009 to 2017. As a member of the Democratic Party, he was the first African-American president in U.S. history. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004."
+            "first_wiki_para" = "Barack Hussein Obama II (born August 4, 1961) is an American politician who served as the 44th president of the United States from 2009 to 2017. As a member of the Democratic Party, he was the first African-American president in U.S. history. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.". 
+            "personal_details" = {
+                "Born" = [
+                    "Barack Hussein Obama II August 4 1961 Honolulu Hawaii US"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Michelle Robinson "
+                ]. 
+                "Children" = [
+                    "Malia". 
+                    "Sasha"
+                ]. 
+                "Parents" = [
+                    "Barack Obama Sr". 
+                    "Ann Dunham"
+                ]. 
+                "Relatives" = [
+                    "Obama family"
+                ]. 
+                "Education" = [
+                    "Columbia University Harvard University"
+                ]. 
+                "Occupation" = [
+                    "Politician". 
+                    "lawyer". 
+                    "author"
+                ]. 
+                "Awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Website" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q91". 
@@ -34,7 +107,48 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Abraham_Lincoln". 
             "start_mandate" = "1861-03-04". 
             "end_mandate" = "1865-04-15". 
-            "first_wiki_para" = "Abraham Lincoln (/\u02c8l\u026a\u014bk\u0259n/ LINK-\u0259n; February 12, 1809\u00a0\u2013 April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defending the nation as a constitutional union, defeating the Confederacy, playing a major role in the abolition of slavery, expanding the power of the federal government, and modernizing the U.S. economy."
+            "first_wiki_para" = "Abraham Lincoln (/\u02c8l\u026a\u014bk\u0259n/ LINK-\u0259n; February 12, 1809\u00a0\u2013 April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defending the nation as a constitutional union, defeating the Confederacy, playing a major role in the abolition of slavery, expanding the power of the federal government, and modernizing the U.S. economy.". 
+            "personal_details" = {
+                "Born" = [
+                    "February 12 1809Sinking Spring Farm Kentucky US"
+                ]. 
+                "Died" = [
+                    "April 15 1865 Washington DC US"
+                ]. 
+                "Manner\u00a0of\u00a0death" = [
+                    "Assassination by gunshot"
+                ]. 
+                "Resting place" = [
+                    "Lincoln Tomb"
+                ]. 
+                "Political party" = [
+                    "Whig Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "National Union"
+                ]. 
+                "Height" = [
+                    "6\u00a0ft 4\u00a0in 1"
+                ]. 
+                "Spouse" = [
+                    "Mary Todd "
+                ]. 
+                "Children" = [
+                    "RobertEdwardWillieTad"
+                ]. 
+                "Parents" = [
+                    "Thomas LincolnNancy Hanks"
+                ]. 
+                "Relatives" = [
+                    "Lincoln family"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q207". 
@@ -46,7 +160,49 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/George_W._Bush". 
             "start_mandate" = "2001-01-20". 
             "end_mandate" = "2009-01-20". 
-            "first_wiki_para" = "George Walker Bush (born July 6, 1946) is an American politician and businessman who served as the 43rd president of the United States from 2001 to 2009. A member of the Bush family and Republican Party, he was the 46th governor of Texas from 1995 to 2000."
+            "first_wiki_para" = "George Walker Bush (born July 6, 1946) is an American politician and businessman who served as the 43rd president of the United States from 2001 to 2009. A member of the Bush family and Republican Party, he was the 46th governor of Texas from 1995 to 2000.". 
+            "personal_details" = {
+                "Born" = [
+                    "George Walker Bush July 6 1946 New Haven Connecticut US"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Laura Welch "
+                ]. 
+                "Children" = [
+                    "BarbaraJenna"
+                ]. 
+                "Parents" = [
+                    "George H W Bush". 
+                    "Barbara Pierce"
+                ]. 
+                "Relatives" = [
+                    "Bush family"
+                ]. 
+                "Residences" = [
+                    "Dallas Texas USPrairie Chapel Ranch McLennan County Texas US"
+                ]. 
+                "Education" = [
+                    "Yale University Harvard University"
+                ]. 
+                "Civilian awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Website" = [
+                    "Official website". 
+                    "Presidential Library". 
+                    "Presidential Center". 
+                    "White House Archives"
+                ]. 
+                "Nickname" = [
+                    "Dubya"
+                ]
+            }
         }. 
         {
             "id" = "Q1124". 
@@ -58,7 +214,36 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Bill_Clinton". 
             "start_mandate" = "1993-01-20". 
             "end_mandate" = "2001-01-20". 
-            "first_wiki_para" = "William Jefferson  Clinton (n\u00e9 Blythe; born August 19, 1946) is an American lawyer and politician  who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as governor of Arkansas from 1979 to 1981 and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat."
+            "first_wiki_para" = "William Jefferson  Clinton (n\u00e9 Blythe; born August 19, 1946) is an American lawyer and politician  who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as governor of Arkansas from 1979 to 1981 and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat.". 
+            "personal_details" = {
+                "Born" = [
+                    "William Jefferson Blythe III August 19 1946 Hope Arkansas US"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Hillary Rodham "
+                ]. 
+                "Children" = [
+                    "Chelsea Clinton"
+                ]. 
+                "Parents" = [
+                    "William Jefferson Blythe JrVirginia Cassidy"
+                ]. 
+                "Relatives" = [
+                    "Clinton family"
+                ]. 
+                "Education" = [
+                    "Georgetown University University College OxfordYale University"
+                ]. 
+                "Awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q6279". 
@@ -70,7 +255,47 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Joe_Biden". 
             "start_mandate" = "2021-01-20". 
             "end_mandate" = null. 
-            "first_wiki_para" = "Joseph Robinette Biden Jr. (born November 20, 1942) is an American politician who has been the 46th and current president of the United States since 2021. A member of the Democratic Party, he served as the 47th vice president from 2009 to 2017 under President Barack Obama and represented Delaware in the U.S. Senate from 1973 to 2009."
+            "first_wiki_para" = "Joseph Robinette Biden Jr. (born November 20, 1942) is an American politician who has been the 46th and current president of the United States since 2021. A member of the Democratic Party, he served as the 47th vice president from 2009 to 2017 under President Barack Obama and represented Delaware in the U.S. Senate from 1973 to 2009.". 
+            "personal_details" = {
+                "Born" = [
+                    "Joseph Robinette Biden Jr November 20 1942 Scranton Pennsylvania US"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Independent"
+                ]. 
+                "Spouses" = [
+                    "Neilia Hunter Jill Jacobs "
+                ]. 
+                "Children" = [
+                    "Beau". 
+                    "Hunter". 
+                    "Naomi". 
+                    "Ashley"
+                ]. 
+                "Relatives" = [
+                    "Biden family"
+                ]. 
+                "Education" = [
+                    "University of Delaware Syracuse University"
+                ]. 
+                "Occupation" = [
+                    "Politician". 
+                    "lawyer". 
+                    "author"
+                ]. 
+                "Awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Website" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q8007". 
@@ -82,7 +307,41 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt". 
             "start_mandate" = "1933-03-04". 
             "end_mandate" = "1945-04-12". 
-            "first_wiki_para" = "Franklin Delano Roosevelt (January 30, 1882\u00a0\u2013 April 12, 1945), commonly known by his initials FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. The longest-serving U.S. president, he is the only president to have served more than two terms. His initial two terms were centered on combating the Great Depression, while his third and fourth saw him shift his focus to America's involvement in World War II."
+            "first_wiki_para" = "Franklin Delano Roosevelt (January 30, 1882\u00a0\u2013 April 12, 1945), commonly known by his initials FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. The longest-serving U.S. president, he is the only president to have served more than two terms. His initial two terms were centered on combating the Great Depression, while his third and fourth saw him shift his focus to America's involvement in World War II.". 
+            "personal_details" = {
+                "Born" = [
+                    "Franklin Delano RooseveltJanuary 30 1882Hyde Park New York US"
+                ]. 
+                "Died" = [
+                    "April 12 1945 Warm Springs Georgia US"
+                ]. 
+                "Resting place" = [
+                    "Springwood Estate"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Eleanor Roosevelt "
+                ]. 
+                "Children" = [
+                    "6 including Anna James Elliott Franklin Jr John"
+                ]. 
+                "Parents" = [
+                    "James Roosevelt I". 
+                    "Sara Delano"
+                ]. 
+                "Relatives" = [
+                    "Roosevelt family". 
+                    "Delano family"
+                ]. 
+                "Education" = [
+                    "Harvard University Columbia University"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q8612". 
@@ -94,7 +353,43 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Andrew_Johnson". 
             "start_mandate" = "1865-04-15". 
             "end_mandate" = "1869-03-04". 
-            "first_wiki_para" = "Andrew Johnson (December 29, 1808\u00a0\u2013 July 31, 1875) was the 17th president of the United States, serving from 1865 to 1869. He assumed the presidency following the assassination of Abraham Lincoln, as he was vice president at that time. Johnson was a Democrat who ran with Abraham Lincoln on the National Union Party ticket, coming to office as the Civil War concluded. He favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved as well as pardoning ex-Confederates. This led to conflict with the Republican-dominated Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote."
+            "first_wiki_para" = "Andrew Johnson (December 29, 1808\u00a0\u2013 July 31, 1875) was the 17th president of the United States, serving from 1865 to 1869. He assumed the presidency following the assassination of Abraham Lincoln, as he was vice president at that time. Johnson was a Democrat who ran with Abraham Lincoln on the National Union Party ticket, coming to office as the Civil War concluded. He favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved as well as pardoning ex-Confederates. This led to conflict with the Republican-dominated Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote.". 
+            "personal_details" = {
+                "Born" = [
+                    "December 29 1808Raleigh North Carolina US"
+                ]. 
+                "Died" = [
+                    "July 31 1875 Elizabethton Tennessee US"
+                ]. 
+                "Cause\u00a0of\u00a0death" = [
+                    "Stroke"
+                ]. 
+                "Resting place" = [
+                    "Andrew Johnson National Cemetery Greeneville Tennessee US"
+                ]. 
+                "Political party" = [
+                    "Democratic 12"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Independent 12Mechanics 34National Union"
+                ]. 
+                "Spouse" = [
+                    "Eliza McCardle "
+                ]. 
+                "Children" = [
+                    "MarthaCharlesMaryRobertAndrew Jr"
+                ]. 
+                "Parents" = [
+                    "Jacob Johnson". 
+                    "Mary McDonough"
+                ]. 
+                "Profession" = [
+                    "Politiciantailor"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q9582". 
@@ -106,7 +401,43 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Gerald_Ford". 
             "start_mandate" = "1974-08-09". 
             "end_mandate" = "1977-01-20". 
-            "first_wiki_para" = "Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913\u00a0\u2013 December 26, 2006) was the 38th president of the United States, serving from 1974 to 1977. A member of the Republican Party, Ford assumed the presidency after President Richard Nixon resigned, under whom he had served as the 40th vice president from 1973 to 1974. Prior to that, he served as a member of the United States House of Representatives from 1949 to 1973."
+            "first_wiki_para" = "Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913\u00a0\u2013 December 26, 2006) was the 38th president of the United States, serving from 1974 to 1977. A member of the Republican Party, Ford assumed the presidency after President Richard Nixon resigned, under whom he had served as the 40th vice president from 1973 to 1974. Prior to that, he served as a member of the United States House of Representatives from 1949 to 1973.". 
+            "personal_details" = {
+                "Born" = [
+                    "Leslie Lynch King JrJuly 14 1913Omaha Nebraska US"
+                ]. 
+                "Died" = [
+                    "December 26 2006 Rancho Mirage California US"
+                ]. 
+                "Resting place" = [
+                    "Gerald R Ford Presidential Museum"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Betty Bloomer "
+                ]. 
+                "Children" = [
+                    "Michael". 
+                    "Jack". 
+                    "Steven". 
+                    "Susan"
+                ]. 
+                "Parents" = [
+                    "Leslie Lynch King Sr". 
+                    "Dorothy Ayer Gardner Ford"
+                ]. 
+                "Education" = [
+                    "University of Michigan Yale University"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q9588". 
@@ -118,7 +449,42 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Richard_Nixon". 
             "start_mandate" = "1969-01-20". 
             "end_mandate" = "1974-08-09". 
-            "first_wiki_para" = "Richard Milhous Nixon (January 9, 1913\u00a0\u2013 April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he previously served as a representative and senator from California and as the 36th vice president from 1953 to 1961 under President Dwight D. Eisenhower. His presidency saw the reduction of U.S. involvement in the Vietnam War, d\u00e9tente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal."
+            "first_wiki_para" = "Richard Milhous Nixon (January 9, 1913\u00a0\u2013 April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he previously served as a representative and senator from California and as the 36th vice president from 1953 to 1961 under President Dwight D. Eisenhower. His presidency saw the reduction of U.S. involvement in the Vietnam War, d\u00e9tente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.". 
+            "personal_details" = {
+                "Born" = [
+                    "Richard Milhous NixonJanuary 9 1913Yorba Linda California US"
+                ]. 
+                "Died" = [
+                    "April 22 1994 New York City US"
+                ]. 
+                "Resting place" = [
+                    "Richard Nixon Presidential Library and Museum"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Pat Ryan "
+                ]. 
+                "Children" = [
+                    "Tricia". 
+                    "Julie"
+                ]. 
+                "Parents" = [
+                    "Francis A NixonHannah Milhous"
+                ]. 
+                "Education" = [
+                    "Whittier College Duke University"
+                ]. 
+                "Occupation" = [
+                    "Author". 
+                    "lawyer". 
+                    "politician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q9640". 
@@ -130,7 +496,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Lyndon_B._Johnson". 
             "start_mandate" = "1963-11-22". 
             "end_mandate" = "1969-01-20". 
-            "first_wiki_para" = "Lyndon Baines Johnson (/\u02c8l\u026and\u0259n \u02c8be\u026anz/; August 27, 1908\u00a0\u2013\u00a0January 22, 1973), often referred to as LBJ, was the 36th president of the United States, serving from 1963 to 1969. He became president after the assassination of John F. Kennedy, under whom he had served as the 37th vice president from 1961 to 1963. A Democrat from Texas, Johnson previously served as a U.S. representative and U.S. senator."
+            "first_wiki_para" = "Lyndon Baines Johnson (/\u02c8l\u026and\u0259n \u02c8be\u026anz/; August 27, 1908\u00a0\u2013\u00a0January 22, 1973), often referred to as LBJ, was the 36th president of the United States, serving from 1963 to 1969. He became president after the assassination of John F. Kennedy, under whom he had served as the 37th vice president from 1961 to 1963. A Democrat from Texas, Johnson previously served as a U.S. representative and U.S. senator.". 
+            "personal_details" = {
+                "Born" = [
+                    "Lyndon Baines JohnsonAugust 27 1908Gillespie County Texas US"
+                ]. 
+                "Died" = [
+                    "January 22 1973 Gillespie County Texas US"
+                ]. 
+                "Resting place" = [
+                    "Johnson Family Cemetery"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Claudia Lady Bird Taylor "
+                ]. 
+                "Children" = [
+                    "LyndaLuci"
+                ]. 
+                "Parent" = [
+                    "Samuel Ealy Johnson Jr"
+                ]. 
+                "Relatives" = [
+                    "George Washington Baines Philip Bobbitt"
+                ]. 
+                "Education" = [
+                    "Southwest Texas State Teachers College"
+                ]. 
+                "Occupation" = [
+                    "Politicianteacher"
+                ]. 
+                "Civilian awards" = [
+                    "Presidential Medal of Freedom"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q9696". 
@@ -142,7 +546,43 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_F._Kennedy". 
             "start_mandate" = "1961-01-20". 
             "end_mandate" = "1963-11-22". 
-            "first_wiki_para" = "John Fitzgerald Kennedy (May 29, 1917 \u2013 November 22, 1963), often referred to as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A Democrat, Kennedy represented Massachusetts in both houses of the United States Congress prior to his presidency."
+            "first_wiki_para" = "John Fitzgerald Kennedy (May 29, 1917 \u2013 November 22, 1963), often referred to as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A Democrat, Kennedy represented Massachusetts in both houses of the United States Congress prior to his presidency.". 
+            "personal_details" = {
+                "Born" = [
+                    "John Fitzgerald KennedyMay 29 1917Brookline Massachusetts US"
+                ]. 
+                "Died" = [
+                    "November 22 1963 Dallas Texas US"
+                ]. 
+                "Manner\u00a0of\u00a0death" = [
+                    "Assassination"
+                ]. 
+                "Resting place" = [
+                    "Arlington National Cemetery"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Jacqueline Bouvier "
+                ]. 
+                "Children" = [
+                    "4 including Caroline John\u00a0Jr and Patrick"
+                ]. 
+                "Parents" = [
+                    "Joseph P Kennedy Sr". 
+                    "Rose Fitzgerald"
+                ]. 
+                "Relatives" = [
+                    "Kennedy family Bouvier family"
+                ]. 
+                "Education" = [
+                    "Harvard University"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q9916". 
@@ -154,7 +594,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower". 
             "start_mandate" = "1953-01-20". 
             "end_mandate" = "1961-01-20". 
-            "first_wiki_para" = "Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 \u2013 March 28, 1969) was the 34th president of the United States, serving from 1953 to 1961. During World War II, he was Supreme Commander of the Allied Expeditionary Force in Europe and achieved the five-star rank as General of the Army. Eisenhower planned and supervised two of the most consequential military campaigns of World War II: Operation Torch in the North Africa campaign in 1942\u20131943 and the invasion of Normandy in 1944."
+            "first_wiki_para" = "Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 \u2013 March 28, 1969) was the 34th president of the United States, serving from 1953 to 1961. During World War II, he was Supreme Commander of the Allied Expeditionary Force in Europe and achieved the five-star rank as General of the Army. Eisenhower planned and supervised two of the most consequential military campaigns of World War II: Operation Torch in the North Africa campaign in 1942\u20131943 and the invasion of Normandy in 1944.". 
+            "personal_details" = {
+                "Born" = [
+                    "David Dwight EisenhowerOctober 14 1890Denison Texas US"
+                ]. 
+                "Died" = [
+                    "March 28 1969 Washington DC US"
+                ]. 
+                "Resting place" = [
+                    "Dwight D Eisenhower Presidential Library Museum and Boyhood Home"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Democratic 1"
+                ]. 
+                "Spouse" = [
+                    "Mamie Doud "
+                ]. 
+                "Children" = [
+                    "DoudJohn"
+                ]. 
+                "Relatives" = [
+                    "Eisenhower family"
+                ]. 
+                "Education" = [
+                    "United States Military Academy"
+                ]. 
+                "Occupation" = [
+                    "Military officerpolitician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Nickname" = [
+                    "Ike2"
+                ]
+            }
         }. 
         {
             "id" = "Q9960". 
@@ -166,7 +644,52 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Ronald_Reagan". 
             "start_mandate" = "1981-01-20". 
             "end_mandate" = "1989-01-20". 
-            "first_wiki_para" = "Ronald Wilson Reagan (February 6, 1911 \u2013 June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement, and his presidency is known as the Reagan era."
+            "first_wiki_para" = "Ronald Wilson Reagan (February 6, 1911 \u2013 June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement, and his presidency is known as the Reagan era.". 
+            "personal_details" = {
+                "Born" = [
+                    "Ronald Wilson ReaganFebruary 6 1911Tampico Illinois US"
+                ]. 
+                "Died" = [
+                    "June 5 2004 Los Angeles California US"
+                ]. 
+                "Resting place" = [
+                    "Ronald Reagan Presidential Library"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Democratic"
+                ]. 
+                "Spouses" = [
+                    "Jane Wyman Nancy Davis "
+                ]. 
+                "Children" = [
+                    "5 including Maureen Michael Patti and Ron"
+                ]. 
+                "Parents" = [
+                    "Jack Reagan". 
+                    "Nelle Wilson"
+                ]. 
+                "Relatives" = [
+                    "Neil Reagan"
+                ]. 
+                "Education" = [
+                    "Eureka College"
+                ]. 
+                "Occupation" = [
+                    "Actor". 
+                    "politician". 
+                    "sports broadcaster". 
+                    "union leader"
+                ]. 
+                "Awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11613". 
@@ -178,7 +701,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Harry_S._Truman". 
             "start_mandate" = "1945-04-12". 
             "end_mandate" = "1953-01-20". 
-            "first_wiki_para" = "Harry S. Truman  (May 8, 1884\u00a0\u2013 December 26, 1972) was an American lawyer and politician who was the 33rd president of the United States, serving from 1945 to 1953. A member of the Democratic Party, he served as a United States senator from Missouri from 1935 to 1945 and briefly in 1945 as the 34th vice president of the United States under Franklin D. Roosevelt. Assuming the presidency after Roosevelt's death, Truman implemented the Marshall Plan in the wake of World War II to rebuild the economy of Western Europe and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. He proposed numerous liberal domestic reforms, but few were enacted by the conservative coalition that dominated Congress."
+            "first_wiki_para" = "Harry S. Truman  (May 8, 1884\u00a0\u2013 December 26, 1972) was an American lawyer and politician who was the 33rd president of the United States, serving from 1945 to 1953. A member of the Democratic Party, he served as a United States senator from Missouri from 1935 to 1945 and briefly in 1945 as the 34th vice president of the United States under Franklin D. Roosevelt. Assuming the presidency after Roosevelt's death, Truman implemented the Marshall Plan in the wake of World War II to rebuild the economy of Western Europe and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. He proposed numerous liberal domestic reforms, but few were enacted by the conservative coalition that dominated Congress.". 
+            "personal_details" = {
+                "Born" = [
+                    "May 8 1884Lamar Missouri US"
+                ]. 
+                "Died" = [
+                    "December 26 1972 Kansas City Missouri US"
+                ]. 
+                "Resting place" = [
+                    "Harry S Truman Presidential Library and Museum Independence Missouri"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Bess Wallace "
+                ]. 
+                "Children" = [
+                    "Margaret Truman"
+                ]. 
+                "Parent" = [
+                    "Martha Ellen Young"
+                ]. 
+                "Relatives" = [
+                    "Clifton Truman Daniel Clifton Daniel"
+                ]. 
+                "Occupation" = [
+                    "Farmerhaberdasherpolitician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11806". 
@@ -190,7 +745,40 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Adams". 
             "start_mandate" = "1797-03-04". 
             "end_mandate" = "1801-03-04". 
-            "first_wiki_para" = "John Adams (October 30, 1735 \u2013 July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the U.S. government as a senior diplomat in Europe. Adams was the first person to hold the office of vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with important contemporaries, including his wife and adviser Abigail Adams and his friend and political rival Thomas Jefferson."
+            "first_wiki_para" = "John Adams (October 30, 1735 \u2013 July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the U.S. government as a senior diplomat in Europe. Adams was the first person to hold the office of vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with important contemporaries, including his wife and adviser Abigail Adams and his friend and political rival Thomas Jefferson.". 
+            "personal_details" = {
+                "Born" = [
+                    "October 30 1735 OS October 19 1735Braintree Massachusetts Bay British\u00a0America"
+                ]. 
+                "Died" = [
+                    "July 4 1826 Quincy Massachusetts US"
+                ]. 
+                "Resting place" = [
+                    "United First Parish Church"
+                ]. 
+                "Political party" = [
+                    "ProAdministration Federalist DemocraticRepublican 4"
+                ]. 
+                "Spouse" = [
+                    "Abigail Smith "
+                ]. 
+                "Children" = [
+                    "6 including Abigail John Quincy Charles and Thomas"
+                ]. 
+                "Parents" = [
+                    "John Adams Sr". 
+                    "Susanna Boylston"
+                ]. 
+                "Education" = [
+                    "Harvard College"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11812". 
@@ -202,7 +790,41 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Thomas_Jefferson". 
             "start_mandate" = "1801-03-04". 
             "end_mandate" = "1809-03-04". 
-            "first_wiki_para" = "Thomas Jefferson (April 13, 1743 \u2013 July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809. He was the primary author of the Declaration of Independence. Following the American Revolutionary War and before becoming president in 1801, Jefferson was the nation's first U.S. secretary of state under George Washington and then the nation's second vice president under John Adams. Jefferson was a leading proponent of democracy, republicanism, and natural rights, and he produced formative documents and decisions at the state, national, and international levels."
+            "first_wiki_para" = "Thomas Jefferson (April 13, 1743 \u2013 July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809. He was the primary author of the Declaration of Independence. Following the American Revolutionary War and before becoming president in 1801, Jefferson was the nation's first U.S. secretary of state under George Washington and then the nation's second vice president under John Adams. Jefferson was a leading proponent of democracy, republicanism, and natural rights, and he produced formative documents and decisions at the state, national, and international levels.". 
+            "personal_details" = {
+                "Born" = [
+                    "April 13 1743Shadwell Plantation Goochland Virginia Colony"
+                ]. 
+                "Died" = [
+                    "July 4 1826 Monticello near Charlottesville Virginia US"
+                ]. 
+                "Resting place" = [
+                    "Monticello Virginia"
+                ]. 
+                "Political party" = [
+                    "DemocraticRepublican"
+                ]. 
+                "Spouse" = [
+                    "Martha Wayles "
+                ]. 
+                "Children" = [
+                    "6 with Martha Wayles including Martha Jefferson RandolphMary Jefferson Eppes". 
+                    "Up to 6 with Sally Hemingsa including Madison HemingsEston Hemings"
+                ]. 
+                "Parents" = [
+                    "Peter Jefferson". 
+                    "Jane Randolph"
+                ]. 
+                "Alma mater" = [
+                    "College of William Mary"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11813". 
@@ -214,7 +836,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Madison". 
             "start_mandate" = "1809-03-04". 
             "end_mandate" = "1817-03-04". 
-            "first_wiki_para" = "James Madison (March 16, 1751\u00a0\u2013 June 28, 1836) was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. Madison was popularly acclaimed the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights."
+            "first_wiki_para" = "James Madison (March 16, 1751\u00a0\u2013 June 28, 1836) was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. Madison was popularly acclaimed the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights.". 
+            "personal_details" = {
+                "Born" = [
+                    "James Madison JrMarch 16 1751Port Conway Virginia"
+                ]. 
+                "Died" = [
+                    "June 28 1836 Montpelier Orange County Virginia US"
+                ]. 
+                "Resting place" = [
+                    "Montpelier Orange County Virginia US"
+                ]. 
+                "Political party" = [
+                    "DemocraticRepublican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Federalist 6 7"
+                ]. 
+                "Height" = [
+                    "5\u00a0ft 4\u00a0in 8"
+                ]. 
+                "Spouse" = [
+                    "Dolley Payne "
+                ]. 
+                "Parents" = [
+                    "James Madison SrEleanor Madison"
+                ]. 
+                "Education" = [
+                    "College of New Jersey"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11815". 
@@ -226,7 +880,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Monroe". 
             "start_mandate" = "1817-03-04". 
             "end_mandate" = "1825-03-04". 
-            "first_wiki_para" = "James Monroe (/m\u0259n\u02c8ro\u028a/ m\u0259n-ROH; April 28, 1758\u00a0\u2013 July 4, 1831), a Founding Father of the United States, served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president as well as the last president of the Virginia dynasty. He was a member of the Democratic-Republican Party, and his presidency coincided with the Era of Good Feelings, concluding the First Party System era of American politics. He issued the Monroe Doctrine, a policy of limiting European colonialism in the Americas. Monroe previously served as governor of Virginia, a member of the United States Senate, U.S. ambassador to France and Britain, the seventh secretary of state, and the eighth secretary of war."
+            "first_wiki_para" = "James Monroe (/m\u0259n\u02c8ro\u028a/ m\u0259n-ROH; April 28, 1758\u00a0\u2013 July 4, 1831), a Founding Father of the United States, served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president as well as the last president of the Virginia dynasty. He was a member of the Democratic-Republican Party, and his presidency coincided with the Era of Good Feelings, concluding the First Party System era of American politics. He issued the Monroe Doctrine, a policy of limiting European colonialism in the Americas. Monroe previously served as governor of Virginia, a member of the United States Senate, U.S. ambassador to France and Britain, the seventh secretary of state, and the eighth secretary of war.". 
+            "personal_details" = {
+                "Born" = [
+                    "April 28 1758Monroe Hall Virginia British America"
+                ]. 
+                "Died" = [
+                    "July 4 1831 New York City US"
+                ]. 
+                "Resting place" = [
+                    "Hollywood Cemetery"
+                ]. 
+                "Political party" = [
+                    "DemocraticRepublican"
+                ]. 
+                "Spouse" = [
+                    "Elizabeth Kortright "
+                ]. 
+                "Children" = [
+                    "3 including Eliza and Maria"
+                ]. 
+                "Relatives" = [
+                    "Joseph Jones James Monroe"
+                ]. 
+                "Education" = [
+                    "College of William Mary"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11816". 
@@ -238,7 +924,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Quincy_Adams". 
             "start_mandate" = "1825-03-04". 
             "end_mandate" = "1829-03-04". 
-            "first_wiki_para" = "John Quincy Adams (/\u02c8kw\u026anzi/ \u24d8; July 11, 1767 \u2013 February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825. During his long diplomatic and political career, Adams served as an ambassador and also as a member of the United States Congress representing Massachusetts in both chambers. He was the eldest son of John Adams, who served as the second president of the United States from 1797 to 1801, and First Lady Abigail Adams. Initially a Federalist like his father, he won election to the presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party."
+            "first_wiki_para" = "John Quincy Adams (/\u02c8kw\u026anzi/ \u24d8; July 11, 1767 \u2013 February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825. During his long diplomatic and political career, Adams served as an ambassador and also as a member of the United States Congress representing Massachusetts in both chambers. He was the eldest son of John Adams, who served as the second president of the United States from 1797 to 1801, and First Lady Abigail Adams. Initially a Federalist like his father, he won election to the presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party.". 
+            "personal_details" = {
+                "Born" = [
+                    "July 11 1767Braintree Province of Massachusetts Bay British America"
+                ]. 
+                "Died" = [
+                    "February 23 1848 Washington DC US"
+                ]. 
+                "Resting place" = [
+                    "United First Parish Church"
+                ]. 
+                "Political party" = [
+                    "Federalist DemocraticRepublican National Republican AntiMasonic Whig 1"
+                ]. 
+                "Spouse" = [
+                    "Louisa Johnson "
+                ]. 
+                "Children" = [
+                    "4 including George John II and Charles"
+                ]. 
+                "Parents" = [
+                    "John Adams". 
+                    "Abigail Smith"
+                ]. 
+                "Relatives" = [
+                    "Adams political family". 
+                    "Quincy political family"
+                ]. 
+                "Education" = [
+                    "Leiden University". 
+                    "Harvard University"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11817". 
@@ -250,7 +974,40 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Andrew_Jackson". 
             "start_mandate" = "1829-03-04". 
             "end_mandate" = "1837-03-04". 
-            "first_wiki_para" = "Andrew Jackson  (March 15, 1767 \u2013 June 8, 1845) was the seventh president of the United States, serving from 1829 to 1837. Before his presidency, he gained fame as a general in the U.S. Army and served in both houses of the U.S. Congress. Often praised as an advocate for ordinary Americans and for his work in preserving the union of states, Jackson has also been criticized for his racial policies, particularly his treatment of Native Americans."
+            "first_wiki_para" = "Andrew Jackson  (March 15, 1767 \u2013 June 8, 1845) was the seventh president of the United States, serving from 1829 to 1837. Before his presidency, he gained fame as a general in the U.S. Army and served in both houses of the U.S. Congress. Often praised as an advocate for ordinary Americans and for his work in preserving the union of states, Jackson has also been criticized for his racial policies, particularly his treatment of Native Americans.". 
+            "personal_details" = {
+                "Born" = [
+                    "March 15 1767Waxhaw Settlement between North Carolina and South Carolina British America"
+                ]. 
+                "Died" = [
+                    "June 8 1845 Nashville Tennessee US"
+                ]. 
+                "Resting place" = [
+                    "The Hermitage"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "DemocraticRepublican Jacksonian"
+                ]. 
+                "Spouse" = [
+                    "Rachel Donelson "
+                ]. 
+                "Children" = [
+                    "2 including Lyncoya"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyergeneral"
+                ]. 
+                "Awards" = [
+                    "Congressional Gold Medal". 
+                    "Thanks of Congress"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11820". 
@@ -262,7 +1019,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Martin_Van_Buren". 
             "start_mandate" = "1837-03-04". 
             "end_mandate" = "1841-03-04". 
-            "first_wiki_para" = "Martin Van Buren (/v\u00e6n \u02c8bj\u028a\u0259r\u0259n/ van BURE-\u0259n; Dutch: Maarten van Buren [\u02c8ma\u02d0rt\u0259(\u0271) v\u0251m \u02c8by\u02d0r\u0259(n)] \u24d8; December 5, 1782 \u2013 July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. A primary founder of the Democratic Party, he served as New York's attorney general and U.S. senator, then briefly as the ninth governor of New York before joining Andrew Jackson's administration as the tenth United States secretary of state, minister to Great Britain, and ultimately the eighth vice president from 1833 to 1837, after being elected on Jackson's ticket in 1832. Van Buren won the presidency in 1836 against divided Whig opponents. Van Buren lost re-election in 1840, and failed to win the Democratic nomination in 1844. Later in his life, Van Buren emerged as an elder statesman and an anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election."
+            "first_wiki_para" = "Martin Van Buren (/v\u00e6n \u02c8bj\u028a\u0259r\u0259n/ van BURE-\u0259n; Dutch: Maarten van Buren  \u24d8; December 5, 1782 \u2013 July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. A primary founder of the Democratic Party, he served as New York's attorney general and U.S. senator, then briefly as the ninth governor of New York before joining Andrew Jackson's administration as the tenth United States secretary of state, minister to Great Britain, and ultimately the eighth vice president from 1833 to 1837, after being elected on Jackson's ticket in 1832. Van Buren won the presidency in 1836 against divided Whig opponents. Van Buren lost re-election in 1840, and failed to win the Democratic nomination in 1844. Later in his life, Van Buren emerged as an elder statesman and an anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election.". 
+            "personal_details" = {
+                "Born" = [
+                    "Maarten van BurenDecember 5 1782Kinderhook Province of New York"
+                ]. 
+                "Died" = [
+                    "July 24 1862 Kinderhook New York US"
+                ]. 
+                "Resting place" = [
+                    "Kinderhook Reformed Church Cemetery"
+                ]. 
+                "Political party" = [
+                    "DemocraticRepublican Democratic Free Soil"
+                ]. 
+                "Height" = [
+                    "5\u00a0ft 6\u00a0in 1"
+                ]. 
+                "Spouse" = [
+                    "Hannah Hoes "
+                ]. 
+                "Children" = [
+                    "5 including Abraham II and John"
+                ]. 
+                "Parent" = [
+                    "Abraham Van Buren"
+                ]. 
+                "Relatives" = [
+                    "Van Buren family"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Nicknames" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11869". 
@@ -274,7 +1069,48 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_Henry_Harrison". 
             "start_mandate" = "1841-03-04". 
             "end_mandate" = "1841-04-04". 
-            "first_wiki_para" = "William Henry Harrison (February 9, 1773\u00a0\u2013 April 4, 1841) served as the ninth president of the United States from March 4 to April 4, 1841, the shortest presidency in U.S. history. He was also the first U.S. president to die in office, causing a brief constitutional crisis since presidential succession was not then fully defined in the U.S. Constitution. Harrison was the last president born as a British subject in the Thirteen Colonies and was the grandfather of Benjamin Harrison, the 23rd U.S. president."
+            "first_wiki_para" = "William Henry Harrison (February 9, 1773\u00a0\u2013 April 4, 1841) served as the ninth president of the United States from March 4 to April 4, 1841, the shortest presidency in U.S. history. He was also the first U.S. president to die in office, causing a brief constitutional crisis since presidential succession was not then fully defined in the U.S. Constitution. Harrison was the last president born as a British subject in the Thirteen Colonies and was the grandfather of Benjamin Harrison, the 23rd U.S. president.". 
+            "personal_details" = {
+                "Born" = [
+                    "February 9 1773Charles City County Virginia British America"
+                ]. 
+                "Died" = [
+                    "April 4 1841 Washington DC US"
+                ]. 
+                "Cause\u00a0of\u00a0death" = [
+                    "Enteric fever"
+                ]. 
+                "Resting place" = [
+                    "Harrison Tomb State Memorial"
+                ]. 
+                "Political party" = [
+                    "DemocraticRepublican Whig"
+                ]. 
+                "Spouse" = [
+                    "Anna Symmes "
+                ]. 
+                "Children" = [
+                    "10 including John 2 with Dilsia including Marie Harrison"
+                ]. 
+                "Parent" = [
+                    "Benjamin Harrison V"
+                ]. 
+                "Relatives" = [
+                    "Harrison family of Virginia"
+                ]. 
+                "Education" = [
+                    "HampdenSydney CollegeUniversity of Pennsylvania"
+                ]. 
+                "Occupation" = [
+                    "Soldierpolitician"
+                ]. 
+                "Awards" = [
+                    "Congressional Gold MedalThanks of Congress"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11881". 
@@ -286,7 +1122,43 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Tyler". 
             "start_mandate" = "1841-04-04". 
             "end_mandate" = "1845-03-04". 
-            "first_wiki_para" = "John Tyler (March 29, 1790 \u2013 January 18, 1862) was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with President William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Henry Clay and other Whig politicians and left Tyler estranged from both of the nation's major political parties at the time."
+            "first_wiki_para" = "John Tyler (March 29, 1790 \u2013 January 18, 1862) was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with President William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Henry Clay and other Whig politicians and left Tyler estranged from both of the nation's major political parties at the time.". 
+            "personal_details" = {
+                "Born" = [
+                    "March 29 1790Greenway Plantation Charles City County Virginia US"
+                ]. 
+                "Died" = [
+                    "January 18 1862 Ballard House Richmond Virginia"
+                ]. 
+                "Resting place" = [
+                    "Hollywood Cemetery Richmond\u00a0Virginia US"
+                ]. 
+                "Political party" = [
+                    "Whig"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "DemocraticRepublican Democratic Tyler Party Independent"
+                ]. 
+                "Spouses" = [
+                    "Letitia Christian Julia Gardiner "
+                ]. 
+                "Children" = [
+                    "15"
+                ]. 
+                "Parent" = [
+                    "John Tyler Sr"
+                ]. 
+                "Alma mater" = [
+                    "College of William Mary"
+                ]. 
+                "Profession" = [
+                    "Politician". 
+                    "lawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q11891". 
@@ -298,7 +1170,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_K._Polk". 
             "start_mandate" = "1845-03-04". 
             "end_mandate" = "1849-03-04". 
-            "first_wiki_para" = "James Knox Polk (/po\u028ak/; November 2, 1795 \u2013 June 15, 1849) was the 11th president of the United States, serving from 1845 to 1849. A prot\u00e9g\u00e9 of Andrew Jackson and a member of the Democratic Party, he was an advocate of Jacksonian democracy and extending the territory of the United States. Polk led the U.S. into the Mexican\u2013American War, and after winning the war he annexed the Republic of Texas, the Oregon Territory, and the Mexican Cession."
+            "first_wiki_para" = "James Knox Polk (/po\u028ak/; November 2, 1795 \u2013 June 15, 1849) was the 11th president of the United States, serving from 1845 to 1849. A prot\u00e9g\u00e9 of Andrew Jackson and a member of the Democratic Party, he was an advocate of Jacksonian democracy and extending the territory of the United States. Polk led the U.S. into the Mexican\u2013American War, and after winning the war he annexed the Republic of Texas, the Oregon Territory, and the Mexican Cession.". 
+            "personal_details" = {
+                "Born" = [
+                    "James Knox PolkNovember 2 1795Pineville North Carolina US"
+                ]. 
+                "Died" = [
+                    "June 15 1849 Nashville Tennessee US"
+                ]. 
+                "Resting place" = [
+                    "Tennessee State Capitol"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Sarah Childress "
+                ]. 
+                "Parent" = [
+                    "Samuel Polk"
+                ]. 
+                "Education" = [
+                    "University of North Carolina at Chapel Hill"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Nicknames" = [
+                    "Young HickoryNapoleon of the Stump"
+                ]
+            }
         }. 
         {
             "id" = "Q11896". 
@@ -310,7 +1214,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Zachary_Taylor". 
             "start_mandate" = "1849-03-04". 
             "end_mandate" = "1850-07-09". 
-            "first_wiki_para" = "Zachary Taylor (November 24, 1784 \u2013 July 9, 1850) was the 12th president of the United States, serving from 1849 until his death in 1850. Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican\u2013American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history."
+            "first_wiki_para" = "Zachary Taylor (November 24, 1784 \u2013 July 9, 1850) was the 12th president of the United States, serving from 1849 until his death in 1850. Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican\u2013American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history.". 
+            "personal_details" = {
+                "Born" = [
+                    "November 24 1784Barboursville Virginia US"
+                ]. 
+                "Died" = [
+                    "July 9 1850 Washington County DC US"
+                ]. 
+                "Resting place" = [
+                    "Zachary Taylor National Cemetery"
+                ]. 
+                "Political party" = [
+                    "Whig"
+                ]. 
+                "Spouse" = [
+                    "Margaret Smith "
+                ]. 
+                "Children" = [
+                    "6 including Sarah Mary and Richard"
+                ]. 
+                "Parent" = [
+                    "Richard Taylor"
+                ]. 
+                "Profession" = [
+                    "Military officer"
+                ]. 
+                "Awards" = [
+                    "Congressional Gold Medal Thanks of Congress"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q12306". 
@@ -322,7 +1258,37 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Millard_Fillmore". 
             "start_mandate" = "1850-07-09". 
             "end_mandate" = "1853-03-04". 
-            "first_wiki_para" = "Millard Fillmore (January 7, 1800 \u2013 March 8, 1874) was the 13th president of the United States, serving from 1850 to 1853, and was the last president to have been a member of the Whig Party while in office. A former member of the U.S. House of Representatives, Fillmore was elected the 12th vice president in 1848, and succeeded to the presidency when Zachary Taylor died in July 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery."
+            "first_wiki_para" = "Millard Fillmore (January 7, 1800 \u2013 March 8, 1874) was the 13th president of the United States, serving from 1850 to 1853, and was the last president to have been a member of the Whig Party while in office. A former member of the U.S. House of Representatives, Fillmore was elected the 12th vice president in 1848, and succeeded to the presidency when Zachary Taylor died in July 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery.". 
+            "personal_details" = {
+                "Born" = [
+                    "January 7 1800Moravia New York US"
+                ]. 
+                "Died" = [
+                    "March 8 1874 Buffalo New York US"
+                ]. 
+                "Resting place" = [
+                    "Forest Lawn Cemetery Buffalo"
+                ]. 
+                "Political party" = [
+                    "AntiMasonic Whig Know Nothing Democratic"
+                ]. 
+                "Spouses" = [
+                    "Abigail Powers Caroline McIntosh "
+                ]. 
+                "Children" = [
+                    "Millard". 
+                    "Mary"
+                ]. 
+                "Parent" = [
+                    "Nathaniel Fillmore"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q12312". 
@@ -334,7 +1300,42 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Franklin_Pierce". 
             "start_mandate" = "1853-03-04". 
             "end_mandate" = "1857-03-04". 
-            "first_wiki_para" = "Franklin Pierce (November 23, 1804\u00a0\u2013 October 8, 1869) was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to the nation's unity, he alienated anti-slavery groups by signing the Kansas\u2013Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, after Abraham Lincoln was elected president in 1860, the Southern states seceded, resulting in the American Civil War."
+            "first_wiki_para" = "Franklin Pierce (November 23, 1804\u00a0\u2013 October 8, 1869) was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to the nation's unity, he alienated anti-slavery groups by signing the Kansas\u2013Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, after Abraham Lincoln was elected president in 1860, the Southern states seceded, resulting in the American Civil War.". 
+            "personal_details" = {
+                "Born" = [
+                    "November 23 1804Hillsborough New Hampshire US"
+                ]. 
+                "Died" = [
+                    "October 8 1869 Concord New Hampshire US"
+                ]. 
+                "Resting place" = [
+                    "Old North Cemetery Concord"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Jane Appleton "
+                ]. 
+                "Children" = [
+                    "3"
+                ]. 
+                "Parent" = [
+                    "Benjamin Pierce"
+                ]. 
+                "Relatives" = [
+                    "Benjamin Kendrick Pierce"
+                ]. 
+                "Education" = [
+                    "Bowdoin College Northampton Law School"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q12325". 
@@ -346,7 +1347,33 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Buchanan". 
             "start_mandate" = "1857-03-04". 
             "end_mandate" = "1861-03-04". 
-            "first_wiki_para" = "James Buchanan Jr. (/bju\u02d0\u02c8k\u00e6n\u0259n/ bew-KAN-\u0259n; April 23, 1791\u00a0\u2013 June 1, 1868) was the 15th president of the United States, serving from 1857 to 1861. Buchanan also served as the secretary of state from 1845 to 1849 and represented Pennsylvania in both houses of the U.S. Congress. He was an advocate for states' rights, particularly regarding slavery, and minimized the role of the federal government preceding the Civil War."
+            "first_wiki_para" = "James Buchanan Jr. (/bju\u02d0\u02c8k\u00e6n\u0259n/ bew-KAN-\u0259n; April 23, 1791\u00a0\u2013 June 1, 1868) was the 15th president of the United States, serving from 1857 to 1861. Buchanan also served as the secretary of state from 1845 to 1849 and represented Pennsylvania in both houses of the U.S. Congress. He was an advocate for states' rights, particularly regarding slavery, and minimized the role of the federal government preceding the Civil War.". 
+            "personal_details" = {
+                "Born" = [
+                    "April 23 1791Cove Gap Pennsylvania US"
+                ]. 
+                "Died" = [
+                    "June 1 1868 Lancaster Pennsylvania US"
+                ]. 
+                "Resting place" = [
+                    "Woodward Hill Cemetery"
+                ]. 
+                "Political party" = [
+                    "Federalist DemocraticRepublican Democratic"
+                ]. 
+                "Relatives" = [
+                    "Harriet Lane James Buchanan Henry"
+                ]. 
+                "Education" = [
+                    "Dickinson College"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q22686". 
@@ -358,7 +1385,46 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Donald_Trump". 
             "start_mandate" = "2017-01-20". 
             "end_mandate" = "2021-01-20". 
-            "first_wiki_para" = "Donald John Trump (born June 14, 1946) is an American politician, media personality, businessman and president-elect of the United States. He previously served as the 45th president of the United States from 2017 to 2021."
+            "first_wiki_para" = "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. He is currently the president-elect since winning the 2024 presidential election, scheduled to be inaugurated as the 47th president on January 20, 2025. Trump is a member of the Republican Party.". 
+            "personal_details" = {
+                "Born" = [
+                    "Donald John Trump June 14 1946 Queens New York City US"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Reform Democratic Independent"
+                ]. 
+                "Spouses" = [
+                    "Ivana Zeln\u00ed\u010dkov\u00e1 Marla Maples Melania Knauss "
+                ]. 
+                "Children" = [
+                    "Donald Jr". 
+                    "Ivanka". 
+                    "Eric". 
+                    "Tiffany". 
+                    "Barron"
+                ]. 
+                "Relatives" = [
+                    "Trump family"
+                ]. 
+                "Alma mater" = [
+                    "University of Pennsylvania"
+                ]. 
+                "Occupation" = [
+                    "Politicianbusinessmanmedia personality"
+                ]. 
+                "Awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Website" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q23505". 
@@ -370,7 +1436,58 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/George_H._W._Bush". 
             "start_mandate" = "1989-01-20". 
             "end_mandate" = "1993-01-20". 
-            "first_wiki_para" = "George Herbert Walker Bush (June 12, 1924 \u2013 November 30, 2018) was an American politician, diplomat, and businessman who served as the 41st president of the United States from 1989 to 1993. A member of the Republican Party, he also served as the 43rd vice president from 1981 to 1989 under Ronald Reagan and previously in various other federal positions."
+            "first_wiki_para" = "George Herbert Walker Bush (June 12, 1924 \u2013 November 30, 2018) was an American politician, diplomat, and businessman who served as the 41st president of the United States from 1989 to 1993. A member of the Republican Party, he also served as the 43rd vice president from 1981 to 1989 under Ronald Reagan and previously in various other federal positions.". 
+            "personal_details" = {
+                "Born" = [
+                    "George Herbert Walker BushJune 12 1924Milton Massachusetts US"
+                ]. 
+                "Died" = [
+                    "November 30 2018 Houston Texas US"
+                ]. 
+                "Resting place" = [
+                    "George HW Bush Presidential Library and Museum"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Barbara Pierce "
+                ]. 
+                "Children" = [
+                    "George". 
+                    "Robin". 
+                    "Jeb". 
+                    "Neil". 
+                    "Marvin". 
+                    "Dorothy"
+                ]. 
+                "Parent" = [
+                    "Prescott Bush"
+                ]. 
+                "Relatives" = [
+                    "Bush family"
+                ]. 
+                "Education" = [
+                    "Yale University"
+                ]. 
+                "Occupation" = [
+                    "Businessman". 
+                    "diplomat". 
+                    "politician"
+                ]. 
+                "Civilian awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Website" = [
+                    "Presidential Library"
+                ]. 
+                "Nickname" = [
+                    "Skin"
+                ]
+            }
         }. 
         {
             "id" = "Q23685". 
@@ -382,7 +1499,37 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Jimmy_Carter". 
             "start_mandate" = "1977-01-20". 
             "end_mandate" = "1981-01-20". 
-            "first_wiki_para" = "James Earl Carter Jr. (born October 1, 1924) is an American politician and humanitarian who served from 1977 to 1981 as the 39th president of the United States. A member of the Democratic Party, he served from 1963 to 1967 in the Georgia State Senate and from 1971 to 1975 as the 76th governor of Georgia. Carter is the longest-lived president in U.S. history and the first to live to 100 years of age."
+            "first_wiki_para" = "James Earl Carter Jr. (born October 1, 1924) is an American politician and humanitarian who served from 1977 to 1981 as the 39th president of the United States. A member of the Democratic Party, he served from 1963 to 1967 in the Georgia State Senate and from 1971 to 1975 as the 76th governor of Georgia. Carter is the longest-lived president in U.S. history and the first to live to 100 years of age.". 
+            "personal_details" = {
+                "Born" = [
+                    "James Earl Carter Jr October 1 1924 Plains Georgia US"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Rosalynn Smith "
+                ]. 
+                "Children" = [
+                    "4 including Jack and Amy"
+                ]. 
+                "Parents" = [
+                    "James Earl Carter Sr". 
+                    "Bessie Lillian Gordy"
+                ]. 
+                "Relatives" = [
+                    "Carter family"
+                ]. 
+                "Education" = [
+                    "United States Naval Academy"
+                ]. 
+                "Civilian awards" = [
+                    "Full list"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q33866". 
@@ -394,7 +1541,52 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Theodore_Roosevelt". 
             "start_mandate" = "1901-09-14". 
             "end_mandate" = "1909-03-04". 
-            "first_wiki_para" = "Theodore  Roosevelt Jr. (October 27, 1858 \u2013 January 6, 1919), often referred to as Teddy or T.\u00a0R., was the 26th president of the United States, serving from 1901 to 1909. He previously was involved in New York politics, including serving as the state's 33rd governor for two years. He was the vice president under President William McKinley for six months in 1901, assuming the presidency after McKinley's assassination. As president, Roosevelt emerged as a leader of the Republican Party and became a driving force for anti-trust and Progressive policies."
+            "first_wiki_para" = "Theodore  Roosevelt Jr. (October 27, 1858 \u2013 January 6, 1919), often referred to as Teddy or T.\u00a0R., was the 26th president of the United States, serving from 1901 to 1909. He previously was involved in New York politics, including serving as the state's 33rd governor for two years. He was the vice president under President William McKinley for six months in 1901, assuming the presidency after McKinley's assassination. As president, Roosevelt emerged as a leader of the Republican Party and became a driving force for anti-trust and Progressive policies.". 
+            "personal_details" = {
+                "Born" = [
+                    "Theodore Roosevelt\u00a0JrOctober 27 1858Manhattan New York City US"
+                ]. 
+                "Died" = [
+                    "January 6 1919 Oyster Bay New York US"
+                ]. 
+                "Resting place" = [
+                    "Youngs Memorial Cemetery"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Progressive Bull Moose"
+                ]. 
+                "Spouses" = [
+                    "Alice Lee Edith Carow "
+                ]. 
+                "Children" = [
+                    "6"
+                ]. 
+                "Relatives" = [
+                    "Roosevelt family"
+                ]. 
+                "Alma mater" = [
+                    "Harvard University Columbia University"
+                ]. 
+                "Occupation" = [
+                    "Author". 
+                    "conservationist". 
+                    "explorer". 
+                    "historian". 
+                    "naturalist". 
+                    "police commissioner". 
+                    "politician". 
+                    "soldier"
+                ]. 
+                "Civilian awards" = [
+                    "Nobel Peace Prize"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q34296". 
@@ -406,7 +1598,54 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Woodrow_Wilson". 
             "start_mandate" = "1913-03-04". 
             "end_mandate" = "1921-03-04". 
-            "first_wiki_para" = "Thomas Woodrow Wilson (December 28, 1856\u00a0\u2013 February 3, 1924) was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era when Republicans dominated the presidency and legislative branches. As president, Wilson changed the nation's economic policies and led the United States into World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonianism."
+            "first_wiki_para" = "Thomas Woodrow Wilson (December 28, 1856\u00a0\u2013 February 3, 1924) was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era when Republicans dominated the presidency and legislative branches. As president, Wilson changed the nation's economic policies and led the United States into World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonianism.". 
+            "personal_details" = {
+                "Born" = [
+                    "Thomas Woodrow WilsonDecember 28 1856Staunton Virginia US"
+                ]. 
+                "Died" = [
+                    "February 3 1924 Washington DC US"
+                ]. 
+                "Resting place" = [
+                    "Washington National Cathedral"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouses" = [
+                    "Ellen Axson Edith Bolling "
+                ]. 
+                "Children" = [
+                    "Margaret". 
+                    "Jessie". 
+                    "Eleanor"
+                ]. 
+                "Parents" = [
+                    "Joseph Ruggles WilsonJessie Janet Woodrow"
+                ]. 
+                "Alma mater" = [
+                    "Princeton University Johns Hopkins University"
+                ]. 
+                "Occupation" = [
+                    "Academic". 
+                    "politician"
+                ]. 
+                "Awards" = [
+                    "Nobel Peace Prize"
+                ]. 
+                "Signature" = [
+                    "Scientific career"
+                ]. 
+                "Fields" = [
+                    "Political science"
+                ]. 
+                "Institutions" = [
+                    "Princeton UniversityJohns Hopkins University"
+                ]. 
+                "Thesis" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q34597". 
@@ -418,7 +1657,40 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_A._Garfield". 
             "start_mandate" = "1881-03-04". 
             "end_mandate" = "1881-09-19". 
-            "first_wiki_para" = "James Abram Garfield (November 19, 1831 \u2013 September 19, 1881) was the 20th president of the United States, serving from March 1881 until his assassination in September that year. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before his candidacy for the presidency, he had been elected to the U.S. Senate by the Ohio General Assembly\u2014a position he declined when he became president-elect."
+            "first_wiki_para" = "James Abram Garfield (November 19, 1831 \u2013 September 19, 1881) was the 20th president of the United States, serving from March 1881 until his assassination in September that year. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before his candidacy for the presidency, he had been elected to the U.S. Senate by the Ohio General Assembly\u2014a position he declined when he became president-elect.". 
+            "personal_details" = {
+                "Born" = [
+                    "James Abram GarfieldNovember 19 1831Moreland Hills Ohio US"
+                ]. 
+                "Died" = [
+                    "September 19 1881 Elberon New Jersey US"
+                ]. 
+                "Manner\u00a0of\u00a0death" = [
+                    "Massive infection including sepsis and pneumonia after being shot"
+                ]. 
+                "Resting place" = [
+                    "James A Garfield Memorial"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Lucretia Rudolph "
+                ]. 
+                "Children" = [
+                    "7 including Hal James and Abram"
+                ]. 
+                "Education" = [
+                    "Hiram College". 
+                    "Williams College"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyeramateur mathematician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q34836". 
@@ -430,7 +1702,48 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Ulysses_S._Grant". 
             "start_mandate" = "1869-03-04". 
             "end_mandate" = "1877-03-04". 
-            "first_wiki_para" = "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822\u00a0\u2013 July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877. As commanding general, Grant led the Union Army to victory in the American Civil War in 1865."
+            "first_wiki_para" = "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822\u00a0\u2013 July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877. As commanding general, Grant led the Union Army to victory in the American Civil War in 1865.". 
+            "personal_details" = {
+                "Born" = [
+                    "Hiram Ulysses GrantApril 27 1822Point Pleasant Ohio US"
+                ]. 
+                "Died" = [
+                    "July 23 1885 Wilton New York US"
+                ]. 
+                "Resting place" = [
+                    "Grants Tomb New York City"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Julia Dent "
+                ]. 
+                "Children" = [
+                    "Frederick". 
+                    "Ulysses Jr". 
+                    "Nellie". 
+                    "Jesse II"
+                ]. 
+                "Parents" = [
+                    "Jesse Root Grant". 
+                    "Hannah Simpson Grant"
+                ]. 
+                "Education" = [
+                    "United States Military Academy"
+                ]. 
+                "Occupation" = [
+                    "Military officer". 
+                    "politician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]. 
+                "Nicknames" = [
+                    "Sam". 
+                    "Unconditional Surrender"
+                ]
+            }
         }. 
         {
             "id" = "Q35041". 
@@ -442,7 +1755,42 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_McKinley". 
             "start_mandate" = "1897-03-04". 
             "end_mandate" = "1901-09-14". 
-            "first_wiki_para" = "William McKinley (January 29, 1843\u00a0\u2013 September 14, 1901) was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. He presided over victory in the Spanish\u2013American War of 1898; gained control of Hawaii, Puerto Rico, Guam, and the Philippines; restored prosperity after a deep depression; rejected the inflationary monetary policy of free silver, keeping the nation on the gold standard; and raised protective tariffs."
+            "first_wiki_para" = "William McKinley (January 29, 1843\u00a0\u2013 September 14, 1901) was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. He presided over victory in the Spanish\u2013American War of 1898; gained control of Hawaii, Puerto Rico, Guam, and the Philippines; restored prosperity after a deep depression; rejected the inflationary monetary policy of free silver, keeping the nation on the gold standard; and raised protective tariffs.". 
+            "personal_details" = {
+                "Born" = [
+                    "William McKinley JrJanuary 29 1843Niles Ohio US"
+                ]. 
+                "Died" = [
+                    "September 14 1901 Buffalo New York US"
+                ]. 
+                "Manner\u00a0of\u00a0death" = [
+                    "Assassination"
+                ]. 
+                "Resting place" = [
+                    "McKinley National MemorialCanton Ohio"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Ida Saxton "
+                ]. 
+                "Children" = [
+                    "2"
+                ]. 
+                "Parent" = [
+                    "William McKinley Sr"
+                ]. 
+                "Education" = [
+                    "Allegheny CollegeMount Union CollegeAlbany Law School"
+                ]. 
+                "Profession" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35171". 
@@ -454,7 +1802,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Grover_Cleveland". 
             "start_mandate" = "1893-03-04". 
             "end_mandate" = "1897-03-04". 
-            "first_wiki_para" = "Stephen Grover Cleveland (March 18, 1837\u00a0\u2013 June 24, 1908) was the 22nd and 24th president of the United States, serving from 1885 to 1889 and from 1893 to 1897. He was the first Democrat to win the presidency after the Civil War and was one of two Democratic presidents, followed by Woodrow Wilson, in an era when Republicans dominated the presidency between 1869 and 1933. Cleveland won the popular vote in three presidential elections: 1884, 1888 and 1892. In 1888, Benjamin Harrison won the electoral college vote, and thus the presidency. Cleveland won the electoral college in 1892, making him the first U.S. president to serve non-consecutive presidential terms. This was a feat not repeated by any candidate until the 2024 United States presidential election, in which former President Donald Trump became the 45th and 47th President of the United States."
+            "first_wiki_para" = "Stephen Grover Cleveland (March 18, 1837\u00a0\u2013 June 24, 1908) was the 22nd and 24th president of the United States, serving from 1885 to 1889 and from 1893 to 1897. He was the first Democrat to win the presidency after the Civil War and is the first of only two presidents to be elected to non-consecutive presidential terms.". 
+            "personal_details" = {
+                "Born" = [
+                    "Stephen Grover ClevelandMarch 18 1837Caldwell New Jersey US"
+                ]. 
+                "Died" = [
+                    "June 24 1908 Princeton New Jersey US"
+                ]. 
+                "Resting place" = [
+                    "Princeton Cemetery"
+                ]. 
+                "Political party" = [
+                    "Democratic"
+                ]. 
+                "Spouse" = [
+                    "Frances Folsom "
+                ]. 
+                "Children" = [
+                    "6 including Ruth Esther Richard and Francis"
+                ]. 
+                "Parent" = [
+                    "Richard Falley Cleveland"
+                ]. 
+                "Relatives" = [
+                    "Richard Falley Jr Lewis Falley Allen Rose Cleveland Philippa Foot"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35236". 
@@ -466,7 +1846,34 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Herbert_Hoover". 
             "start_mandate" = "1929-03-04". 
             "end_mandate" = "1933-03-04". 
-            "first_wiki_para" = "Herbert Clark Hoover (August 10, 1874 \u2013 October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. A wealthy mining engineer before his presidency, Hoover led the wartime Commission for Relief in Belgium and was the director of the U.S. Food Administration, followed by post-war relief of Europe. A member of the Republican Party, he served as the U.S. Secretary of Commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as lackluster. Amid his unpopularity, he decisively lost reelection to Franklin D. Roosevelt in 1932."
+            "first_wiki_para" = "Herbert Clark Hoover (August 10, 1874 \u2013 October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. A wealthy mining engineer before his presidency, Hoover led the wartime Commission for Relief in Belgium and was the director of the U.S. Food Administration, followed by post-war relief of Europe. A member of the Republican Party, he served as the U.S. Secretary of Commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as lackluster. Amid his unpopularity, he decisively lost reelection to Franklin D. Roosevelt in 1932.". 
+            "personal_details" = {
+                "Born" = [
+                    "Herbert Clark HooverAugust 10 1874West Branch Iowa US"
+                ]. 
+                "Died" = [
+                    "October 20 1964 New York City US"
+                ]. 
+                "Resting place" = [
+                    "Herbert Hoover Presidential Library and Museum"
+                ]. 
+                "Political party" = [
+                    "Independent Republican"
+                ]. 
+                "Spouse" = [
+                    "Lou Henry "
+                ]. 
+                "Children" = [
+                    "Herbert Jr". 
+                    "Allan"
+                ]. 
+                "Education" = [
+                    "Stanford University"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35286". 
@@ -478,7 +1885,40 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Warren_G._Harding". 
             "start_mandate" = "1921-03-04". 
             "end_mandate" = "1923-08-02". 
-            "first_wiki_para" = "Warren Gamaliel Harding (November 2, 1865 \u2013 August 2, 1923) was the 29th president of the United States, serving from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular sitting U.S. presidents while in office. After his death, a number of scandals were exposed, including Teapot Dome, as well as an extramarital affair with Nan Britton, which tarnished his reputation."
+            "first_wiki_para" = "Warren Gamaliel Harding (November 2, 1865 \u2013 August 2, 1923) was the 29th president of the United States, serving from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular sitting U.S. presidents while in office. After his death, a number of scandals were exposed, including Teapot Dome, as well as an extramarital affair with Nan Britton, which tarnished his reputation.". 
+            "personal_details" = {
+                "Born" = [
+                    "Warren Gamaliel HardingNovember 2 1865Blooming Grove Ohio US"
+                ]. 
+                "Died" = [
+                    "August 2 1923 San Francisco California US"
+                ]. 
+                "Resting place" = [
+                    "Harding Tomb"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Florence Kling "
+                ]. 
+                "Children" = [
+                    "Elizabeth"
+                ]. 
+                "Parent" = [
+                    "George Tryon Harding"
+                ]. 
+                "Education" = [
+                    "Ohio Central College"
+                ]. 
+                "Occupation" = [
+                    "Journalist". 
+                    "politician"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35498". 
@@ -490,7 +1930,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Chester_A._Arthur". 
             "start_mandate" = "1881-09-19". 
             "end_mandate" = "1885-03-04". 
-            "first_wiki_para" = "Chester Alan Arthur (October 5, 1829 \u2013 November 18, 1886) was the 21st president of the United States, serving from 1881 to 1885. He was a Republican lawyer from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's presidency saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad."
+            "first_wiki_para" = "Chester Alan Arthur (October 5, 1829 \u2013 November 18, 1886) was the 21st president of the United States, serving from 1881 to 1885. He was a Republican lawyer from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's presidency saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.". 
+            "personal_details" = {
+                "Born" = [
+                    "Chester Alan ArthurOctober 5 1829Fairfield Vermont US"
+                ]. 
+                "Died" = [
+                    "November 18 1886 New York City US"
+                ]. 
+                "Resting place" = [
+                    "Albany Rural Cemetery Menands New York"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Other politicalaffiliations" = [
+                    "Whig"
+                ]. 
+                "Spouse" = [
+                    "Ellen Herndon "
+                ]. 
+                "Children" = [
+                    "WilliamChester IIEllen"
+                ]. 
+                "Parent" = [
+                    "William Arthur"
+                ]. 
+                "Relatives" = [
+                    "Gavin Arthur"
+                ]. 
+                "Education" = [
+                    "Union College State and National Law School"
+                ]. 
+                "Profession" = [
+                    "Lawyercivil servant"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35648". 
@@ -502,7 +1980,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_Howard_Taft". 
             "start_mandate" = "1909-03-04". 
             "end_mandate" = "1913-03-04". 
-            "first_wiki_para" = "William Howard Taft (September 15, 1857\u00a0\u2013 March 8, 1930) was the 27th president of the United States and the tenth chief justice of the United States, the only person to have held both offices. Taft was elected president in 1908 as a Republican but was defeated for reelection in 1912 by Democratic nominee Woodrow Wilson. In 1921, President Warren G. Harding appointed Taft to be chief justice, a position he held until 1930."
+            "first_wiki_para" = "William Howard Taft (September 15, 1857\u00a0\u2013 March 8, 1930) was the 27th president of the United States and the tenth chief justice of the United States, the only person to have held both offices. Taft was elected president in 1908 as a Republican but was defeated for reelection in 1912 by Democratic nominee Woodrow Wilson. In 1921, President Warren G. Harding appointed Taft to be chief justice, a position he held until 1930.". 
+            "personal_details" = {
+                "Born" = [
+                    "September 15 1857Cincinnati Ohio US"
+                ]. 
+                "Died" = [
+                    "March 8 1930 Washington DC US"
+                ]. 
+                "Resting place" = [
+                    "Arlington National Cemetery"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Helen Herron "
+                ]. 
+                "Children" = [
+                    "Robert". 
+                    "Helen". 
+                    "Charles\u00a0II"
+                ]. 
+                "Parents" = [
+                    "Alphonso Taft". 
+                    "Louise Torrey"
+                ]. 
+                "Relatives" = [
+                    "Taft family"
+                ]. 
+                "Education" = [
+                    "Yale University University of Cincinnati"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35678". 
@@ -514,7 +2030,45 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Benjamin_Harrison". 
             "start_mandate" = "1889-03-04". 
             "end_mandate" = "1893-03-04". 
-            "first_wiki_para" = "Benjamin Harrison (August 20, 1833\u00a0\u2013 March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia\u2014a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison\u00a0V, a Founding Father. A Union Army veteran and a Republican, he defeated incumbent Grover Cleveland to win the presidency."
+            "first_wiki_para" = "Benjamin Harrison (August 20, 1833\u00a0\u2013 March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia\u2014a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison\u00a0V, a Founding Father. A Union Army veteran and a Republican, he defeated incumbent Grover Cleveland to win the presidency in 1888; however, was defeated for a second term by Cleveland in 1892.". 
+            "personal_details" = {
+                "Born" = [
+                    "August 20 1833North Bend Ohio US"
+                ]. 
+                "Died" = [
+                    "March 13 1901 Indianapolis Indiana US"
+                ]. 
+                "Resting place" = [
+                    "Crown Hill Cemetery"
+                ]. 
+                "Political party" = [
+                    "Whig Republican"
+                ]. 
+                "Spouses" = [
+                    "Caroline Scott Mary Lord Dimmick "
+                ]. 
+                "Children" = [
+                    "Russell". 
+                    "Mary". 
+                    "Elizabeth"
+                ]. 
+                "Parent" = [
+                    "John Scott Harrison"
+                ]. 
+                "Relatives" = [
+                    "Harrison family"
+                ]. 
+                "Education" = [
+                    "Farmers College". 
+                    "Miami University"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q35686". 
@@ -526,7 +2080,39 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Rutherford_B._Hayes". 
             "start_mandate" = "1877-03-04". 
             "end_mandate" = "1881-03-04". 
-            "first_wiki_para" = "Rutherford Birchard Hayes (/\u02c8r\u028c\u00f0\u0259rf\u0259rd/ \u24d8; October 4, 1822 \u2013 January 17, 1893) was the 19th president of the United States, serving from 1877 to 1881. A staunch abolitionist from Ohio, he was also a brevet major general for the Union army during the American Civil War."
+            "first_wiki_para" = "Rutherford Birchard Hayes (/\u02c8r\u028c\u00f0\u0259rf\u0259rd/ \u24d8; October 4, 1822 \u2013 January 17, 1893) was the 19th president of the United States, serving from 1877 to 1881. A staunch abolitionist from Ohio, he was also a brevet major general for the Union army during the American Civil War.". 
+            "personal_details" = {
+                "Born" = [
+                    "Rutherford Birchard HayesOctober 4 1822Delaware Ohio US"
+                ]. 
+                "Died" = [
+                    "January 17 1893 Fremont Ohio US"
+                ]. 
+                "Resting place" = [
+                    "Spiegel Grove State Park"
+                ]. 
+                "Political party" = [
+                    "Whig Republican"
+                ]. 
+                "Spouse" = [
+                    "Lucy Ware Webb "
+                ]. 
+                "Children" = [
+                    "8 including Webb and Rutherford"
+                ]. 
+                "Relatives" = [
+                    "Carl Edwards"
+                ]. 
+                "Education" = [
+                    "Kenyon College Harvard University"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }. 
         {
             "id" = "Q36023". 
@@ -538,7 +2124,42 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Calvin_Coolidge". 
             "start_mandate" = "1923-08-02". 
             "end_mandate" = "1929-03-04". 
-            "first_wiki_para" = "Calvin Coolidge (born John Calvin Coolidge Jr. /\u02c8ku\u02d0l\u026ad\u0292/ KOOL-ij; July 4, 1872\u00a0\u2013 January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he previously served as the 29th vice president from 1921 to 1923 and as the 48th governor of Massachusetts from 1919 to 1921. Elected vice president in 1920, he succeeded to the presidency upon the sudden death of President Warren G. Harding in August 1923. Elected in his own right in 1924, Coolidge gained a reputation as a small-government conservative with a taciturn personality and dry sense of humor that earned him the nickname \"Silent Cal\". His widespread popularity enabled him to run for a second full term, but Coolidge chose not to run again in 1928, remarking that ten years as president would be \"longer than any other man has had it\u2014too long!\""
+            "first_wiki_para" = "Calvin Coolidge (born John Calvin Coolidge Jr. /\u02c8ku\u02d0l\u026ad\u0292/ KOOL-ij; July 4, 1872\u00a0\u2013 January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he previously served as the 29th vice president from 1921 to 1923 and as the 48th governor of Massachusetts from 1919 to 1921. Elected vice president in 1920, he succeeded to the presidency upon the sudden death of President Warren G. Harding in August 1923. Elected in his own right in 1924, Coolidge gained a reputation as a small-government conservative with a taciturn personality and dry sense of humor that earned him the nickname \"Silent Cal\". His widespread popularity enabled him to run for a second full term, but Coolidge chose not to run again in 1928, remarking that ten years as president would be \"longer than any other man has had it\u2014too long!\"". 
+            "personal_details" = {
+                "Born" = [
+                    "John Calvin Coolidge JrJuly 4 1872Plymouth Notch Vermont US"
+                ]. 
+                "Died" = [
+                    "January 5 1933 Northampton Massachusetts US"
+                ]. 
+                "Resting place" = [
+                    "Plymouth Notch Cemetery"
+                ]. 
+                "Political party" = [
+                    "Republican"
+                ]. 
+                "Spouse" = [
+                    "Grace Goodhue "
+                ]. 
+                "Children" = [
+                    "2 including John"
+                ]. 
+                "Parents" = [
+                    "John Calvin Coolidge SrVictoria Josephine Moor"
+                ]. 
+                "Relatives" = [
+                    "Calvin Galusha Coolidge Park Pollard"
+                ]. 
+                "Education" = [
+                    "Amherst College"
+                ]. 
+                "Occupation" = [
+                    "Politicianlawyer"
+                ]. 
+                "Signature" = [
+                    ""
+                ]
+            }
         }
     ]. 
     "be" = [
@@ -1278,7 +2899,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande". 
             "start_mandate" = "2012-05-15". 
             "end_mandate" = "2017-05-14". 
-            "first_wiki_para" = "Fran\u00e7ois Hollande [f\u0281\u0251\u0303swa \u0254l\u0251\u0303d][n 3] \u00c9couter, n\u00e9 le 12 ao\u00fbt 1954 \u00e0 Rouen (Seine-Inf\u00e9rieure), est un haut fonctionnaire et homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 15 mai 2012 au 14 mai 2017."
+            "first_wiki_para" = "Fran\u00e7ois Hollande  \u00c9couter, n\u00e9 le 12 ao\u00fbt 1954 \u00e0 Rouen (Seine-Inf\u00e9rieure), est un haut fonctionnaire et homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 15 mai 2012 au 14 mai 2017."
         }. 
         {
             "id" = "Q329". 
@@ -1302,7 +2923,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand". 
             "start_mandate" = "1981-05-21". 
             "end_mandate" = "1995-05-17". 
-            "first_wiki_para" = "Fran\u00e7ois Mitterrand [f\u0281\u0251\u0303swa mit\u025b\u0281\u0251\u0303][n 1] \u00c9couter, n\u00e9 le 26 octobre 1916 \u00e0 Jarnac (Charente) et mort le 8 janvier 1996 dans le 7e arrondissement de Paris, est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 21 mai 1981 au 17 mai 1995."
+            "first_wiki_para" = "Fran\u00e7ois Mitterrand  \u00c9couter, n\u00e9 le 26 octobre 1916 \u00e0 Jarnac (Charente) et mort le 8 janvier 1996 dans le 7e arrondissement de Paris, est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 21 mai 1981 au 17 mai 1995."
         }. 
         {
             "id" = "Q2042". 
@@ -1314,7 +2935,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Charles_de_Gaulle". 
             "start_mandate" = "1959-01-08". 
             "end_mandate" = "1969-04-28". 
-            "first_wiki_para" = "Charles de Gaulle (/\u0283a\u0281l d\u0259 \u0261ol/[n 2] \u00c9couter), commun\u00e9ment appel\u00e9 le g\u00e9n\u00e9ral de Gaulle ou parfois simplement le G\u00e9n\u00e9ral, n\u00e9 le 22 novembre 1890 \u00e0 Lille (Nord) et mort le 9 novembre 1970 \u00e0 Colombey-les-Deux-\u00c9glises (Haute-Marne), est un militaire, r\u00e9sistant, homme d'\u00c9tat et \u00e9crivain fran\u00e7ais."
+            "first_wiki_para" = "Charles de Gaulle (/\u0283a\u0281l d\u0259 \u0261ol/ \u00c9couter), commun\u00e9ment appel\u00e9 le g\u00e9n\u00e9ral de Gaulle ou parfois simplement le G\u00e9n\u00e9ral, n\u00e9 le 22 novembre 1890 \u00e0 Lille (Nord) et mort le 9 novembre 1970 \u00e0 Colombey-les-Deux-\u00c9glises (Haute-Marne), est un militaire, r\u00e9sistant, homme d'\u00c9tat et \u00e9crivain fran\u00e7ais."
         }. 
         {
             "id" = "Q2105". 
@@ -1338,7 +2959,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing". 
             "start_mandate" = "1974-05-27". 
             "end_mandate" = "1981-05-21". 
-            "first_wiki_para" = "Val\u00e9ry Giscard d'Estaing [vale\u0281i \u0292iska\u0281 d\u025bst\u025b\u0303] \u00c9couter \u2014\u00a0commun\u00e9ment appel\u00e9 \u00ab\u00a0Giscard\u00a0\u00bb ou d\u00e9sign\u00e9 par ses initiales, \u00ab\u00a0VGE\u00a0\u00bb\u00a0\u2014, n\u00e9 le 2 f\u00e9vrier 1926 \u00e0 Coblence (Allemagne) et mort le 2 d\u00e9cembre 2020 \u00e0 Authon (France), est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique de 1974 \u00e0 1981."
+            "first_wiki_para" = "Val\u00e9ry Giscard d'Estaing  \u00c9couter \u2014\u00a0commun\u00e9ment appel\u00e9 \u00ab\u00a0Giscard\u00a0\u00bb ou d\u00e9sign\u00e9 par ses initiales, \u00ab\u00a0VGE\u00a0\u00bb\u00a0\u2014, n\u00e9 le 2 f\u00e9vrier 1926 \u00e0 Coblence (Allemagne) et mort le 2 d\u00e9cembre 2020 \u00e0 Authon (France), est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique de 1974 \u00e0 1981."
         }. 
         {
             "id" = "Q2185". 
@@ -1638,7 +3259,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Emmanuel_Macron". 
             "start_mandate" = "2017-05-14". 
             "end_mandate" = null. 
-            "first_wiki_para" = "Emmanuel Macron ([\u025bman\u0265\u025bl mak\u0281\u0254\u0303] \u00c9couter), n\u00e9 le 21 d\u00e9cembre 1977 \u00e0 Amiens (Somme), est un haut fonctionnaire, banquier d'affaires et homme d'\u00c9tat fran\u00e7ais. Il est Pr\u00e9sident de la R\u00e9publique fran\u00e7aise depuis le 14 mai 2017."
+            "first_wiki_para" = "Emmanuel Macron ( \u00c9couter), n\u00e9 le 21 d\u00e9cembre 1977 \u00e0 Amiens (Somme), est un haut fonctionnaire, banquier d'affaires et homme d'\u00c9tat fran\u00e7ais. Il est Pr\u00e9sident de la R\u00e9publique fran\u00e7aise depuis le 14 mai 2017."
         }
     ]
 }
