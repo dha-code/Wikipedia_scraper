@@ -1,7 +1,7 @@
 <h1> Wikipedia scraper </h1>
-<h2> Explore about few leaders from aroud the world using this script</h2>
+<h2> Explore about a few leaders from around the world!</h2>
 
-<p> This script gives a JSON file with some information about leader from around the world. </p></br>
+<p> This project gives a JSON file with some information about leaders from around the world. </p></br>
 
 <p><b>Usage</b></p>
 
@@ -14,9 +14,15 @@ https://country-leaders.onrender.com </br>
 Wikipedia </br></br>
 
 <p><b>Dependencies</b></p>
-beautifulsoup4==4.12.3 </br>
-bs4==0.0.2 </br>
-requests==2.32.3 </br> </br>
+
+```
+beautifulsoup4==4.12.3
+bs4==0.0.2
+requests==2.32.3
+```
 
 <p><b>Output file</b></p>
-leaders.json
+<p>leaders.json</p></br>
+
+<p><b>Extra tip!</b></p>
+<p>Go through the Jupyter notebook to learn how the project was built step by step</p> </br>
