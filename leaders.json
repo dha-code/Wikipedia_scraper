@@ -10,7 +10,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/George_Washington". 
             "start_mandate" = "1789-04-30". 
             "end_mandate" = "1797-03-04". 
-            "first_wiki_para" = "George Washington (February 22, 1732\u00a0\u2013 December 14, 1799) was a Founding Father of the United States, military officer, and farmer who served as the first president of the United States from 1789 to 1797. Appointed by the Second Continental Congress as commander of the Continental Army in 1775, Washington led Patriot forces to victory in the American Revolutionary War and then served as president of the Constitutional Convention in 1787, which drafted the current Constitution of the United States. Washington has thus become commonly known as the \"Father of his Country\".". 
+            "first_wiki_para" = "George Washington (February 22, 1732 – December 14, 1799) was a Founding Father of the United States, military officer, and farmer who served as the first president of the United States from 1789 to 1797. Appointed by the Second Continental Congress as commander of the Continental Army in 1775, Washington led Patriot forces to victory in the American Revolutionary War and then served as president of the Constitutional Convention in 1787, which drafted the current Constitution of the United States. Washington has thus become commonly known as the \"Father of his Country\".". 
             "personal_details" = {
                 "Born" = [
                     "February 22 1732 OS February 11 1731Popes Creek Virginia Colony British America"
@@ -107,7 +107,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Abraham_Lincoln". 
             "start_mandate" = "1861-03-04". 
             "end_mandate" = "1865-04-15". 
-            "first_wiki_para" = "Abraham Lincoln (/\u02c8l\u026a\u014bk\u0259n/ LINK-\u0259n; February 12, 1809\u00a0\u2013 April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defending the nation as a constitutional union, defeating the Confederacy, playing a major role in the abolition of slavery, expanding the power of the federal government, and modernizing the U.S. economy.". 
+            "first_wiki_para" = "Abraham Lincoln ( February 12, 1809 – April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defending the nation as a constitutional union, defeating the Confederacy, playing a major role in the abolition of slavery, expanding the power of the federal government, and modernizing the U.S. economy.". 
             "personal_details" = {
                 "Born" = [
                     "February 12 1809Sinking Spring Farm Kentucky US"
@@ -115,7 +115,7 @@
                 "Died" = [
                     "April 15 1865 Washington DC US"
                 ]. 
-                "Manner\u00a0of\u00a0death" = [
+                "Manner of death" = [
                     "Assassination by gunshot"
                 ]. 
                 "Resting place" = [
@@ -128,7 +128,7 @@
                     "National Union"
                 ]. 
                 "Height" = [
-                    "6\u00a0ft 4\u00a0in 1"
+                    "6 ft 4 in 1"
                 ]. 
                 "Spouse" = [
                     "Mary Todd "
@@ -214,7 +214,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Bill_Clinton". 
             "start_mandate" = "1993-01-20". 
             "end_mandate" = "2001-01-20". 
-            "first_wiki_para" = "William Jefferson  Clinton (n\u00e9 Blythe; born August 19, 1946) is an American lawyer and politician  who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as governor of Arkansas from 1979 to 1981 and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat.". 
+            "first_wiki_para" = "William Jefferson Clinton (né Blythe; born August 19, 1946) is an American lawyer and politician who served as the 42nd president of the United States from 1993 to 2001. A member of the Democratic Party, he previously served as governor of Arkansas from 1979 to 1981 and again from 1983 to 1992. Clinton, whose policies reflected a centrist \"Third Way\" political philosophy, became known as a New Democrat.". 
             "personal_details" = {
                 "Born" = [
                     "William Jefferson Blythe III August 19 1946 Hope Arkansas US"
@@ -307,7 +307,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt". 
             "start_mandate" = "1933-03-04". 
             "end_mandate" = "1945-04-12". 
-            "first_wiki_para" = "Franklin Delano Roosevelt (January 30, 1882\u00a0\u2013 April 12, 1945), commonly known by his initials FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. The longest-serving U.S. president, he is the only president to have served more than two terms. His initial two terms were centered on combating the Great Depression, while his third and fourth saw him shift his focus to America's involvement in World War II.". 
+            "first_wiki_para" = "Franklin Delano Roosevelt (January 30, 1882 – April 12, 1945), commonly known by his initials FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. The longest-serving U.S. president, he is the only president to have served more than two terms. His initial two terms were centered on combating the Great Depression, while his third and fourth saw him shift his focus to America's involvement in World War II.". 
             "personal_details" = {
                 "Born" = [
                     "Franklin Delano RooseveltJanuary 30 1882Hyde Park New York US"
@@ -353,7 +353,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Andrew_Johnson". 
             "start_mandate" = "1865-04-15". 
             "end_mandate" = "1869-03-04". 
-            "first_wiki_para" = "Andrew Johnson (December 29, 1808\u00a0\u2013 July 31, 1875) was the 17th president of the United States, serving from 1865 to 1869. He assumed the presidency following the assassination of Abraham Lincoln, as he was vice president at that time. Johnson was a Democrat who ran with Abraham Lincoln on the National Union Party ticket, coming to office as the Civil War concluded. He favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved as well as pardoning ex-Confederates. This led to conflict with the Republican-dominated Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote.". 
+            "first_wiki_para" = "Andrew Johnson (December 29, 1808 – July 31, 1875) was the 17th president of the United States, serving from 1865 to 1869. He assumed the presidency following the assassination of Abraham Lincoln, as he was vice president at that time. Johnson was a Democrat who ran with Abraham Lincoln on the National Union Party ticket, coming to office as the Civil War concluded. He favored quick restoration of the seceded states to the Union without protection for the newly freed people who were formerly enslaved as well as pardoning ex-Confederates. This led to conflict with the Republican-dominated Congress, culminating in his impeachment by the House of Representatives in 1868. He was acquitted in the Senate by one vote.". 
             "personal_details" = {
                 "Born" = [
                     "December 29 1808Raleigh North Carolina US"
@@ -361,7 +361,7 @@
                 "Died" = [
                     "July 31 1875 Elizabethton Tennessee US"
                 ]. 
-                "Cause\u00a0of\u00a0death" = [
+                "Cause of death" = [
                     "Stroke"
                 ]. 
                 "Resting place" = [
@@ -401,7 +401,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Gerald_Ford". 
             "start_mandate" = "1974-08-09". 
             "end_mandate" = "1977-01-20". 
-            "first_wiki_para" = "Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913\u00a0\u2013 December 26, 2006) was the 38th president of the United States, serving from 1974 to 1977. A member of the Republican Party, Ford assumed the presidency after President Richard Nixon resigned, under whom he had served as the 40th vice president from 1973 to 1974. Prior to that, he served as a member of the United States House of Representatives from 1949 to 1973.". 
+            "first_wiki_para" = "Gerald Rudolph Ford Jr. (born Leslie Lynch King Jr.; July 14, 1913 – December 26, 2006) was the 38th president of the United States, serving from 1974 to 1977. A member of the Republican Party, Ford assumed the presidency after President Richard Nixon resigned, under whom he had served as the 40th vice president from 1973 to 1974. Prior to that, he served as a member of the United States House of Representatives from 1949 to 1973.". 
             "personal_details" = {
                 "Born" = [
                     "Leslie Lynch King JrJuly 14 1913Omaha Nebraska US"
@@ -449,7 +449,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Richard_Nixon". 
             "start_mandate" = "1969-01-20". 
             "end_mandate" = "1974-08-09". 
-            "first_wiki_para" = "Richard Milhous Nixon (January 9, 1913\u00a0\u2013 April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he previously served as a representative and senator from California and as the 36th vice president from 1953 to 1961 under President Dwight D. Eisenhower. His presidency saw the reduction of U.S. involvement in the Vietnam War, d\u00e9tente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.". 
+            "first_wiki_para" = "Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he previously served as a representative and senator from California and as the 36th vice president from 1953 to 1961 under President Dwight D. Eisenhower. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.". 
             "personal_details" = {
                 "Born" = [
                     "Richard Milhous NixonJanuary 9 1913Yorba Linda California US"
@@ -496,7 +496,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Lyndon_B._Johnson". 
             "start_mandate" = "1963-11-22". 
             "end_mandate" = "1969-01-20". 
-            "first_wiki_para" = "Lyndon Baines Johnson (/\u02c8l\u026and\u0259n \u02c8be\u026anz/; August 27, 1908\u00a0\u2013\u00a0January 22, 1973), often referred to as LBJ, was the 36th president of the United States, serving from 1963 to 1969. He became president after the assassination of John F. Kennedy, under whom he had served as the 37th vice president from 1961 to 1963. A Democrat from Texas, Johnson previously served as a U.S. representative and U.S. senator.". 
+            "first_wiki_para" = "Lyndon Baines Johnson ( August 27, 1908 – January 22, 1973), often referred to as LBJ, was the 36th president of the United States, serving from 1963 to 1969. He became president after the assassination of John F. Kennedy, under whom he had served as the 37th vice president from 1961 to 1963. A Democrat from Texas, Johnson previously served as a U.S. representative and U.S. senator.". 
             "personal_details" = {
                 "Born" = [
                     "Lyndon Baines JohnsonAugust 27 1908Gillespie County Texas US"
@@ -546,7 +546,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_F._Kennedy". 
             "start_mandate" = "1961-01-20". 
             "end_mandate" = "1963-11-22". 
-            "first_wiki_para" = "John Fitzgerald Kennedy (May 29, 1917 \u2013 November 22, 1963), often referred to as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A Democrat, Kennedy represented Massachusetts in both houses of the United States Congress prior to his presidency.". 
+            "first_wiki_para" = "John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), often referred to as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A Democrat, Kennedy represented Massachusetts in both houses of the United States Congress prior to his presidency.". 
             "personal_details" = {
                 "Born" = [
                     "John Fitzgerald KennedyMay 29 1917Brookline Massachusetts US"
@@ -554,7 +554,7 @@
                 "Died" = [
                     "November 22 1963 Dallas Texas US"
                 ]. 
-                "Manner\u00a0of\u00a0death" = [
+                "Manner of death" = [
                     "Assassination"
                 ]. 
                 "Resting place" = [
@@ -567,7 +567,7 @@
                     "Jacqueline Bouvier "
                 ]. 
                 "Children" = [
-                    "4 including Caroline John\u00a0Jr and Patrick"
+                    "4 including Caroline John Jr and Patrick"
                 ]. 
                 "Parents" = [
                     "Joseph P Kennedy Sr". 
@@ -594,7 +594,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower". 
             "start_mandate" = "1953-01-20". 
             "end_mandate" = "1961-01-20". 
-            "first_wiki_para" = "Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 \u2013 March 28, 1969) was the 34th president of the United States, serving from 1953 to 1961. During World War II, he was Supreme Commander of the Allied Expeditionary Force in Europe and achieved the five-star rank as General of the Army. Eisenhower planned and supervised two of the most consequential military campaigns of World War II: Operation Torch in the North Africa campaign in 1942\u20131943 and the invasion of Normandy in 1944.". 
+            "first_wiki_para" = "Dwight David Eisenhower (born David Dwight Eisenhower; October 14, 1890 – March 28, 1969) was the 34th president of the United States, serving from 1953 to 1961. During World War II, he was Supreme Commander of the Allied Expeditionary Force in Europe and achieved the five-star rank as General of the Army. Eisenhower planned and supervised two of the most consequential military campaigns of World War II: Operation Torch in the North Africa campaign in 1942–1943 and the invasion of Normandy in 1944.". 
             "personal_details" = {
                 "Born" = [
                     "David Dwight EisenhowerOctober 14 1890Denison Texas US"
@@ -644,7 +644,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Ronald_Reagan". 
             "start_mandate" = "1981-01-20". 
             "end_mandate" = "1989-01-20". 
-            "first_wiki_para" = "Ronald Wilson Reagan (February 6, 1911 \u2013 June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement, and his presidency is known as the Reagan era.". 
+            "first_wiki_para" = "Ronald Wilson Reagan (February 6, 1911 – June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement, and his presidency is known as the Reagan era.". 
             "personal_details" = {
                 "Born" = [
                     "Ronald Wilson ReaganFebruary 6 1911Tampico Illinois US"
@@ -701,7 +701,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Harry_S._Truman". 
             "start_mandate" = "1945-04-12". 
             "end_mandate" = "1953-01-20". 
-            "first_wiki_para" = "Harry S. Truman  (May 8, 1884\u00a0\u2013 December 26, 1972) was an American lawyer and politician who was the 33rd president of the United States, serving from 1945 to 1953. A member of the Democratic Party, he served as a United States senator from Missouri from 1935 to 1945 and briefly in 1945 as the 34th vice president of the United States under Franklin D. Roosevelt. Assuming the presidency after Roosevelt's death, Truman implemented the Marshall Plan in the wake of World War II to rebuild the economy of Western Europe and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. He proposed numerous liberal domestic reforms, but few were enacted by the conservative coalition that dominated Congress.". 
+            "first_wiki_para" = "Harry S. Truman (May 8, 1884 – December 26, 1972) was an American lawyer and politician who was the 33rd president of the United States, serving from 1945 to 1953. A member of the Democratic Party, he served as a United States senator from Missouri from 1935 to 1945 and briefly in 1945 as the 34th vice president of the United States under Franklin D. Roosevelt. Assuming the presidency after Roosevelt's death, Truman implemented the Marshall Plan in the wake of World War II to rebuild the economy of Western Europe and established both the Truman Doctrine and NATO to contain the expansion of Soviet communism. He proposed numerous liberal domestic reforms, but few were enacted by the conservative coalition that dominated Congress.". 
             "personal_details" = {
                 "Born" = [
                     "May 8 1884Lamar Missouri US"
@@ -745,10 +745,10 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Adams". 
             "start_mandate" = "1797-03-04". 
             "end_mandate" = "1801-03-04". 
-            "first_wiki_para" = "John Adams (October 30, 1735 \u2013 July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the U.S. government as a senior diplomat in Europe. Adams was the first person to hold the office of vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with important contemporaries, including his wife and adviser Abigail Adams and his friend and political rival Thomas Jefferson.". 
+            "first_wiki_para" = "John Adams (October 30, 1735 – July 4, 1826) was an American statesman, attorney, diplomat, writer, and Founding Father who served as the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the U.S. government as a senior diplomat in Europe. Adams was the first person to hold the office of vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with important contemporaries, including his wife and adviser Abigail Adams and his friend and political rival Thomas Jefferson.". 
             "personal_details" = {
                 "Born" = [
-                    "October 30 1735 OS October 19 1735Braintree Massachusetts Bay British\u00a0America"
+                    "October 30 1735 OS October 19 1735Braintree Massachusetts Bay British America"
                 ]. 
                 "Died" = [
                     "July 4 1826 Quincy Massachusetts US"
@@ -790,7 +790,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Thomas_Jefferson". 
             "start_mandate" = "1801-03-04". 
             "end_mandate" = "1809-03-04". 
-            "first_wiki_para" = "Thomas Jefferson (April 13, 1743 \u2013 July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809. He was the primary author of the Declaration of Independence. Following the American Revolutionary War and before becoming president in 1801, Jefferson was the nation's first U.S. secretary of state under George Washington and then the nation's second vice president under John Adams. Jefferson was a leading proponent of democracy, republicanism, and natural rights, and he produced formative documents and decisions at the state, national, and international levels.". 
+            "first_wiki_para" = "Thomas Jefferson (April 13, 1743 – July 4, 1826) was an American statesman, planter, diplomat, lawyer, architect, philosopher, and Founding Father who served as the third president of the United States from 1801 to 1809. He was the primary author of the Declaration of Independence. Following the American Revolutionary War and before becoming president in 1801, Jefferson was the nation's first U.S. secretary of state under George Washington and then the nation's second vice president under John Adams. Jefferson was a leading proponent of democracy, republicanism, and natural rights, and he produced formative documents and decisions at the state, national, and international levels.". 
             "personal_details" = {
                 "Born" = [
                     "April 13 1743Shadwell Plantation Goochland Virginia Colony"
@@ -836,7 +836,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Madison". 
             "start_mandate" = "1809-03-04". 
             "end_mandate" = "1817-03-04". 
-            "first_wiki_para" = "James Madison (March 16, 1751\u00a0\u2013 June 28, 1836) was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. Madison was popularly acclaimed the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights.". 
+            "first_wiki_para" = "James Madison (March 16, 1751 – June 28, 1836) was an American statesman, diplomat, and Founding Father who served as the fourth president of the United States from 1809 to 1817. Madison was popularly acclaimed the \"Father of the Constitution\" for his pivotal role in drafting and promoting the Constitution of the United States and the Bill of Rights.". 
             "personal_details" = {
                 "Born" = [
                     "James Madison JrMarch 16 1751Port Conway Virginia"
@@ -854,7 +854,7 @@
                     "Federalist 6 7"
                 ]. 
                 "Height" = [
-                    "5\u00a0ft 4\u00a0in 8"
+                    "5 ft 4 in 8"
                 ]. 
                 "Spouse" = [
                     "Dolley Payne "
@@ -880,7 +880,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Monroe". 
             "start_mandate" = "1817-03-04". 
             "end_mandate" = "1825-03-04". 
-            "first_wiki_para" = "James Monroe (/m\u0259n\u02c8ro\u028a/ m\u0259n-ROH; April 28, 1758\u00a0\u2013 July 4, 1831), a Founding Father of the United States, served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president as well as the last president of the Virginia dynasty. He was a member of the Democratic-Republican Party, and his presidency coincided with the Era of Good Feelings, concluding the First Party System era of American politics. He issued the Monroe Doctrine, a policy of limiting European colonialism in the Americas. Monroe previously served as governor of Virginia, a member of the United States Senate, U.S. ambassador to France and Britain, the seventh secretary of state, and the eighth secretary of war.". 
+            "first_wiki_para" = "James Monroe ( April 28, 1758 – July 4, 1831), a Founding Father of the United States, served as the fifth president of the United States from 1817 to 1825. He was the last Founding Father to serve as president as well as the last president of the Virginia dynasty. He was a member of the Democratic-Republican Party, and his presidency coincided with the Era of Good Feelings, concluding the First Party System era of American politics. He issued the Monroe Doctrine, a policy of limiting European colonialism in the Americas. Monroe previously served as governor of Virginia, a member of the United States Senate, U.S. ambassador to France and Britain, the seventh secretary of state, and the eighth secretary of war.". 
             "personal_details" = {
                 "Born" = [
                     "April 28 1758Monroe Hall Virginia British America"
@@ -924,7 +924,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Quincy_Adams". 
             "start_mandate" = "1825-03-04". 
             "end_mandate" = "1829-03-04". 
-            "first_wiki_para" = "John Quincy Adams (/\u02c8kw\u026anzi/ \u24d8; July 11, 1767 \u2013 February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825. During his long diplomatic and political career, Adams served as an ambassador and also as a member of the United States Congress representing Massachusetts in both chambers. He was the eldest son of John Adams, who served as the second president of the United States from 1797 to 1801, and First Lady Abigail Adams. Initially a Federalist like his father, he won election to the presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party.". 
+            "first_wiki_para" = "John Quincy Adams ( July 11, 1767 – February 23, 1848) was the sixth president of the United States, serving from 1825 to 1829. He previously served as the eighth United States secretary of state from 1817 to 1825. During his long diplomatic and political career, Adams served as an ambassador and also as a member of the United States Congress representing Massachusetts in both chambers. He was the eldest son of John Adams, who served as the second president of the United States from 1797 to 1801, and First Lady Abigail Adams. Initially a Federalist like his father, he won election to the presidency as a member of the Democratic-Republican Party, and later, in the mid-1830s, became affiliated with the Whig Party.". 
             "personal_details" = {
                 "Born" = [
                     "July 11 1767Braintree Province of Massachusetts Bay British America"
@@ -974,7 +974,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Andrew_Jackson". 
             "start_mandate" = "1829-03-04". 
             "end_mandate" = "1837-03-04". 
-            "first_wiki_para" = "Andrew Jackson  (March 15, 1767 \u2013 June 8, 1845) was the seventh president of the United States, serving from 1829 to 1837. Before his presidency, he gained fame as a general in the U.S. Army and served in both houses of the U.S. Congress. Often praised as an advocate for ordinary Americans and for his work in preserving the union of states, Jackson has also been criticized for his racial policies, particularly his treatment of Native Americans.". 
+            "first_wiki_para" = "Andrew Jackson (March 15, 1767 – June 8, 1845) was the seventh president of the United States, serving from 1829 to 1837. Before his presidency, he gained fame as a general in the U.S. Army and served in both houses of the U.S. Congress. Often praised as an advocate for ordinary Americans and for his work in preserving the union of states, Jackson has also been criticized for his racial policies, particularly his treatment of Native Americans.". 
             "personal_details" = {
                 "Born" = [
                     "March 15 1767Waxhaw Settlement between North Carolina and South Carolina British America"
@@ -1019,7 +1019,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Martin_Van_Buren". 
             "start_mandate" = "1837-03-04". 
             "end_mandate" = "1841-03-04". 
-            "first_wiki_para" = "Martin Van Buren (/v\u00e6n \u02c8bj\u028a\u0259r\u0259n/ van BURE-\u0259n; Dutch: Maarten van Buren  \u24d8; December 5, 1782 \u2013 July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. A primary founder of the Democratic Party, he served as New York's attorney general and U.S. senator, then briefly as the ninth governor of New York before joining Andrew Jackson's administration as the tenth United States secretary of state, minister to Great Britain, and ultimately the eighth vice president from 1833 to 1837, after being elected on Jackson's ticket in 1832. Van Buren won the presidency in 1836 against divided Whig opponents. Van Buren lost re-election in 1840, and failed to win the Democratic nomination in 1844. Later in his life, Van Buren emerged as an elder statesman and an anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election.". 
+            "first_wiki_para" = "Martin Van Buren ( Dutch: Maarten van Buren ; December 5, 1782 – July 24, 1862) was the eighth president of the United States, serving from 1837 to 1841. A primary founder of the Democratic Party, he served as New York's attorney general and U.S. senator, then briefly as the ninth governor of New York before joining Andrew Jackson's administration as the tenth United States secretary of state, minister to Great Britain, and ultimately the eighth vice president from 1833 to 1837, after being elected on Jackson's ticket in 1832. Van Buren won the presidency in 1836 against divided Whig opponents. Van Buren lost re-election in 1840, and failed to win the Democratic nomination in 1844. Later in his life, Van Buren emerged as an elder statesman and an anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election.". 
             "personal_details" = {
                 "Born" = [
                     "Maarten van BurenDecember 5 1782Kinderhook Province of New York"
@@ -1034,7 +1034,7 @@
                     "DemocraticRepublican Democratic Free Soil"
                 ]. 
                 "Height" = [
-                    "5\u00a0ft 6\u00a0in 1"
+                    "5 ft 6 in 1"
                 ]. 
                 "Spouse" = [
                     "Hannah Hoes "
@@ -1069,7 +1069,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_Henry_Harrison". 
             "start_mandate" = "1841-03-04". 
             "end_mandate" = "1841-04-04". 
-            "first_wiki_para" = "William Henry Harrison (February 9, 1773\u00a0\u2013 April 4, 1841) served as the ninth president of the United States from March 4 to April 4, 1841, the shortest presidency in U.S. history. He was also the first U.S. president to die in office, causing a brief constitutional crisis since presidential succession was not then fully defined in the U.S. Constitution. Harrison was the last president born as a British subject in the Thirteen Colonies and was the grandfather of Benjamin Harrison, the 23rd U.S. president.". 
+            "first_wiki_para" = "William Henry Harrison (February 9, 1773 – April 4, 1841) served as the ninth president of the United States from March 4 to April 4, 1841, the shortest presidency in U.S. history. He was also the first U.S. president to die in office, causing a brief constitutional crisis since presidential succession was not then fully defined in the U.S. Constitution. Harrison was the last president born as a British subject in the Thirteen Colonies and was the grandfather of Benjamin Harrison, the 23rd U.S. president.". 
             "personal_details" = {
                 "Born" = [
                     "February 9 1773Charles City County Virginia British America"
@@ -1077,7 +1077,7 @@
                 "Died" = [
                     "April 4 1841 Washington DC US"
                 ]. 
-                "Cause\u00a0of\u00a0death" = [
+                "Cause of death" = [
                     "Enteric fever"
                 ]. 
                 "Resting place" = [
@@ -1122,7 +1122,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/John_Tyler". 
             "start_mandate" = "1841-04-04". 
             "end_mandate" = "1845-03-04". 
-            "first_wiki_para" = "John Tyler (March 29, 1790 \u2013 January 18, 1862) was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with President William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Henry Clay and other Whig politicians and left Tyler estranged from both of the nation's major political parties at the time.". 
+            "first_wiki_para" = "John Tyler (March 29, 1790 – January 18, 1862) was the tenth president of the United States, serving from 1841 to 1845, after briefly holding office as the tenth vice president in 1841. He was elected vice president on the 1840 Whig ticket with President William Henry Harrison, succeeding to the presidency following Harrison's death 31 days after assuming office. Tyler was a stalwart supporter and advocate of states' rights, including regarding slavery, and he adopted nationalistic policies as president only when they did not infringe on the states' powers. His unexpected rise to the presidency posed a threat to the presidential ambitions of Henry Clay and other Whig politicians and left Tyler estranged from both of the nation's major political parties at the time.". 
             "personal_details" = {
                 "Born" = [
                     "March 29 1790Greenway Plantation Charles City County Virginia US"
@@ -1131,7 +1131,7 @@
                     "January 18 1862 Ballard House Richmond Virginia"
                 ]. 
                 "Resting place" = [
-                    "Hollywood Cemetery Richmond\u00a0Virginia US"
+                    "Hollywood Cemetery Richmond Virginia US"
                 ]. 
                 "Political party" = [
                     "Whig"
@@ -1170,7 +1170,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_K._Polk". 
             "start_mandate" = "1845-03-04". 
             "end_mandate" = "1849-03-04". 
-            "first_wiki_para" = "James Knox Polk (/po\u028ak/; November 2, 1795 \u2013 June 15, 1849) was the 11th president of the United States, serving from 1845 to 1849. A prot\u00e9g\u00e9 of Andrew Jackson and a member of the Democratic Party, he was an advocate of Jacksonian democracy and extending the territory of the United States. Polk led the U.S. into the Mexican\u2013American War, and after winning the war he annexed the Republic of Texas, the Oregon Territory, and the Mexican Cession.". 
+            "first_wiki_para" = "James Knox Polk ( November 2, 1795 – June 15, 1849) was the 11th president of the United States, serving from 1845 to 1849. A protégé of Andrew Jackson and a member of the Democratic Party, he was an advocate of Jacksonian democracy and extending the territory of the United States. Polk led the U.S. into the Mexican–American War, and after winning the war he annexed the Republic of Texas, the Oregon Territory, and the Mexican Cession.". 
             "personal_details" = {
                 "Born" = [
                     "James Knox PolkNovember 2 1795Pineville North Carolina US"
@@ -1214,7 +1214,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Zachary_Taylor". 
             "start_mandate" = "1849-03-04". 
             "end_mandate" = "1850-07-09". 
-            "first_wiki_para" = "Zachary Taylor (November 24, 1784 \u2013 July 9, 1850) was the 12th president of the United States, serving from 1849 until his death in 1850. Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican\u2013American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history.". 
+            "first_wiki_para" = "Zachary Taylor (November 24, 1784 – July 9, 1850) was the 12th president of the United States, serving from 1849 until his death in 1850. Taylor was a career officer in the United States Army, rising to the rank of major general and becoming a national hero for his victories in the Mexican–American War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was to preserve the Union. He died 16 months into his term from a stomach disease. Taylor had the third-shortest presidential term in U.S. history.". 
             "personal_details" = {
                 "Born" = [
                     "November 24 1784Barboursville Virginia US"
@@ -1258,7 +1258,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Millard_Fillmore". 
             "start_mandate" = "1850-07-09". 
             "end_mandate" = "1853-03-04". 
-            "first_wiki_para" = "Millard Fillmore (January 7, 1800 \u2013 March 8, 1874) was the 13th president of the United States, serving from 1850 to 1853, and was the last president to have been a member of the Whig Party while in office. A former member of the U.S. House of Representatives, Fillmore was elected the 12th vice president in 1848, and succeeded to the presidency when Zachary Taylor died in July 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery.". 
+            "first_wiki_para" = "Millard Fillmore (January 7, 1800 – March 8, 1874) was the 13th president of the United States, serving from 1850 to 1853, and was the last president to have been a member of the Whig Party while in office. A former member of the U.S. House of Representatives, Fillmore was elected the 12th vice president in 1848, and succeeded to the presidency when Zachary Taylor died in July 1850. Fillmore was instrumental in passing the Compromise of 1850, which led to a brief truce in the battle over the expansion of slavery.". 
             "personal_details" = {
                 "Born" = [
                     "January 7 1800Moravia New York US"
@@ -1300,7 +1300,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Franklin_Pierce". 
             "start_mandate" = "1853-03-04". 
             "end_mandate" = "1857-03-04". 
-            "first_wiki_para" = "Franklin Pierce (November 23, 1804\u00a0\u2013 October 8, 1869) was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to the nation's unity, he alienated anti-slavery groups by signing the Kansas\u2013Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, after Abraham Lincoln was elected president in 1860, the Southern states seceded, resulting in the American Civil War.". 
+            "first_wiki_para" = "Franklin Pierce (November 23, 1804 – October 8, 1869) was the 14th president of the United States, serving from 1853 to 1857. A northern Democrat who believed that the abolitionist movement was a fundamental threat to the nation's unity, he alienated anti-slavery groups by signing the Kansas–Nebraska Act and enforcing the Fugitive Slave Act. Conflict between North and South continued after Pierce's presidency, and, after Abraham Lincoln was elected president in 1860, the Southern states seceded, resulting in the American Civil War.". 
             "personal_details" = {
                 "Born" = [
                     "November 23 1804Hillsborough New Hampshire US"
@@ -1347,7 +1347,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_Buchanan". 
             "start_mandate" = "1857-03-04". 
             "end_mandate" = "1861-03-04". 
-            "first_wiki_para" = "James Buchanan Jr. (/bju\u02d0\u02c8k\u00e6n\u0259n/ bew-KAN-\u0259n; April 23, 1791\u00a0\u2013 June 1, 1868) was the 15th president of the United States, serving from 1857 to 1861. Buchanan also served as the secretary of state from 1845 to 1849 and represented Pennsylvania in both houses of the U.S. Congress. He was an advocate for states' rights, particularly regarding slavery, and minimized the role of the federal government preceding the Civil War.". 
+            "first_wiki_para" = "James Buchanan Jr. ( April 23, 1791 – June 1, 1868) was the 15th president of the United States, serving from 1857 to 1861. Buchanan also served as the secretary of state from 1845 to 1849 and represented Pennsylvania in both houses of the U.S. Congress. He was an advocate for states' rights, particularly regarding slavery, and minimized the role of the federal government preceding the Civil War.". 
             "personal_details" = {
                 "Born" = [
                     "April 23 1791Cove Gap Pennsylvania US"
@@ -1385,7 +1385,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Donald_Trump". 
             "start_mandate" = "2017-01-20". 
             "end_mandate" = "2021-01-20". 
-            "first_wiki_para" = "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. He is currently the president-elect since winning the 2024 presidential election, scheduled to be inaugurated as the 47th president on January 20, 2025. Trump is a member of the Republican Party.". 
+            "first_wiki_para" = "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021. A member of the Republican Party, he is the president-elect after winning the 2024 presidential election and is scheduled to be inaugurated as the 47th president on January 20, 2025.". 
             "personal_details" = {
                 "Born" = [
                     "Donald John Trump June 14 1946 Queens New York City US"
@@ -1397,7 +1397,7 @@
                     "Reform Democratic Independent"
                 ]. 
                 "Spouses" = [
-                    "Ivana Zeln\u00ed\u010dkov\u00e1 Marla Maples Melania Knauss "
+                    "Ivana Zelníčková Marla Maples Melania Knauss "
                 ]. 
                 "Children" = [
                     "Donald Jr". 
@@ -1436,7 +1436,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/George_H._W._Bush". 
             "start_mandate" = "1989-01-20". 
             "end_mandate" = "1993-01-20". 
-            "first_wiki_para" = "George Herbert Walker Bush (June 12, 1924 \u2013 November 30, 2018) was an American politician, diplomat, and businessman who served as the 41st president of the United States from 1989 to 1993. A member of the Republican Party, he also served as the 43rd vice president from 1981 to 1989 under Ronald Reagan and previously in various other federal positions.". 
+            "first_wiki_para" = "George Herbert Walker Bush (June 12, 1924 – November 30, 2018) was an American politician, diplomat, and businessman who served as the 41st president of the United States from 1989 to 1993. A member of the Republican Party, he also served as the 43rd vice president from 1981 to 1989 under Ronald Reagan and previously in various other federal positions.". 
             "personal_details" = {
                 "Born" = [
                     "George Herbert Walker BushJune 12 1924Milton Massachusetts US"
@@ -1541,10 +1541,10 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Theodore_Roosevelt". 
             "start_mandate" = "1901-09-14". 
             "end_mandate" = "1909-03-04". 
-            "first_wiki_para" = "Theodore  Roosevelt Jr. (October 27, 1858 \u2013 January 6, 1919), often referred to as Teddy or T.\u00a0R., was the 26th president of the United States, serving from 1901 to 1909. He previously was involved in New York politics, including serving as the state's 33rd governor for two years. He was the vice president under President William McKinley for six months in 1901, assuming the presidency after McKinley's assassination. As president, Roosevelt emerged as a leader of the Republican Party and became a driving force for anti-trust and Progressive policies.". 
+            "first_wiki_para" = "Theodore Roosevelt Jr. (October 27, 1858 – January 6, 1919), often referred to as Teddy or T. R., was the 26th president of the United States, serving from 1901 to 1909. He previously was involved in New York politics, including serving as the state's 33rd governor for two years. He was the vice president under President William McKinley for six months in 1901, assuming the presidency after McKinley's assassination. As president, Roosevelt emerged as a leader of the Republican Party and became a driving force for anti-trust and Progressive policies.". 
             "personal_details" = {
                 "Born" = [
-                    "Theodore Roosevelt\u00a0JrOctober 27 1858Manhattan New York City US"
+                    "Theodore Roosevelt JrOctober 27 1858Manhattan New York City US"
                 ]. 
                 "Died" = [
                     "January 6 1919 Oyster Bay New York US"
@@ -1598,7 +1598,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Woodrow_Wilson". 
             "start_mandate" = "1913-03-04". 
             "end_mandate" = "1921-03-04". 
-            "first_wiki_para" = "Thomas Woodrow Wilson (December 28, 1856\u00a0\u2013 February 3, 1924) was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era when Republicans dominated the presidency and legislative branches. As president, Wilson changed the nation's economic policies and led the United States into World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonianism.". 
+            "first_wiki_para" = "Thomas Woodrow Wilson (December 28, 1856 – February 3, 1924) was the 28th president of the United States, serving from 1913 to 1921. He was the only Democrat to serve as president during the Progressive Era when Republicans dominated the presidency and legislative branches. As president, Wilson changed the nation's economic policies and led the United States into World War I. He was the leading architect of the League of Nations, and his stance on foreign policy came to be known as Wilsonianism.". 
             "personal_details" = {
                 "Born" = [
                     "Thomas Woodrow WilsonDecember 28 1856Staunton Virginia US"
@@ -1657,7 +1657,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/James_A._Garfield". 
             "start_mandate" = "1881-03-04". 
             "end_mandate" = "1881-09-19". 
-            "first_wiki_para" = "James Abram Garfield (November 19, 1831 \u2013 September 19, 1881) was the 20th president of the United States, serving from March 1881 until his assassination in September that year. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before his candidacy for the presidency, he had been elected to the U.S. Senate by the Ohio General Assembly\u2014a position he declined when he became president-elect.". 
+            "first_wiki_para" = "James Abram Garfield (November 19, 1831 – September 19, 1881) was the 20th president of the United States, serving from March 1881 until his assassination in September that year. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before his candidacy for the presidency, he had been elected to the U.S. Senate by the Ohio General Assembly—a position he declined when he became president-elect.". 
             "personal_details" = {
                 "Born" = [
                     "James Abram GarfieldNovember 19 1831Moreland Hills Ohio US"
@@ -1665,7 +1665,7 @@
                 "Died" = [
                     "September 19 1881 Elberon New Jersey US"
                 ]. 
-                "Manner\u00a0of\u00a0death" = [
+                "Manner of death" = [
                     "Massive infection including sepsis and pneumonia after being shot"
                 ]. 
                 "Resting place" = [
@@ -1702,7 +1702,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Ulysses_S._Grant". 
             "start_mandate" = "1869-03-04". 
             "end_mandate" = "1877-03-04". 
-            "first_wiki_para" = "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822\u00a0\u2013 July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877. As commanding general, Grant led the Union Army to victory in the American Civil War in 1865.". 
+            "first_wiki_para" = "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822 – July 23, 1885) was the 18th president of the United States, serving from 1869 to 1877. As commanding general, Grant led the Union Army to victory in the American Civil War in 1865.". 
             "personal_details" = {
                 "Born" = [
                     "Hiram Ulysses GrantApril 27 1822Point Pleasant Ohio US"
@@ -1755,7 +1755,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_McKinley". 
             "start_mandate" = "1897-03-04". 
             "end_mandate" = "1901-09-14". 
-            "first_wiki_para" = "William McKinley (January 29, 1843\u00a0\u2013 September 14, 1901) was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. He presided over victory in the Spanish\u2013American War of 1898; gained control of Hawaii, Puerto Rico, Guam, and the Philippines; restored prosperity after a deep depression; rejected the inflationary monetary policy of free silver, keeping the nation on the gold standard; and raised protective tariffs.". 
+            "first_wiki_para" = "William McKinley (January 29, 1843 – September 14, 1901) was the 25th president of the United States, serving from 1897 until his assassination in 1901. A member of the Republican Party, he led a realignment that made Republicans largely dominant in the industrial states and nationwide for decades. He presided over victory in the Spanish–American War of 1898; gained control of Hawaii, Puerto Rico, Guam, and the Philippines; restored prosperity after a deep depression; rejected the inflationary monetary policy of free silver, keeping the nation on the gold standard; and raised protective tariffs.". 
             "personal_details" = {
                 "Born" = [
                     "William McKinley JrJanuary 29 1843Niles Ohio US"
@@ -1763,7 +1763,7 @@
                 "Died" = [
                     "September 14 1901 Buffalo New York US"
                 ]. 
-                "Manner\u00a0of\u00a0death" = [
+                "Manner of death" = [
                     "Assassination"
                 ]. 
                 "Resting place" = [
@@ -1802,7 +1802,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Grover_Cleveland". 
             "start_mandate" = "1893-03-04". 
             "end_mandate" = "1897-03-04". 
-            "first_wiki_para" = "Stephen Grover Cleveland (March 18, 1837\u00a0\u2013 June 24, 1908) was the 22nd and 24th president of the United States, serving from 1885 to 1889 and from 1893 to 1897. He was the first Democrat to win the presidency after the Civil War and is the first of only two presidents to be elected to non-consecutive presidential terms.". 
+            "first_wiki_para" = "Stephen Grover Cleveland (March 18, 1837 – June 24, 1908) was an American politician and lawyer who served as the 22nd and 24th president of the United States from 1885 to 1889 and again from 1893 to 1897. He was the first Democrat to win the presidency following the end of the Civil War and was the first of only two presidents to be elected to non-consecutive terms in office.". 
             "personal_details" = {
                 "Born" = [
                     "Stephen Grover ClevelandMarch 18 1837Caldwell New Jersey US"
@@ -1846,7 +1846,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Herbert_Hoover". 
             "start_mandate" = "1929-03-04". 
             "end_mandate" = "1933-03-04". 
-            "first_wiki_para" = "Herbert Clark Hoover (August 10, 1874 \u2013 October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. A wealthy mining engineer before his presidency, Hoover led the wartime Commission for Relief in Belgium and was the director of the U.S. Food Administration, followed by post-war relief of Europe. A member of the Republican Party, he served as the U.S. Secretary of Commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as lackluster. Amid his unpopularity, he decisively lost reelection to Franklin D. Roosevelt in 1932.". 
+            "first_wiki_para" = "Herbert Clark Hoover (August 10, 1874 – October 20, 1964) was the 31st president of the United States, serving from 1929 to 1933. A wealthy mining engineer before his presidency, Hoover led the wartime Commission for Relief in Belgium and was the director of the U.S. Food Administration, followed by post-war relief of Europe. A member of the Republican Party, he served as the U.S. Secretary of Commerce from 1921 to 1928 before being elected president in 1928. His presidency was dominated by the Great Depression, and his policies and methods to combat it were seen as lackluster. Amid his unpopularity, he decisively lost reelection to Franklin D. Roosevelt in 1932.". 
             "personal_details" = {
                 "Born" = [
                     "Herbert Clark HooverAugust 10 1874West Branch Iowa US"
@@ -1885,7 +1885,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Warren_G._Harding". 
             "start_mandate" = "1921-03-04". 
             "end_mandate" = "1923-08-02". 
-            "first_wiki_para" = "Warren Gamaliel Harding (November 2, 1865 \u2013 August 2, 1923) was the 29th president of the United States, serving from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular sitting U.S. presidents while in office. After his death, a number of scandals were exposed, including Teapot Dome, as well as an extramarital affair with Nan Britton, which tarnished his reputation.". 
+            "first_wiki_para" = "Warren Gamaliel Harding (November 2, 1865 – August 2, 1923) was the 29th president of the United States, serving from 1921 until his death in 1923. A member of the Republican Party, he was one of the most popular sitting U.S. presidents while in office. After his death, a number of scandals were exposed, including Teapot Dome, as well as an extramarital affair with Nan Britton, which tarnished his reputation.". 
             "personal_details" = {
                 "Born" = [
                     "Warren Gamaliel HardingNovember 2 1865Blooming Grove Ohio US"
@@ -1930,7 +1930,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Chester_A._Arthur". 
             "start_mandate" = "1881-09-19". 
             "end_mandate" = "1885-03-04". 
-            "first_wiki_para" = "Chester Alan Arthur (October 5, 1829 \u2013 November 18, 1886) was the 21st president of the United States, serving from 1881 to 1885. He was a Republican lawyer from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's presidency saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.". 
+            "first_wiki_para" = "Chester Alan Arthur (October 5, 1829 – November 18, 1886) was the 21st president of the United States, serving from 1881 to 1885. He was a Republican lawyer from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's presidency saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.". 
             "personal_details" = {
                 "Born" = [
                     "Chester Alan ArthurOctober 5 1829Fairfield Vermont US"
@@ -1980,7 +1980,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/William_Howard_Taft". 
             "start_mandate" = "1909-03-04". 
             "end_mandate" = "1913-03-04". 
-            "first_wiki_para" = "William Howard Taft (September 15, 1857\u00a0\u2013 March 8, 1930) was the 27th president of the United States and the tenth chief justice of the United States, the only person to have held both offices. Taft was elected president in 1908 as a Republican but was defeated for reelection in 1912 by Democratic nominee Woodrow Wilson. In 1921, President Warren G. Harding appointed Taft to be chief justice, a position he held until 1930.". 
+            "first_wiki_para" = "William Howard Taft (September 15, 1857 – March 8, 1930) was the 27th president of the United States and the tenth chief justice of the United States, the only person to have held both offices. Taft was elected president in 1908 as a Republican but was defeated for reelection in 1912 by Democratic nominee Woodrow Wilson. In 1921, President Warren G. Harding appointed Taft to be chief justice, a position he held until 1930.". 
             "personal_details" = {
                 "Born" = [
                     "September 15 1857Cincinnati Ohio US"
@@ -2000,7 +2000,7 @@
                 "Children" = [
                     "Robert". 
                     "Helen". 
-                    "Charles\u00a0II"
+                    "Charles II"
                 ]. 
                 "Parents" = [
                     "Alphonso Taft". 
@@ -2030,7 +2030,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Benjamin_Harrison". 
             "start_mandate" = "1889-03-04". 
             "end_mandate" = "1893-03-04". 
-            "first_wiki_para" = "Benjamin Harrison (August 20, 1833\u00a0\u2013 March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia\u2014a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison\u00a0V, a Founding Father. A Union Army veteran and a Republican, he defeated incumbent Grover Cleveland to win the presidency in 1888; however, was defeated for a second term by Cleveland in 1892.". 
+            "first_wiki_para" = "Benjamin Harrison (August 20, 1833 – March 13, 1901) was the 23rd president of the United States, serving from 1889 to 1893. He was a member of the Harrison family of Virginia—a grandson of the ninth president, William Henry Harrison, and a great-grandson of Benjamin Harrison V, a Founding Father. A Union Army veteran and a Republican, he defeated incumbent Grover Cleveland to win the presidency in 1888; however, was defeated for a second term by Cleveland in 1892.". 
             "personal_details" = {
                 "Born" = [
                     "August 20 1833North Bend Ohio US"
@@ -2080,7 +2080,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Rutherford_B._Hayes". 
             "start_mandate" = "1877-03-04". 
             "end_mandate" = "1881-03-04". 
-            "first_wiki_para" = "Rutherford Birchard Hayes (/\u02c8r\u028c\u00f0\u0259rf\u0259rd/ \u24d8; October 4, 1822 \u2013 January 17, 1893) was the 19th president of the United States, serving from 1877 to 1881. A staunch abolitionist from Ohio, he was also a brevet major general for the Union army during the American Civil War.". 
+            "first_wiki_para" = "Rutherford Birchard Hayes ( October 4, 1822 – January 17, 1893) was the 19th president of the United States, serving from 1877 to 1881. A staunch abolitionist from Ohio, he was also a brevet major general for the Union army during the American Civil War.". 
             "personal_details" = {
                 "Born" = [
                     "Rutherford Birchard HayesOctober 4 1822Delaware Ohio US"
@@ -2124,7 +2124,7 @@
             "wikipedia_url" = "https://en.wikipedia.org/wiki/Calvin_Coolidge". 
             "start_mandate" = "1923-08-02". 
             "end_mandate" = "1929-03-04". 
-            "first_wiki_para" = "Calvin Coolidge (born John Calvin Coolidge Jr. /\u02c8ku\u02d0l\u026ad\u0292/ KOOL-ij; July 4, 1872\u00a0\u2013 January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he previously served as the 29th vice president from 1921 to 1923 and as the 48th governor of Massachusetts from 1919 to 1921. Elected vice president in 1920, he succeeded to the presidency upon the sudden death of President Warren G. Harding in August 1923. Elected in his own right in 1924, Coolidge gained a reputation as a small-government conservative with a taciturn personality and dry sense of humor that earned him the nickname \"Silent Cal\". His widespread popularity enabled him to run for a second full term, but Coolidge chose not to run again in 1928, remarking that ten years as president would be \"longer than any other man has had it\u2014too long!\"". 
+            "first_wiki_para" = "Calvin Coolidge (born John Calvin Coolidge Jr. July 4, 1872 – January 5, 1933) was the 30th president of the United States, serving from 1923 to 1929. A Republican lawyer from Massachusetts, he previously served as the 29th vice president from 1921 to 1923 and as the 48th governor of Massachusetts from 1919 to 1921. Elected vice president in 1920, he succeeded to the presidency upon the sudden death of President Warren G. Harding in August 1923. Elected in his own right in 1924, Coolidge gained a reputation as a small-government conservative with a taciturn personality and dry sense of humor that earned him the nickname \"Silent Cal\". His widespread popularity enabled him to run for a second full term, but Coolidge chose not to run again in 1928, remarking that ten years as president would be \"longer than any other man has had it—too long!\"". 
             "personal_details" = {
                 "Born" = [
                     "John Calvin Coolidge JrJuly 4 1872Plymouth Notch Vermont US"
@@ -2173,7 +2173,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Guy_Verhofstadt". 
             "start_mandate" = "1999-07-12". 
             "end_mandate" = "2008-03-20". 
-            "first_wiki_para" = "Guy Maurice Marie-Louise Verhofstadt (uitspraak\u24d8) (Dendermonde, 11 april 1953) is een Belgisch politicus voor de Open Vlaamse Liberalen en Democraten (Open Vld). Hij was premier van Belgi\u00eb van 12 juli 1999 tot 20 maart 2008 in drie regeringen. Hij be\u00ebindigde zijn actieve politieke carri\u00e8re in het Europees Parlement, waar hij van 2009 tot 2019 fractieleider van de Alliantie van Liberalen en Democraten voor Europa (ALDE) was."
+            "first_wiki_para" = "Guy Maurice Marie-Louise Verhofstadt (Dendermonde, 11 april 1953) is een Belgisch politicus voor de Open Vlaamse Liberalen en Democraten (Open Vld). Hij was premier van België van 12 juli 1999 tot 20 maart 2008 in drie regeringen. Hij beëindigde zijn actieve politieke carrière in het Europees Parlement, waar hij van 2009 tot 2019 fractieleider van de Alliantie van Liberalen en Democraten voor Europa (ALDE) was."
         }. 
         {
             "id" = "Q12981". 
@@ -2185,7 +2185,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Yves_Leterme". 
             "start_mandate" = "2009-11-25". 
             "end_mandate" = "2011-12-06". 
-            "first_wiki_para" = "Yves Camille D\u00e9sir\u00e9 Leterme (Wervik, 6 oktober 1960) is een Belgisch politicus. Hij was onder meer Vlaams minister-president en premier van Belgi\u00eb. Hij was lang boegbeeld van de CD&V en boegbeeld van het toenmalige kartel CD&V/N-VA."
+            "first_wiki_para" = "Yves Camille Désiré Leterme (Wervik, 6 oktober 1960) is een Belgisch politicus. Hij was onder meer Vlaams minister-president en premier van België. Hij was lang boegbeeld van de CD&V en boegbeeld van het toenmalige kartel CD&V/N-VA."
         }. 
         {
             "id" = "Q12983". 
@@ -2197,11 +2197,11 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Herman_Van_Rompuy". 
             "start_mandate" = "2008-12-30". 
             "end_mandate" = "2009-11-25". 
-            "first_wiki_para" = "Herman Achille graaf Van Rompuy (Etterbeek, 31 oktober 1947) is een Belgische politicus van de christendemocratische partij CD&V. Hij was tussen 30 december 2008 en 25 november 2009 de premier van Belgi\u00eb en van 1 januari 2010 tot en met 30 november 2014 voorzitter van de Europese Raad, in de media vaak incorrect 'president van Europa' genoemd. Op 19 november 2009 werd bekendgemaakt dat hij was verkozen tot de eerste permanente voorzitter en op 1 maart 2012 werd Van Rompuy met algemene stemmen door de 27 staatshoofden en regeringsleiders van de EU voor een tweede mandaat benoemd. Na deze termijn was hij niet meer herkiesbaar."
+            "first_wiki_para" = "Herman Achille graaf Van Rompuy (Etterbeek, 31 oktober 1947) is een Belgische politicus van de christendemocratische partij CD&V. Hij was tussen 30 december 2008 en 25 november 2009 de premier van België en van 1 januari 2010 tot en met 30 november 2014 voorzitter van de Europese Raad, in de media vaak incorrect 'president van Europa' genoemd. Op 19 november 2009 werd bekendgemaakt dat hij was verkozen tot de eerste permanente voorzitter en op 1 maart 2012 werd Van Rompuy met algemene stemmen door de 27 staatshoofden en regeringsleiders van de EU voor een tweede mandaat benoemd. Na deze termijn was hij niet meer herkiesbaar."
         }. 
         {
             "id" = "Q14989". 
-            "first_name" = "L\u00e9on". 
+            "first_name" = "Léon". 
             "last_name" = "Delacroix". 
             "birth_date" = "1867-12-27". 
             "death_date" = "1929-10-15". 
@@ -2209,7 +2209,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/L%C3%A9on_Delacroix". 
             "start_mandate" = "1918-11-21". 
             "end_mandate" = "1920-11-20". 
-            "first_wiki_para" = "L\u00e9on Fr\u00e9deric Gustave Delacroix (Sint-Joost-ten-Node, 27 december 1867 \u2013 Baden-Baden, 15 oktober 1929) was een Belgisch katholiek politicus. De L\u00e9on Delacroixstraat in Anderlecht en het metrostation Delacroix werden naar hem vernoemd."
+            "first_wiki_para" = "Léon Fréderic Gustave Delacroix (Sint-Joost-ten-Node, 27 december 1867 – Baden-Baden, 15 oktober 1929) was een Belgisch katholiek politicus. De Léon Delacroixstraat in Anderlecht en het metrostation Delacroix werden naar hem vernoemd."
         }. 
         {
             "id" = "Q14990". 
@@ -2221,7 +2221,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Henri_Carton_de_Wiart". 
             "start_mandate" = "1920-11-20". 
             "end_mandate" = "1921-12-16". 
-            "first_wiki_para" = "Henri Victor Marie Ghislain graaf Carton de Wiart (Brussel, 31 januari 1869 \u2013 Ukkel, 6 mei 1951) (ook als \"Henry\" vermeld) was een Belgische politicus. Hij was Eerste Minister van 1920 tot 1921."
+            "first_wiki_para" = "Henri Victor Marie Ghislain graaf Carton de Wiart (Brussel, 31 januari 1869 – Ukkel, 6 mei 1951) (ook als \"Henry\" vermeld) was een Belgische politicus. Hij was Eerste Minister van 1920 tot 1921."
         }. 
         {
             "id" = "Q14991". 
@@ -2229,15 +2229,15 @@
             "last_name" = "Theunis". 
             "birth_date" = "1873-02-28". 
             "death_date" = "1966-01-04". 
-            "place_of_birth" = "Montegn\u00e9e". 
+            "place_of_birth" = "Montegnée". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Georges_Theunis". 
             "start_mandate" = "1934-11-20". 
             "end_mandate" = "1935-03-25". 
-            "first_wiki_para" = "Georges Emile Pierre L\u00e9onard Theunis (Montegn\u00e9e, 28 februari 1873 \u2013 Brussel, 4 januari 1966) was een Belgisch industrieel en politicus van de Katholieke Partij."
+            "first_wiki_para" = "Georges Emile Pierre Léonard Theunis (Montegnée, 28 februari 1873 – Brussel, 4 januari 1966) was een Belgisch industrieel en politicus van de Katholieke Partij."
         }. 
         {
             "id" = "Q14992". 
-            "first_name" = "Alo\u00efs". 
+            "first_name" = "Aloïs". 
             "last_name" = "Van de Vyvere". 
             "birth_date" = "1871-06-08". 
             "death_date" = "1961-10-22". 
@@ -2269,7 +2269,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Henri_Jaspar". 
             "start_mandate" = "1926-05-20". 
             "end_mandate" = "1931-06-06". 
-            "first_wiki_para" = "Henri Jaspar (Schaarbeek, 28 juli 1870 - Sint-Gillis, 15 februari 1939) was een Belgisch katholiek politicus, die twee keer premier van Belgi\u00eb was."
+            "first_wiki_para" = "Henri Jaspar (Schaarbeek, 28 juli 1870 - Sint-Gillis, 15 februari 1939) was een Belgisch katholiek politicus, die twee keer premier van België was."
         }. 
         {
             "id" = "Q14995". 
@@ -2293,7 +2293,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Paul_van_Zeeland". 
             "start_mandate" = "1935-03-25". 
             "end_mandate" = "1937-11-24". 
-            "first_wiki_para" = "Paul Guillaume van Zeeland (Zinnik, 11 november 1893 \u2013 Brussel, 22 september 1973) was een Belgisch advocaat, econoom, katholiek politicus en staatsman."
+            "first_wiki_para" = "Paul Guillaume van Zeeland (Zinnik, 11 november 1893 – Brussel, 22 september 1973) was een Belgisch advocaat, econoom, katholiek politicus en staatsman."
         }. 
         {
             "id" = "Q14997". 
@@ -2305,7 +2305,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Achiel_Van_Acker". 
             "start_mandate" = "1954-04-23". 
             "end_mandate" = "1958-06-26". 
-            "first_wiki_para" = "Achille Honor\u00e9 (Achiel) Van Acker uitspraak\u24d8 (Brugge, 8 april 1898 \u2013 aldaar, 10 juli 1975) was een Belgisch socialistisch politicus. Hij was viermaal premier van Belgi\u00eb."
+            "first_wiki_para" = "Achille Honoré (Achiel) Van Acker (Brugge, 8 april 1898 – aldaar, 10 juli 1975) was een Belgisch socialistisch politicus. Hij was viermaal premier van België."
         }. 
         {
             "id" = "Q14998". 
@@ -2329,7 +2329,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Gaston_Eyskens". 
             "start_mandate" = "1968-07-17". 
             "end_mandate" = "1973-01-26". 
-            "first_wiki_para" = "Gaston Fran\u00e7ois Marie burggraaf Eyskens (Lier, 1 april 1905 \u2013 Leuven, 3 januari 1988) was drie maal christendemocratisch eerste minister van Belgi\u00eb in de periode tussen 1949 en 1973. Hij was de eerste Belgische regeringsleider die geboren was in de 20e eeuw."
+            "first_wiki_para" = "Gaston François Marie burggraaf Eyskens (Lier, 1 april 1905 – Leuven, 3 januari 1988) was drie maal christendemocratisch eerste minister van België in de periode tussen 1949 en 1973. Hij was de eerste Belgische regeringsleider die geboren was in de 20e eeuw."
         }. 
         {
             "id" = "Q15002". 
@@ -2341,7 +2341,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Leo_Tindemans". 
             "start_mandate" = "1974-04-25". 
             "end_mandate" = "1978-10-20". 
-            "first_wiki_para" = "Leonard Clemence (Leo) Tindemans (Zwijndrecht, 16 april 1922 \u2013 Edegem, 26 december 2014) was een Belgisch politicus voor de CVP  en minister van staat. Hij was eerste minister van twee regeringen in Belgi\u00eb (periode van 25 april 1974 tot 20 oktober 1978) en behaalde het grootste aantal voorkeurstemmen in de Belgische geschiedenis bij de Europese verkiezingen van 1979. Daardoor kreeg hij de bijnaam \"de man van 1 miljoen stemmen\"."
+            "first_wiki_para" = "Leonard Clemence (Leo) Tindemans (Zwijndrecht, 16 april 1922 – Edegem, 26 december 2014) was een Belgisch politicus voor de CVP en minister van staat. Hij was eerste minister van twee regeringen in België (periode van 25 april 1974 tot 20 oktober 1978) en behaalde het grootste aantal voorkeurstemmen in de Belgische geschiedenis bij de Europese verkiezingen van 1979. Daardoor kreeg hij de bijnaam \"de man van 1 miljoen stemmen\"."
         }. 
         {
             "id" = "Q15048". 
@@ -2353,7 +2353,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Elio_Di_Rupo". 
             "start_mandate" = "2011-12-06". 
             "end_mandate" = "2014-10-11". 
-            "first_wiki_para" = "Elio Di Rupo (Morlanwelz, 18 juli 1951) is een Belgische politicus voor de Parti Socialiste (PS). Van 6 december 2011 tot 11 oktober 2014 was hij premier van Belgi\u00eb en werd meermaals minister en minister-president van de Waalse Regering."
+            "first_wiki_para" = "Elio Di Rupo (Morlanwelz, 18 juli 1951) is een Belgische politicus voor de Parti Socialiste (PS). Van 6 december 2011 tot 11 oktober 2014 was hij premier van België en werd meermaals minister en minister-president van de Waalse Regering."
         }. 
         {
             "id" = "Q15056". 
@@ -2365,7 +2365,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jean-Luc_Dehaene". 
             "start_mandate" = "1992-03-07". 
             "end_mandate" = "1999-07-12". 
-            "first_wiki_para" = "Jean Luc Joseph Marie Dehaene uitspraak\u24d8 (Montpellier, 7 augustus 1940 \u2013 Quimper, 15 mei 2014) was van 1992 tot 1999 premier van Belgi\u00eb. Hij was lid van de toenmalige CVP (nu CD&V). Onder zijn regering werd Belgi\u00eb een volwaardige federale staat. Dehaene leidde twee coalitieregeringen met de socialisten en bekleedde verschillende ministerposten voor hij in 1992 eerste minister werd. Van 2000 tot 2007 was hij burgemeester van Vilvoorde. In 2002 werd hij voorgedragen als vicevoorzitter van de Europese Conventie."
+            "first_wiki_para" = "Jean Luc Joseph Marie Dehaene (Montpellier, 7 augustus 1940 – Quimper, 15 mei 2014) was van 1992 tot 1999 premier van België. Hij was lid van de toenmalige CVP (nu CD&V). Onder zijn regering werd België een volwaardige federale staat. Dehaene leidde twee coalitieregeringen met de socialisten en bekleedde verschillende ministerposten voor hij in 1992 eerste minister werd. Van 2000 tot 2007 was hij burgemeester van Vilvoorde. In 2002 werd hij voorgedragen als vicevoorzitter van de Europese Conventie."
         }. 
         {
             "id" = "Q15956". 
@@ -2377,7 +2377,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Frans_Schollaert". 
             "start_mandate" = "1908-01-09". 
             "end_mandate" = "1911-06-17". 
-            "first_wiki_para" = "Fran\u00e7ois Victor Marie Ghislain (Frans) Schollaert (Wilsele, 19 augustus 1851 - Sainte-Adresse, 25 juni 1917) was een Belgisch katholiek politicus."
+            "first_wiki_para" = "François Victor Marie Ghislain (Frans) Schollaert (Wilsele, 19 augustus 1851 - Sainte-Adresse, 25 juni 1917) was een Belgisch katholiek politicus."
         }. 
         {
             "id" = "Q143202". 
@@ -2389,7 +2389,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Pieter_de_Decker". 
             "start_mandate" = "1855-03-30". 
             "end_mandate" = "1857-11-09". 
-            "first_wiki_para" = "Pierre Jacques Fran\u00e7ois (Pieter) de Decker (Zele, 25 januari 1812 - Schaarbeek, 4 januari 1891) was een Belgisch politicus en auteur."
+            "first_wiki_para" = "Pierre Jacques François (Pieter) de Decker (Zele, 25 januari 1812 - Schaarbeek, 4 januari 1891) was een Belgisch politicus en auteur."
         }. 
         {
             "id" = "Q155691". 
@@ -2401,7 +2401,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Paul-Henri_Spaak". 
             "start_mandate" = "1947-03-20". 
             "end_mandate" = "1949-08-11". 
-            "first_wiki_para" = "Paul-Henri Charles Spaak uitspraak\u24d8 (Schaarbeek, 25 januari 1899 - Eigenbrakel, 31 juli 1972) was een Belgisch socialistisch politicus en regeringsleider."
+            "first_wiki_para" = "Paul-Henri Charles Spaak (Schaarbeek, 25 januari 1899 - Eigenbrakel, 31 juli 1972) was een Belgisch socialistisch politicus en regeringsleider."
         }. 
         {
             "id" = "Q202049". 
@@ -2413,19 +2413,19 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Auguste_Beernaert". 
             "start_mandate" = "1884-10-26". 
             "end_mandate" = "1894-03-26". 
-            "first_wiki_para" = "Auguste Marie Fran\u00e7ois (August) Beernaert (Oostende, 26 juli 1829 \u2013 Luzern, 6 oktober 1912) was een Belgisch katholiek politicus en mensenrechtenactivist. In 1909 won hij de Nobelprijs voor de Vrede."
+            "first_wiki_para" = "Auguste Marie François (August) Beernaert (Oostende, 26 juli 1829 – Luzern, 6 oktober 1912) was een Belgisch katholiek politicus en mensenrechtenactivist. In 1909 won hij de Nobelprijs voor de Vrede."
         }. 
         {
             "id" = "Q221781". 
-            "first_name" = "Th\u00e9odore". 
-            "last_name" = "Lef\u00e8vre". 
+            "first_name" = "Théodore". 
+            "last_name" = "Lefèvre". 
             "birth_date" = "1914-01-17". 
             "death_date" = "1973-09-18". 
             "place_of_birth" = "Ghent". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Th%C3%A9o_Lef%C3%A8vre". 
             "start_mandate" = "1961-04-25". 
             "end_mandate" = "1965-07-28". 
-            "first_wiki_para" = "Th\u00e9odore Joseph Alb\u00e9ric Marie Lef\u00e8vre (Gent, 17 januari 1914 \u2013 Sint-Lambrechts-Woluwe, 18 september 1973) was een Belgisch politicus. Hij was premier van Belgi\u00eb van 1961 tot 1965, aan het hoofd van de regering Lef\u00e8vre-Spaak."
+            "first_wiki_para" = "Théodore Joseph Albéric Marie Lefèvre (Gent, 17 januari 1914 – Sint-Lambrechts-Woluwe, 18 september 1973) was een Belgisch politicus. Hij was premier van België van 1961 tot 1965, aan het hoofd van de regering Lefèvre-Spaak."
         }. 
         {
             "id" = "Q250021". 
@@ -2437,19 +2437,19 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Paul_Vanden_Boeynants". 
             "start_mandate" = "1978-10-20". 
             "end_mandate" = "1979-04-03". 
-            "first_wiki_para" = "Paul Emile Fran\u00e7ois Henri Vanden Boeynants (Vorst, 22 mei 1919 \u2013 Aalst, 8 januari 2001), in de media en door hemzelf bijgenaamd 'VDB', was een Belgisch volksvertegenwoordiger, minister en premier. Als ondernemer was hij actief in de vleesindustrie."
+            "first_wiki_para" = "Paul Emile François Henri Vanden Boeynants (Vorst, 22 mei 1919 – Aalst, 8 januari 2001), in de media en door hemzelf bijgenaamd 'VDB', was een Belgisch volksvertegenwoordiger, minister en premier. Als ondernemer was hij actief in de vleesindustrie."
         }. 
         {
             "id" = "Q289570". 
-            "first_name" = "\u00c9tienne". 
+            "first_name" = "Étienne". 
             "last_name" = "Gerlache". 
             "birth_date" = "1785-12-26". 
             "death_date" = "1871-02-10". 
-            "place_of_birth" = "Ch\u00e2teau of Biourge". 
+            "place_of_birth" = "Château of Biourge". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Etienne_de_Gerlache". 
             "start_mandate" = "1831-02-27". 
             "end_mandate" = "1831-03-10". 
-            "first_wiki_para" = "Etienne Constantin baron de Gerlache (Biourge, 25 december 1785 - Elsene, 10 februari 1871) was advocaat, politicus en magistraat in het Verenigd Koninkrijk der Nederlanden en in Belgi\u00eb."
+            "first_wiki_para" = "Etienne Constantin baron de Gerlache (Biourge, 25 december 1785 - Elsene, 10 februari 1871) was advocaat, politicus en magistraat in het Verenigd Koninkrijk der Nederlanden en in België."
         }. 
         {
             "id" = "Q313809". 
@@ -2461,7 +2461,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Wilfried_Martens". 
             "start_mandate" = "1981-12-17". 
             "end_mandate" = "1992-03-07". 
-            "first_wiki_para" = "Wilfried Achiel Emma Martens uitspraak\u24d8 (Sleidinge, 19 april 1936 \u2013 Lokeren, 9 oktober 2013) was een Vlaams-Belgische politicus voor de CD&V (vroeger CVP) en was van april 1979 tot maart 1992 (met een korte onderbreking) eerste minister van Belgi\u00eb."
+            "first_wiki_para" = "Wilfried Achiel Emma Martens (Sleidinge, 19 april 1936 – Lokeren, 9 oktober 2013) was een Vlaams-Belgische politicus voor de CD&V (vroeger CVP) en was van april 1979 tot maart 1992 (met een korte onderbreking) eerste minister van België."
         }. 
         {
             "id" = "Q349477". 
@@ -2473,7 +2473,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Mark_Eyskens". 
             "start_mandate" = "1981-04-06". 
             "end_mandate" = "1981-12-17". 
-            "first_wiki_para" = "Marc Maria Frans burggraaf Eyskens (uitspraak\u24d8) (Leuven, 29 april 1933) is een Belgische emeritus hoogleraar, econoom, politicus en essayist. Van april tot december 1981 was hij premier van Belgi\u00eb."
+            "first_wiki_para" = "Marc Maria Frans burggraaf Eyskens (Leuven, 29 april 1933) is een Belgische emeritus hoogleraar, econoom, politicus en essayist. Van april tot december 1981 was hij premier van België."
         }. 
         {
             "id" = "Q363942". 
@@ -2485,7 +2485,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Pierre_Harmel". 
             "start_mandate" = "1965-07-28". 
             "end_mandate" = "1966-03-19". 
-            "first_wiki_para" = "Pierre Charles Jos\u00e9 Marie graaf Harmel (Ukkel, 16 maart 1911 \u2013 Brussel, 15 november 2009) was een Belgisch advocaat, hoogleraar en christendemocratisch staatsman."
+            "first_wiki_para" = "Pierre Charles José Marie graaf Harmel (Ukkel, 16 maart 1911 – Brussel, 15 november 2009) was een Belgisch advocaat, hoogleraar en christendemocratisch staatsman."
         }. 
         {
             "id" = "Q442578". 
@@ -2497,7 +2497,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Hubert_Pierlot". 
             "start_mandate" = "1939-02-22". 
             "end_mandate" = "1945-02-12". 
-            "first_wiki_para" = "Hubert Marie Eug\u00e8ne Pierlot (Cugnon, 23 december 1883 \u2013 Ukkel, 13 december 1963) was de Belgische eerste minister van 1939 tot 1945."
+            "first_wiki_para" = "Hubert Marie Eugène Pierlot (Cugnon, 23 december 1883 – Ukkel, 13 december 1963) was de Belgische eerste minister van 1939 tot 1945."
         }. 
         {
             "id" = "Q446472". 
@@ -2509,7 +2509,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jean-Baptiste_Nothomb". 
             "start_mandate" = "1841-04-13". 
             "end_mandate" = "1845-07-30". 
-            "first_wiki_para" = "Jean Baptiste Nothomb (Messancy, 3 juli 1805 \u2013 Berlijn, 16 september 1881) was een Belgisch staatsman en diplomaat die een belangrijke rol speelde bij het tot stand komen van de Belgische staat. Zo was hij een van de opstellers van de Belgische grondwet en onderhandelde hij over de verdragen die de Belgische onafhankelijkheid garandeerden."
+            "first_wiki_para" = "Jean Baptiste Nothomb (Messancy, 3 juli 1805 – Berlijn, 16 september 1881) was een Belgisch staatsman en diplomaat die een belangrijke rol speelde bij het tot stand komen van de Belgische staat. Zo was hij een van de opstellers van de Belgische grondwet en onderhandelde hij over de verdragen die de Belgische onafhankelijkheid garandeerden."
         }. 
         {
             "id" = "Q461745". 
@@ -2521,7 +2521,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Edmond_Leburton". 
             "start_mandate" = "1973-01-26". 
             "end_mandate" = "1974-04-25". 
-            "first_wiki_para" = "Edmond Jules Isidore Leburton (Lantremange, 18 april 1915 \u2013 Borgworm, 15 juni 1997) was een Belgisch politicus voor de PSB."
+            "first_wiki_para" = "Edmond Jules Isidore Leburton (Lantremange, 18 april 1915 – Borgworm, 15 juni 1997) was een Belgisch politicus voor de PSB."
         }. 
         {
             "id" = "Q461753". 
@@ -2533,7 +2533,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jean_Duvieusart". 
             "start_mandate" = "1950-06-08". 
             "end_mandate" = "1950-08-16". 
-            "first_wiki_para" = "Jean Pierre Armand Ghislain Marie Duvieusart (Frasnes-lez-Gosselies, 10 april 1900 \u2013 Couillet, 11 oktober 1977) was een Belgisch advocaat en katholiek politicus."
+            "first_wiki_para" = "Jean Pierre Armand Ghislain Marie Duvieusart (Frasnes-lez-Gosselies, 10 april 1900 – Couillet, 11 oktober 1977) was een Belgisch advocaat en katholiek politicus."
         }. 
         {
             "id" = "Q468104". 
@@ -2545,7 +2545,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Joseph_Lebeau". 
             "start_mandate" = "1840-04-18". 
             "end_mandate" = "1841-04-13". 
-            "first_wiki_para" = "Jean Louis Joseph Lebeau (Hoei, 2 januari 1794 \u2013 aldaar, 19 maart 1865) was lid van het Nationaal Congres, Belgisch liberaal volksvertegenwoordiger en eerste minister."
+            "first_wiki_para" = "Jean Louis Joseph Lebeau (Hoei, 2 januari 1794 – aldaar, 19 maart 1865) was lid van het Nationaal Congres, Belgisch liberaal volksvertegenwoordiger en eerste minister."
         }. 
         {
             "id" = "Q468109". 
@@ -2557,11 +2557,11 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Charles_Rogier". 
             "start_mandate" = "1857-11-09". 
             "end_mandate" = "1868-01-03". 
-            "first_wiki_para" = "Charles Latour Rogier (Nederlands, verouderd: Karel Rogier; Saint-Quentin 17 augustus 1800 \u2013 Sint-Joost-ten-Node, 27 mei 1885) was een Belgisch politicus en een van de grondleggers van de Belgische staat."
+            "first_wiki_para" = "Charles Latour Rogier (Nederlands, verouderd: Karel Rogier; Saint-Quentin 17 augustus 1800 – Sint-Joost-ten-Node, 27 mei 1885) was een Belgisch politicus en een van de grondleggers van de Belgische staat."
         }. 
         {
             "id" = "Q472257". 
-            "first_name" = "Barth\u00e9lemy". 
+            "first_name" = "Barthélemy". 
             "last_name" = "None". 
             "birth_date" = "1794-02-26". 
             "death_date" = "1874-08-24". 
@@ -2569,7 +2569,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Barth%C3%A9lemy_de_Theux_de_Meylandt". 
             "start_mandate" = "1871-12-07". 
             "end_mandate" = "1874-08-21". 
-            "first_wiki_para" = "Barth\u00e9lemy-Th\u00e9odore graaf de Theux de Meylandt (Sint-Truiden, 26 februari 1794 \u2013 Heusden, 21 augustus 1874) was een Belgisch staatsman, eerste minister en lid van het Nationaal Congres."
+            "first_wiki_para" = "Barthélemy-Théodore graaf de Theux de Meylandt (Sint-Truiden, 26 februari 1794 – Heusden, 21 augustus 1874) was een Belgisch staatsman, eerste minister en lid van het Nationaal Congres."
         }. 
         {
             "id" = "Q472276". 
@@ -2581,7 +2581,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Felix_de_M%C3%BBelenaere". 
             "start_mandate" = "1831-07-24". 
             "end_mandate" = "1832-10-20". 
-            "first_wiki_para" = "Felix Amandus de M\u00fbelenaere (Pittem, 9 april 1793 \u2013 aldaar, 5 augustus 1862) was een Belgisch unionistisch politicus."
+            "first_wiki_para" = "Felix Amandus de Mûelenaere (Pittem, 9 april 1793 – aldaar, 5 augustus 1862) was een Belgisch unionistisch politicus."
         }. 
         {
             "id" = "Q476596". 
@@ -2593,19 +2593,19 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Alexander_De_Croo". 
             "start_mandate" = "2020-10-01". 
             "end_mandate" = null. 
-            "first_wiki_para" = "Alexander Francis Herman De Croo (Vilvoorde, 3 november 1975) is een Belgisch politicus voor Open Vld. Sedert 1 oktober 2020 is De Croo premier van Belgi\u00eb van de zogenaamde Vivaldicoalitie. Hij volgde Sophie Wilm\u00e8s op en is de eerste Vlaamse premier in iets minder dan 10 jaar."
+            "first_wiki_para" = "Alexander Francis Herman De Croo (Vilvoorde, 3 november 1975) is een Belgisch politicus voor Open Vld. Sedert 1 oktober 2020 is De Croo premier van België van de zogenaamde Vivaldicoalitie. Hij volgde Sophie Wilmès op en is de eerste Vlaamse premier in iets minder dan 10 jaar."
         }. 
         {
             "id" = "Q527479". 
             "first_name" = "Henri". 
-            "last_name" = "de Brouck\u00e8re". 
+            "last_name" = "de Brouckère". 
             "birth_date" = "1801-01-25". 
             "death_date" = "1891-01-25". 
             "place_of_birth" = "Bruges". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Henri_de_Brouck%C3%A8re". 
             "start_mandate" = "1852-10-31". 
             "end_mandate" = "1855-03-30". 
-            "first_wiki_para" = "Henri Ghislain Joseph Marie Hyacinthe de Brouck\u00e8re (Brugge, 25 januari 1801 - Brussel, 25 januari 1891) was een Belgisch liberaal politicus. Hij was onder meer eerste minister, volksvertegenwoordiger en lid van het Belgisch Nationaal Congres."
+            "first_wiki_para" = "Henri Ghislain Joseph Marie Hyacinthe de Brouckère (Brugge, 25 januari 1801 - Brussel, 25 januari 1891) was een Belgisch liberaal politicus. Hij was onder meer eerste minister, volksvertegenwoordiger en lid van het Belgisch Nationaal Congres."
         }. 
         {
             "id" = "Q533339". 
@@ -2617,7 +2617,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Albert_Goblet_d%27Alviella". 
             "start_mandate" = "1832-10-20". 
             "end_mandate" = "1834-08-04". 
-            "first_wiki_para" = "Albert Joseph Goblet, sinds 1838 graaf Goblet d'Alviella (Doornik, 26 mei 1790 \u2013 Brussel, 5 mei 1873) was een Belgisch politicus en officier."
+            "first_wiki_para" = "Albert Joseph Goblet, sinds 1838 graaf Goblet d'Alviella (Doornik, 26 mei 1790 – Brussel, 5 mei 1873) was een Belgisch politicus en officier."
         }. 
         {
             "id" = "Q546727". 
@@ -2629,7 +2629,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Sylvain_Van_de_Weyer". 
             "start_mandate" = "1845-07-30". 
             "end_mandate" = "1846-03-31". 
-            "first_wiki_para" = "Jean-Sylvain Van de Weyer  (Leuven, 19 januari 1802 \u2013 Londen, 23 mei 1874), beter bekend als Sylvain Van de Weyer, was een van de grondleggers van de Belgische Staat, en later ook eerste minister."
+            "first_wiki_para" = "Jean-Sylvain Van de Weyer (Leuven, 19 januari 1802 – Londen, 23 mei 1874), beter bekend als Sylvain Van de Weyer, was een van de grondleggers van de Belgische Staat, en later ook eerste minister."
         }. 
         {
             "id" = "Q569138". 
@@ -2645,7 +2645,7 @@
         }. 
         {
             "id" = "Q665955". 
-            "first_name" = "Paul-\u00c9mile". 
+            "first_name" = "Paul-Émile". 
             "last_name" = "None". 
             "birth_date" = "1872-05-30". 
             "death_date" = "1944-03-03". 
@@ -2665,7 +2665,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jules_Malou". 
             "start_mandate" = "1884-06-16". 
             "end_mandate" = "1884-10-26". 
-            "first_wiki_para" = "Jules Edouard Fran\u00e7ois-Xavier Malou (Ieper, 19 oktober 1810 - Sint-Lambrechts-Woluwe, 11 juli 1886) was een Belgisch politicus. Hij was onder meer leider van de Katholieke Partij, volksvertegenwoordiger, senator en eerste minister."
+            "first_wiki_para" = "Jules Edouard François-Xavier Malou (Ieper, 19 oktober 1810 - Sint-Lambrechts-Woluwe, 11 juli 1886) was een Belgisch politicus. Hij was onder meer leider van de Katholieke Partij, volksvertegenwoordiger, senator en eerste minister."
         }. 
         {
             "id" = "Q705103". 
@@ -2685,11 +2685,11 @@
             "last_name" = "Pholien". 
             "birth_date" = "1884-12-28". 
             "death_date" = "1968-01-04". 
-            "place_of_birth" = "Li\u00e8ge". 
+            "place_of_birth" = "Liège". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Joseph_Pholien". 
             "start_mandate" = "1950-08-16". 
             "end_mandate" = "1952-01-15". 
-            "first_wiki_para" = "Joseph Clovis Louis Marie Emmanuel Pholien (Luik, 28 december 1884 \u2013 Brussel, 4 januari 1968) was een Belgisch politicus van de PSC."
+            "first_wiki_para" = "Joseph Clovis Louis Marie Emmanuel Pholien (Luik, 28 december 1884 – Brussel, 4 januari 1968) was een Belgisch politicus van de PSC."
         }. 
         {
             "id" = "Q705128". 
@@ -2701,23 +2701,23 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jean_Van_Houtte". 
             "start_mandate" = "1952-01-15". 
             "end_mandate" = "1954-04-23". 
-            "first_wiki_para" = "Jean Maria Josephus baron Van Houtte (Gent, 17 maart 1907 \u2013 Brussel, 23 mei 1991) was een Belgisch advocaat, hoogleraar en politicus van de CVP."
+            "first_wiki_para" = "Jean Maria Josephus baron Van Houtte (Gent, 17 maart 1907 – Brussel, 23 mei 1991) was een Belgisch advocaat, hoogleraar en politicus van de CVP."
         }. 
         {
             "id" = "Q705791". 
-            "first_name" = "Walth\u00e8re". 
-            "last_name" = "Fr\u00e8re". 
+            "first_name" = "Walthère". 
+            "last_name" = "Frère". 
             "birth_date" = "1812-04-22". 
             "death_date" = "1896-01-02". 
-            "place_of_birth" = "Li\u00e8ge". 
+            "place_of_birth" = "Liège". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Walth%C3%A8re_Fr%C3%A8re-Orban". 
             "start_mandate" = "1878-06-19". 
             "end_mandate" = "1884-06-16". 
-            "first_wiki_para" = "Hubert Joseph Walth\u00e8re Fr\u00e8re-Orban (Luik, 24 april 1812 \u2013 Brussel, 2 januari 1896) was een Belgisch liberaal politicus die zijn stempel heeft gedrukt op de eerste halve eeuw onafhankelijkheid van Belgi\u00eb."
+            "first_wiki_para" = "Hubert Joseph Walthère Frère-Orban (Luik, 24 april 1812 – Brussel, 2 januari 1896) was een Belgisch liberaal politicus die zijn stempel heeft gedrukt op de eerste halve eeuw onafhankelijkheid van België."
         }. 
         {
             "id" = "Q719483". 
-            "first_name" = "G\u00e9rard". 
+            "first_name" = "Gérard". 
             "last_name" = "Cooreman". 
             "birth_date" = "1852-03-25". 
             "death_date" = "1926-12-02". 
@@ -2725,7 +2725,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Gerard_Cooreman". 
             "start_mandate" = "1918-06-01". 
             "end_mandate" = "1918-11-21". 
-            "first_wiki_para" = "G\u00e9rard Fran\u00e7ois Marie (Gerard) Cooreman (Gent, 25 maart 1852 \u2013 Brussel, 2 december 1926) was een Belgisch advocaat en politicus voor de katholieke Partij."
+            "first_wiki_para" = "Gérard François Marie (Gerard) Cooreman (Gent, 25 maart 1852 – Brussel, 2 december 1926) was een Belgisch advocaat en politicus voor de katholieke Partij."
         }. 
         {
             "id" = "Q721772". 
@@ -2737,7 +2737,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Jules_Vandenpeereboom". 
             "start_mandate" = "1899-01-24". 
             "end_mandate" = "1899-08-05". 
-            "first_wiki_para" = "Jules Pierre Henri Fran\u00e7ois Xavier Vandenpeereboom (Kortrijk, 18 maart 1843 - Anderlecht, 6 maart 1917) was een Belgisch katholiek politicus."
+            "first_wiki_para" = "Jules Pierre Henri François Xavier Vandenpeereboom (Kortrijk, 18 maart 1843 - Anderlecht, 6 maart 1917) was een Belgisch katholiek politicus."
         }. 
         {
             "id" = "Q721781". 
@@ -2749,7 +2749,7 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Paul_de_Smet_de_Naeyer". 
             "start_mandate" = "1899-08-05". 
             "end_mandate" = "1907-05-02". 
-            "first_wiki_para" = "Paul Joseph graaf de Smet de Naeyer (Gent, 13 mei 1843 \u2013 Brussel, 9 september 1913) was een Belgisch katholiek politicus."
+            "first_wiki_para" = "Paul Joseph graaf de Smet de Naeyer (Gent, 13 mei 1843 – Brussel, 9 september 1913) was een Belgisch katholiek politicus."
         }. 
         {
             "id" = "Q721798". 
@@ -2785,19 +2785,19 @@
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Charles_Michel". 
             "start_mandate" = "2014-10-11". 
             "end_mandate" = "2019-10-27". 
-            "first_wiki_para" = "Charles Yves Jean Ghislaine Michel (Namen, 21 december 1975) is een Belgisch politicus voor de partij Mouvement R\u00e9formateur (MR). Van 11 oktober 2014 tot 27 oktober 2019 was hij premier van Belgi\u00eb in de regeringen Michel I en Michel II. Op 2 juli 2019 werd hij verkozen als voorzitter van de Europese Raad, in opvolging van Donald Tusk, een functie die hij sinds 1 december 2019 uitoefent."
+            "first_wiki_para" = "Charles Yves Jean Ghislaine Michel (Namen, 21 december 1975) is een Belgisch politicus voor de partij Mouvement Réformateur (MR). Van 11 oktober 2014 tot 27 oktober 2019 was hij premier van België in de regeringen Michel I en Michel II. Op 2 juli 2019 werd hij verkozen als voorzitter van de Europese Raad, in opvolging van Donald Tusk, een functie die hij sinds 1 december 2019 uitoefent."
         }. 
         {
             "id" = "Q18434995". 
             "first_name" = "Sophie". 
-            "last_name" = "Wilm\u00e8s". 
+            "last_name" = "Wilmès". 
             "birth_date" = "1975-01-15". 
             "death_date" = null. 
             "place_of_birth" = "Ixelles - Elsene". 
             "wikipedia_url" = "https://nl.wikipedia.org/wiki/Sophie_Wilm%C3%A8s". 
             "start_mandate" = "2019-10-27". 
             "end_mandate" = "2020-10-01". 
-            "first_wiki_para" = "Sophie Wilm\u00e8s (Elsene, 15 januari 1975) is een Belgisch politica van de MR. Van 27 oktober 2019 tot 1 oktober 2020 was ze de eerste vrouwelijke premier van Belgi\u00eb. Vanaf 1 oktober 2020 was ze vicepremier en minister van Buitenlandse Zaken en Buitenlandse Handel. Om familiale redenen legde ze op 21 april 2022 haar bevoegdheden als minister tijdelijk neer. Op 15 juli 2022 legde ze haar functie definitief neer."
+            "first_wiki_para" = "Sophie Wilmès (Elsene, 15 januari 1975) is een Belgisch politica van de MR. Van 27 oktober 2019 tot 1 oktober 2020 was ze de eerste vrouwelijke premier van België. Vanaf 1 oktober 2020 was ze vicepremier en minister van Buitenlandse Zaken en Buitenlandse Handel. Om familiale redenen legde ze op 21 april 2022 haar bevoegdheden als minister tijdelijk neer. Op 15 juli 2022 legde ze haar functie definitief neer."
         }
     ]. 
     "ma" = [
@@ -2811,7 +2811,7 @@
             "wikipedia_url" = "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%B3%D9%86". 
             "start_mandate" = "1999-07-23". 
             "end_mandate" = null. 
-            "first_wiki_para" = "\u0645\u064f\u062d\u0645\u062f \u0627\u0644\u0633\u0627\u062f\u0633 \u0628\u0646 \u0627\u0644\u062d\u0633\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0627\u0644\u0639\u0644\u0648\u064a (\u0645\u0648\u0627\u0644\u064a\u062f 21 \u0623\u063a\u0633\u0637\u0633 1963) \u0647\u0648 \u0645\u0644\u0643 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629 \u0645\u0646\u0630 \u0639\u0627\u0645 1999 \u0648\u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062b\u0627\u0644\u062b \u0648\u0627\u0644\u0639\u0634\u0631\u0648\u0646 \u0644\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 \u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u0639\u0644\u0648\u064a\u064a\u0646 \u0627\u0644\u0641\u064a\u0644\u0627\u0644\u064a\u064a\u0646\u060c \u062a\u0648\u0644\u0649 \u0627\u0644\u062d\u0643\u0645 \u062e\u0644\u0641\u064b\u0627 \u0644\u0648\u0627\u0644\u062f\u0647 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062d\u0633\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0628\u0639\u062f \u0648\u0641\u0627\u062a\u0647\u060c \u0648\u0628\u0648\u064a\u0639 \u0645\u0644\u0643\u064b\u0627 \u064a\u0648\u0645 \u0627\u0644\u062c\u0645\u0639\u0629 9 \u0631\u0628\u064a\u0639 \u0627\u0644\u062b\u0627\u0646\u064a \u0633\u0646\u0629 1420 \u0647\u0640 \u0627\u0644\u0645\u0648\u0627\u0641\u0642 23 \u064a\u0648\u0644\u064a\u0648 1999 \u0628\u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0645\u0644\u0643\u064a \u0628\u0627\u0644\u0631\u0628\u0627\u0637."
+            "first_wiki_para" = "مُحمد السادس بن الحسن الثاني العلوي (مواليد 21 أغسطس 1963) هو ملك المملكة المغربية منذ عام 1999 والملك الثالث والعشرون للمغرب من سلالة العلويين الفيلاليين، تولى الحكم خلفًا لوالده الملك الحسن الثاني بعد وفاته، وبويع ملكًا يوم الجمعة 9 ربيع الثاني سنة 1420 هـ الموافق 23 يوليو 1999 بالقصر الملكي بالرباط."
         }. 
         {
             "id" = "Q69103". 
@@ -2823,7 +2823,7 @@
             "wikipedia_url" = "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF". 
             "start_mandate" = "1961-02-26". 
             "end_mandate" = "1999-07-23". 
-            "first_wiki_para" = "\u0627\u0644\u062d\u064e\u0633\u064e\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0628\u0650\u0646\u0652 \u0645\u064f\u062d\u0645\u062f \u0628\u0650\u0646\u0652 \u064a\u0648\u0633\u0641 \u0627\u0644\u0639\u064e\u0644\u0648\u064a (9 \u064a\u0648\u0644\u064a\u0648 1929 \u2013 23 \u064a\u0648\u0644\u064a\u0648 1999)\u060c \u062b\u0627\u0646\u064a \u0645\u0644\u0648\u0643 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629 \u0628\u0639\u062f \u0627\u0644\u0625\u0633\u062a\u0642\u0644\u0627\u0644\u060c \u0648\u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062b\u0627\u0646\u064a \u0648\u0627\u0644\u0639\u0634\u0631\u064a\u0646 \u0644\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 \u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u0639\u0644\u0648\u064a\u064a\u0646 \u0627\u0644\u0641\u064a\u0644\u0627\u0644\u064a\u064a\u0646\u060c \u062a\u0648\u0644\u0649 \u062d\u0643\u0645 \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629 \u062e\u0644\u0641\u064b\u0627 \u0644\u0648\u0627\u0644\u062f\u0647 \u0627\u0644\u0645\u0644\u0643 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u0641\u064a 26 \u0641\u0628\u0631\u0627\u064a\u0631 1961 \u0648\u062d\u062a\u0649 \u0648\u0641\u0627\u062a\u0647 \u0641\u064a 23 \u064a\u0648\u0644\u064a\u0648 1999. \u064a\u0646\u062a\u0645\u064a \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062d\u0633\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0625\u0644\u0649 \u0627\u0644\u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u0639\u0644\u0648\u064a\u0629 \u0627\u0644\u062a\u064a \u062a\u0639\u0648\u062f \u0641\u064a \u0646\u0633\u0628\u0647\u0627 \u0625\u0644\u0649 \u0627\u0644\u062d\u0633\u0646 \u0628\u0646 \u0639\u0644\u064a \u0628\u0646 \u0623\u0628\u064a \u0637\u0627\u0644\u0628\u060c \u0648\u062a\u062d\u0643\u0645 \u0627\u0644\u0645\u063a\u0631\u0628 \u0645\u0646\u0630 \u0639\u0627\u0645 1666 \u0645\u064a\u0644\u0627\u062f\u064a\u0629 \u0648\u064a\u0644\u0642\u0628 \u0627\u0644\u062d\u0627\u0643\u0645 \u0645\u0646\u0647\u0645 \u0628\u0623\u0645\u064a\u0631 \u0627\u0644\u0645\u0624\u0645\u0646\u064a\u0646."
+            "first_wiki_para" = "الحَسَن الثاني بِنْ مُحمد بِنْ يوسف العَلوي (9 يوليو 1929 – 23 يوليو 1999)، ثاني ملوك المملكة المغربية بعد الإستقلال، والملك الثاني والعشرين للمغرب من سلالة العلويين الفيلاليين، تولى حكم المملكة المغربية خلفًا لوالده الملك محمد الخامس في 26 فبراير 1961 وحتى وفاته في 23 يوليو 1999. ينتمي الملك الحسن الثاني إلى السلالة العلوية التي تعود في نسبها إلى الحسن بن علي بن أبي طالب، وتحكم المغرب منذ عام 1666 ميلادية ويلقب الحاكم منهم بأمير المؤمنين."
         }. 
         {
             "id" = "Q193874". 
@@ -2835,7 +2835,7 @@
             "wikipedia_url" = "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3_%D8%A8%D9%86_%D9%8A%D9%88%D8%B3%D9%81". 
             "start_mandate" = "1957-08-14". 
             "end_mandate" = "1961-02-26". 
-            "first_wiki_para" = "\u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u0628\u0646 \u064a\u0648\u0633\u0641 \u0628\u0646 \u0627\u0644\u062d\u0633\u0646 \u0628\u0646 \u0645\u062d\u0645\u062f \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646 \u0628\u0646 \u0647\u0634\u0627\u0645 \u0628\u0646 \u0645\u062d\u0645\u062f \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0628\u0646 \u0625\u0633\u0645\u0627\u0639\u064a\u0644 \u0628\u0646 \u0625\u0633\u0645\u0627\u0639\u064a\u0644 \u0628\u0646 \u0627\u0644\u0634\u0631\u064a\u0641 \u0628\u0646 \u0639\u0644\u064a \u0627\u0644\u0639\u0644\u0648\u064a \u0648\u064f\u0644\u062f (1327 \u0647\u0640 / 10 \u0623\u063a\u0633\u0637\u0633 1909\u0645 \u0628\u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a \u0628\u0641\u0627\u0633)  \u0648\u062a\u0648\u0641\u064a (1381 \u0647\u0640 / 26 \u0641\u0628\u0631\u0627\u064a\u0631 1961\u0645 \u0628\u0627\u0644\u0631\u0628\u0627\u0637) \u062e\u064e\u0644\u064e\u0641 \u0648\u0627\u0644\u062f\u0647 \u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0645\u0648\u0644\u0627\u064a \u064a\u0648\u0633\u0641 \u0627\u0644\u0630\u064a \u062a\u0648\u0641\u064a \u0628\u064f\u0643\u0631\u0629 \u064a\u0648\u0645 \u0627\u0644\u062e\u0645\u064a\u0633 22 \u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649 \u0633\u0646\u0629 1346 \u0647\u0640 \u0645\u0648\u0627\u0641\u0642 17 \u0646\u0648\u0641\u0645\u0628\u0631 \u0633\u0646\u0629 1927\u0645 \u0641\u0628\u0648\u064a\u0639 \u0627\u0628\u0646\u0647 \u0633\u064a\u062f\u064a \u0645\u062d\u0645\u062f \u0633\u0644\u0637\u0627\u0646\u0627 \u0644\u0644\u0645\u063a\u0631\u0628 \u0641\u064a \u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u0645\u0648\u0627\u0644\u064a \u0628\u0639\u062f \u0635\u0644\u0627\u0629 \u0627\u0644\u062c\u0645\u0639\u0629 23 \u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649 \u0633\u0646\u0629 1346 \u0647\u0640 \u0645\u0648\u0627\u0641\u0642 18 \u0646\u0648\u0641\u0645\u0628\u0631 \u0633\u0646\u0629 1927\u0645 \u0641\u064a \u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a \u0628\u0641\u0627\u0633  \u0648\u0644\u0645 \u064a\u0632\u0644 \u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u063a\u0631\u0628 \u0625\u0644\u0649 \u0633\u0646\u0629 1957\u0645\u060c \u0642\u0636\u0649 \u0645\u0646\u0647\u0627 \u0627\u0644\u0645\u0646\u0641\u0649 \u0628\u064a\u0646 (1953-1955)\u060c \u062b\u0645 \u0627\u062a\u062e\u0630 \u0644\u0642\u0628 \u0627\u0644\u0645\u0644\u0643 \u0633\u0646\u0629 1957\u0645 \u0648\u0644\u0645 \u064a\u0632\u0644 \u0645\u0644\u0643\u0627 \u0625\u0644\u0649 \u0648\u0641\u0627\u062a\u0647 \u0633\u0646\u0629 1961\u0645\u060c \u0633\u0627\u0646\u062f \u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u0646\u0636\u0627\u0644\u0627\u062a \u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u0637\u0627\u0644\u0628\u0629 \u0628\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0627\u0633\u062a\u0642\u0644\u0627\u0644\u060c \u0627\u0644\u0634\u064a\u0621 \u0627\u0644\u0630\u064a \u062f\u0641\u0639\u0647 \u0625\u0644\u0649 \u0627\u0644\u0627\u0635\u0637\u062f\u0627\u0645 \u0628\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u062d\u0645\u0627\u064a\u0629. \u0648\u0643\u0627\u0646\u062a \u0627\u0644\u0646\u062a\u064a\u062c\u0629 \u0642\u064a\u0627\u0645 \u0633\u0644\u0637\u0627\u062a \u0627\u0644\u062d\u0645\u0627\u064a\u0629 \u0628\u0646\u0641\u064a\u0647 \u0625\u0644\u0649 \u0645\u062f\u063a\u0634\u0642\u0631. \u0648\u0639\u0644\u0649 \u0625\u062b\u0631 \u0630\u0644\u0643 \u0627\u0646\u062f\u0644\u0639\u062a \u0645\u0638\u0627\u0647\u0631\u0627\u062a \u0645\u0637\u0627\u0644\u0628\u0629 \u0628\u0639\u0648\u062f\u062a\u0647 \u0625\u0644\u0649 \u0648\u0637\u0646\u0647. \u0648\u0623\u0645\u0627\u0645 \u0627\u0634\u062a\u062f\u0627\u062f \u062d\u062f\u0629 \u0627\u0644\u0645\u0638\u0627\u0647\u0631\u0627\u062a\u060c \u0642\u0628\u0644\u062a \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629 \u0628\u0625\u0631\u062c\u0627\u0639 \u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0625\u0644\u0649 \u0639\u0631\u0634\u0647 \u064a\u0648\u0645 16 \u0646\u0648\u0641\u0645\u0628\u0631 1955. \u0648\u0628\u0639\u062f \u0628\u0636\u0639\u0629 \u0634\u0647\u0648\u0631 \u062a\u0645 \u0625\u0639\u0644\u0627\u0646 \u0627\u0633\u062a\u0642\u0644\u0627\u0644 \u0627\u0644\u0645\u063a\u0631\u0628. \u0643\u0627\u0646 \u0627\u0644\u0645\u0644\u0643 \u0645\u062d\u0645\u062f \u0627\u0644\u062e\u0627\u0645\u0633 \u064a\u0643\u0646\u0649: \u0623\u0628\u0627 \u0639\u0628\u062f \u0627\u0644\u0644\u0647."
+            "first_wiki_para" = "محمد الخامس بن يوسف بن الحسن بن محمد بن عبد الرحمن بن هشام بن محمد بن عبد الله بن إسماعيل بن إسماعيل بن الشريف بن علي العلوي وُلد (1327 هـ 26 فبراير 1961م بالرباط) خَلَف والده السلطان مولاي يوسف الذي توفي بُكرة يوم الخميس 22 جمادى الأولى سنة 1346 هـ موافق 17 نوفمبر سنة 1927م فبويع ابنه سيدي محمد سلطانا للمغرب في اليوم الموالي بعد صلاة الجمعة 23 جمادى الأولى سنة 1346 هـ موافق 18 نوفمبر سنة 1927م في القصر السلطاني بفاس ولم يزل سلطان المغرب إلى سنة 1957م، قضى منها المنفى بين (1953-1955)، ثم اتخذ لقب الملك سنة 1957م ولم يزل ملكا إلى وفاته سنة 1961م، ساند السلطان محمد الخامس نضالات الحركة الوطنية المغربية المطالبة بتحقيق الاستقلال، الشيء الذي دفعه إلى الاصطدام بسلطات الحماية. وكانت النتيجة قيام سلطات الحماية بنفيه إلى مدغشقر. وعلى إثر ذلك اندلعت مظاهرات مطالبة بعودته إلى وطنه. وأمام اشتداد حدة المظاهرات، قبلت السلطات الفرنسية بإرجاع السلطان إلى عرشه يوم 16 نوفمبر 1955. وبعد بضعة شهور تم إعلان استقلال المغرب. كان الملك محمد الخامس يكنى: أبا عبد الله."
         }. 
         {
             "id" = "Q334782". 
@@ -2847,7 +2847,7 @@
             "wikipedia_url" = "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85_%D8%A8%D8%A3%D9%85%D8%B1_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B3%D8%B9%D8%AF%D9%8A". 
             "start_mandate" = null. 
             "end_mandate" = "1517-01-01". 
-            "first_wiki_para" = "\u0623\u0628\u0648 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0645\u062d\u0645\u062f \u0628\u0646 \u0645\u062d\u0645\u062f \u0627\u0628\u0646 \u0639\u0644\u064a \u0628\u0646 \u0645\u062e\u0644\u0648\u0641 \u0628\u0646 \u0632\u064a\u062f\u0627\u0646 \u0627\u0644\u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0642\u0627\u0626\u0645 \u0628\u0623\u0645\u0631 \u0627\u0644\u0644\u0647 \u0639\u0645\u064a\u062f \u0627\u0644\u0623\u0633\u0631\u0629 \u0627\u0644\u0633\u0639\u062f\u064a\u0629 \u0648\u0623\u0648\u0644 \u0633\u0644\u0637\u0627\u0646 \u0644\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 \u0627\u0644\u0623\u0633\u0631\u0629 \u0627\u0644\u0633\u0639\u062f\u064a\u0629\u060c \u062d\u0643\u0645 \u0628\u064a\u0646 1509 - 1517."
+            "first_wiki_para" = "أبو عبد الله محمد بن محمد ابن علي بن مخلوف بن زيدان الملقب بالقائم بأمر الله عميد الأسرة السعدية وأول سلطان للمغرب من الأسرة السعدية، حكم بين 1509 - 1517."
         }
     ]. 
     "ru" = [
@@ -2861,7 +2861,7 @@
             "wikipedia_url" = "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87". 
             "start_mandate" = "2000-05-07". 
             "end_mandate" = "2008-05-07". 
-            "first_wiki_para" = "\u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440 \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440\u043e\u0432\u0438\u0447 \u041f\u0443\u0301\u0442\u0438\u043d (\u0440\u043e\u0434. 7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 1952, \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u0421\u0421\u0421\u0420)\u00a0\u2014 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c. \u0414\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438, \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u043e\u0432\u0435\u0442\u0430 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0438 \u0421\u043e\u0432\u0435\u0442\u0430 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438; \u0412\u0435\u0440\u0445\u043e\u0432\u043d\u044b\u0439 \u0433\u043b\u0430\u0432\u043d\u043e\u043a\u043e\u043c\u0430\u043d\u0434\u0443\u044e\u0449\u0438\u0439 \u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u043c\u0438 \u0441\u0438\u043b\u0430\u043c\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 7 \u043c\u0430\u044f 2012\u00a0\u0433\u043e\u0434\u0430. \u0420\u0430\u043d\u0435\u0435 \u0437\u0430\u043d\u0438\u043c\u0430\u043b \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0441 7 \u043c\u0430\u044f 2000\u00a0\u043f\u043e 7 \u043c\u0430\u044f 2008\u00a0\u0433\u043e\u0434\u0430, \u0442\u0430\u043a\u0436\u0435 \u0432 1999\u20142000 \u0438 2008\u20142012\u00a0\u0433\u043e\u0434\u0430\u0445 \u0437\u0430\u043d\u0438\u043c\u0430\u043b \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438. \u0424\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442 \u0420\u043e\u0441\u0441\u0438\u0435\u0439, \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u0440\u0430\u0437\u043d\u044b\u043c \u043e\u0446\u0435\u043d\u043a\u0430\u043c, \u0441 1999 \u0438\u043b\u0438 \u0441 2000\u00a0\u0433\u043e\u0434\u0430. \u0412 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u0435 2017\u00a0\u0433\u043e\u0434\u0430 \u041f\u0443\u0442\u0438\u043d \u0441\u0442\u0430\u043b \u0441\u0430\u043c\u044b\u043c \u0434\u043e\u043b\u0433\u043e \u043f\u0440\u0430\u0432\u044f\u0449\u0438\u043c \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u043c \u043b\u0438\u0434\u0435\u0440\u043e\u043c \u043f\u043e\u0441\u043b\u0435 \u0418\u043e\u0441\u0438\u0444\u0430 \u0421\u0442\u0430\u043b\u0438\u043d\u0430, \u0430 \u043f\u043e\u0441\u043b\u0435 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f \u043f\u044f\u0442\u043e\u0433\u043e \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0441\u043a\u043e\u0433\u043e \u0441\u0440\u043e\u043a\u0430 \u0441\u0442\u0430\u043d\u0435\u0442 \u0442\u0430\u043a\u043e\u0432\u044b\u043c \u0441\u043e \u0432\u0440\u0435\u043c\u0451\u043d \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u044b II."
+            "first_wiki_para" = "Влади́мир Влади́мирович Пу́тин (род. 7 октября 1952, Ленинград, СССР) — российский государственный и политический деятель. Действующий президент Российской Федерации, председатель Государственного Совета Российской Федерации и Совета Безопасности Российской Федерации; Верховный главнокомандующий Вооружёнными силами Российской Федерации с 7 мая 2012 года. Ранее занимал должность президента с 7 мая 2000 по 7 мая 2008 года, также в 1999—2000 и 2008—2012 годах занимал должность председателя правительства Российской Федерации. Фактически руководит Россией, согласно разным оценкам, с 1999 или с 2000 года. В сентябре 2017 года Путин стал самым долго правящим российским лидером после Иосифа Сталина, а после окончания пятого президентского срока станет таковым со времён Екатерины II."
         }. 
         {
             "id" = "Q23530". 
@@ -2873,7 +2873,7 @@
             "wikipedia_url" = "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87". 
             "start_mandate" = "2008-05-07". 
             "end_mandate" = "2012-05-07". 
-            "first_wiki_para" = "\u0414\u043c\u0438\u0301\u0442\u0440\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u0301\u043b\u044c\u0435\u0432\u0438\u0447 \u041c\u0435\u0434\u0432\u0435\u0301\u0434\u0435\u0432 (\u0440\u043e\u0434. 14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 1965, \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u0421\u0421\u0421\u0420)\u00a0\u2014 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c. \u041f\u0435\u0440\u0432\u044b\u0439 \u0437\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u0412\u043e\u0435\u043d\u043d\u043e-\u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0439 \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 26 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2022\u00a0\u0433\u043e\u0434\u0430. \u0417\u0430\u043c\u0435\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u0421\u043e\u0432\u0435\u0442\u0430 \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 16 \u044f\u043d\u0432\u0430\u0440\u044f 2020\u00a0\u0433\u043e\u0434\u0430. \u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u043f\u0430\u0440\u0442\u0438\u0438 \u00ab\u0415\u0434\u0438\u043d\u0430\u044f \u0420\u043e\u0441\u0441\u0438\u044f\u00bb \u0441 26 \u043c\u0430\u044f 2012\u00a0\u0433\u043e\u0434\u0430."
+            "first_wiki_para" = "Дми́трий Анато́льевич Медве́дев (род. 14 сентября 1965, Ленинград, СССР) — российский государственный и политический деятель. Первый заместитель председателя Военно-промышленной комиссии Российской Федерации с 26 декабря 2022 года. Заместитель председателя Совета Безопасности Российской Федерации с 16 января 2020 года. Председатель партии «Единая Россия» с 26 мая 2012 года."
         }. 
         {
             "id" = "Q34453". 
@@ -2885,13 +2885,13 @@
             "wikipedia_url" = "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87". 
             "start_mandate" = "1991-07-10". 
             "end_mandate" = "1999-12-31". 
-            "first_wiki_para" = "\u0411\u043e\u0440\u0438\u0301\u0441 \u041d\u0438\u043a\u043e\u043b\u0430\u0301\u0435\u0432\u0438\u0447 \u0415\u0301\u043b\u044c\u0446\u0438\u043d (1\u00a0\u0444\u0435\u0432\u0440\u0430\u043b\u044f 1931 (1931-02-01), \u0411\u0443\u0442\u043a\u0430, \u0411\u0443\u0442\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0420\u0421\u0424\u0421\u0420, \u0421\u0421\u0421\u0420\u00a0\u2014 23 \u0430\u043f\u0440\u0435\u043b\u044f 2007, \u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f)\u00a0\u2014 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u0442\u0438\u0439\u043d\u044b\u0439, \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c, \u043f\u0435\u0440\u0432\u044b\u0439 \u0432\u0441\u0435\u043d\u0430\u0440\u043e\u0434\u043d\u043e \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 (1991\u20141999)\u27a4; \u0432 \u043d\u043e\u044f\u0431\u0440\u0435 1991\u00a0\u2014 \u0438\u044e\u043d\u0435 1992\u00a0\u0433\u043e\u0434\u0430 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u043b\u044f\u043b \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e. \u0421 \u043c\u0430\u0440\u0442\u0430 \u043f\u043e \u043c\u0430\u0439 1992\u00a0\u0433\u043e\u0434\u0430 \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u043b \u043e\u0431\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u0438 \u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438."
+            "first_wiki_para" = "Бори́с Никола́евич Е́льцин (1 февраля 1931 (1931-02-01), Бутка, Буткинский район, Уральская область, РСФСР, СССР — 23 апреля 2007, Москва, Россия) — советский и российский партийный, государственный и политический деятель, первый всенародно избранный Президент Российской Федерации (1991—1999)➤; в ноябре 1991 — июне 1992 года одновременно возглавлял правительство. С марта по май 1992 года исполнял обязанности министра обороны Российской Федерации."
         }
     ]. 
     "fr" = [
         {
             "id" = "Q157". 
-            "first_name" = "Fran\u00e7ois". 
+            "first_name" = "François". 
             "last_name" = "Hollande". 
             "birth_date" = "1954-08-12". 
             "death_date" = null. 
@@ -2899,7 +2899,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande". 
             "start_mandate" = "2012-05-15". 
             "end_mandate" = "2017-05-14". 
-            "first_wiki_para" = "Fran\u00e7ois Hollande  \u00c9couter, n\u00e9 le 12 ao\u00fbt 1954 \u00e0 Rouen (Seine-Inf\u00e9rieure), est un haut fonctionnaire et homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 15 mai 2012 au 14 mai 2017."
+            "first_wiki_para" = "François Hollande , né le 12 août 1954 à Rouen (Seine-Inférieure), est un haut fonctionnaire et homme d'État français. Il est président de la République française du 15 mai 2012 au 14 mai 2017."
         }. 
         {
             "id" = "Q329". 
@@ -2911,11 +2911,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Nicolas_Sarkozy". 
             "start_mandate" = "2007-05-16". 
             "end_mandate" = "2012-05-15". 
-            "first_wiki_para" = "Nicolas Sark\u00f6zy de Nagy-Bocsa, dit Nicolas Sarkozy (/ni.k\u0254.la sa\u0281.k\u0254.zi/\u00a0; \u00c9couter), n\u00e9 le 28 janvier 1955 \u00e0 Paris (France), est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 16 mai 2007 au 15 mai 2012."
+            "first_wiki_para" = "Nicolas Sarközy de Nagy-Bocsa, dit Nicolas Sarkozy , né le 28 janvier 1955 à Paris (France), est un homme d'État français. Il est président de la République française du 16 mai 2007 au 15 mai 2012."
         }. 
         {
             "id" = "Q2038". 
-            "first_name" = "Fran\u00e7ois". 
+            "first_name" = "François". 
             "last_name" = "Mitterrand". 
             "birth_date" = "1916-10-26". 
             "death_date" = "1996-01-08". 
@@ -2923,7 +2923,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand". 
             "start_mandate" = "1981-05-21". 
             "end_mandate" = "1995-05-17". 
-            "first_wiki_para" = "Fran\u00e7ois Mitterrand  \u00c9couter, n\u00e9 le 26 octobre 1916 \u00e0 Jarnac (Charente) et mort le 8 janvier 1996 dans le 7e arrondissement de Paris, est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 21 mai 1981 au 17 mai 1995."
+            "first_wiki_para" = "François Mitterrand , né le 26 octobre 1916 à Jarnac (Charente) et mort le 8 janvier 1996 dans le 7e arrondissement de Paris, est un homme d'État français, président de la République du 21 mai 1981 au 17 mai 1995."
         }. 
         {
             "id" = "Q2042". 
@@ -2935,7 +2935,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Charles_de_Gaulle". 
             "start_mandate" = "1959-01-08". 
             "end_mandate" = "1969-04-28". 
-            "first_wiki_para" = "Charles de Gaulle (/\u0283a\u0281l d\u0259 \u0261ol/ \u00c9couter), commun\u00e9ment appel\u00e9 le g\u00e9n\u00e9ral de Gaulle ou parfois simplement le G\u00e9n\u00e9ral, n\u00e9 le 22 novembre 1890 \u00e0 Lille (Nord) et mort le 9 novembre 1970 \u00e0 Colombey-les-Deux-\u00c9glises (Haute-Marne), est un militaire, r\u00e9sistant, homme d'\u00c9tat et \u00e9crivain fran\u00e7ais."
+            "first_wiki_para" = "Charles de Gaulle , communément appelé le général de Gaulle ou parfois simplement le Général, né le 22 novembre 1890 à Lille (Nord) et mort le 9 novembre 1970 à Colombey-les-Deux-Églises (Haute-Marne), est un militaire, résistant, homme d'État et écrivain français."
         }. 
         {
             "id" = "Q2105". 
@@ -2947,11 +2947,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Jacques_Chirac". 
             "start_mandate" = "1995-05-17". 
             "end_mandate" = "2007-05-16". 
-            "first_wiki_para" = "Jacques Chirac (/\u0292ak \u0283i\u0281ak/ \u00c9couter), n\u00e9 le 29 novembre 1932 dans le 5e\u00a0arrondissement de Paris et mort le 26 septembre 2019 dans le 6e arrondissement de la m\u00eame ville, est un haut fonctionnaire et homme d'\u00c9tat fran\u00e7ais. Il est Premier ministre de 1974 \u00e0 1976, puis de 1986 \u00e0 1988, et pr\u00e9sident de la R\u00e9publique de 1995 \u00e0 2007."
+            "first_wiki_para" = "Jacques Chirac , né le 29 novembre 1932 dans le 5e arrondissement de Paris et mort le 26 septembre 2019 dans le 6e arrondissement de la même ville, est un haut fonctionnaire et homme d'État français. Il est Premier ministre de 1974 à 1976, puis de 1986 à 1988, et président de la République de 1995 à 2007."
         }. 
         {
             "id" = "Q2124". 
-            "first_name" = "Val\u00e9ry". 
+            "first_name" = "Valéry". 
             "last_name" = "Giscard d'Estaing". 
             "birth_date" = "1926-02-02". 
             "death_date" = "2020-12-02". 
@@ -2959,7 +2959,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing". 
             "start_mandate" = "1974-05-27". 
             "end_mandate" = "1981-05-21". 
-            "first_wiki_para" = "Val\u00e9ry Giscard d'Estaing  \u00c9couter \u2014\u00a0commun\u00e9ment appel\u00e9 \u00ab\u00a0Giscard\u00a0\u00bb ou d\u00e9sign\u00e9 par ses initiales, \u00ab\u00a0VGE\u00a0\u00bb\u00a0\u2014, n\u00e9 le 2 f\u00e9vrier 1926 \u00e0 Coblence (Allemagne) et mort le 2 d\u00e9cembre 2020 \u00e0 Authon (France), est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique de 1974 \u00e0 1981."
+            "first_wiki_para" = "Valéry Giscard d'Estaing — communément appelé « Giscard » ou désigné par ses initiales, « VGE » —, né le 2 février 1926 à Coblence (Allemagne) et mort le 2 décembre 2020 à Authon (France), est un homme d'État français, président de la République de 1974 à 1981."
         }. 
         {
             "id" = "Q2185". 
@@ -2971,7 +2971,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Georges_Pompidou". 
             "start_mandate" = "1969-06-20". 
             "end_mandate" = "1974-04-02". 
-            "first_wiki_para" = "Georges Pompidou (\u00c9couter), n\u00e9 le 5 juillet 1911 \u00e0 Montboudif (Cantal) et mort le 2 avril 1974 \u00e0 Paris, est un haut fonctionnaire et homme d'\u00c9tat fran\u00e7ais. Il est Premier ministre du 14 avril 1962 au 10 juillet 1968 et pr\u00e9sident de la R\u00e9publique du 20 juin 1969 \u00e0 sa mort."
+            "first_wiki_para" = "Georges Pompidou , né le 5 juillet 1911 à Montboudif (Cantal) et mort le 2 avril 1974 à Paris, est un haut fonctionnaire et homme d'État français. Il est Premier ministre du 14 avril 1962 au 10 juillet 1968 et président de la République du 20 juin 1969 à sa mort."
         }. 
         {
             "id" = "Q5738". 
@@ -2983,11 +2983,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Adolphe_Thiers". 
             "start_mandate" = "1871-08-31". 
             "end_mandate" = "1873-05-24". 
-            "first_wiki_para" = "Adolphe Thiers, n\u00e9 le 15 avril 1797 (26 germinal an V) \u00e0 Marseille et mort le 3 septembre 1877 \u00e0 Saint-Germain-en-Laye, est un avocat, journaliste, historien et homme d'\u00c9tat fran\u00e7ais."
+            "first_wiki_para" = "Adolphe Thiers, né le 15 avril 1797 (26 germinal an V) à Marseille et mort le 3 septembre 1877 à Saint-Germain-en-Laye, est un avocat, journaliste, historien et homme d'État français."
         }. 
         {
             "id" = "Q7721". 
-            "first_name" = "Napol\u00e9on". 
+            "first_name" = "Napoléon". 
             "last_name" = "Bonaparte". 
             "birth_date" = "1808-04-20". 
             "death_date" = "1873-01-09". 
@@ -2995,7 +2995,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Napol%C3%A9on_III". 
             "start_mandate" = "1848-12-20". 
             "end_mandate" = "1852-12-02". 
-            "first_wiki_para" = "Napol\u00e9on\u00a0III, n\u00e9 le 20 avril 1808 \u00e0 Paris et mort le 9 janvier 1873 \u00e0 Chislehurst (Royaume-Uni), est un monarque et homme d'\u00c9tat fran\u00e7ais. Il est \u00e0 la fois sous son nom de Louis-Napol\u00e9on Bonaparte l'unique pr\u00e9sident de la Deuxi\u00e8me R\u00e9publique, le premier chef d'\u00c9tat fran\u00e7ais \u00e9lu au suffrage universel masculin, le 10 d\u00e9cembre 1848, le premier pr\u00e9sident de la R\u00e9publique fran\u00e7aise et apr\u00e8s la proclamation de l'Empire le 2 d\u00e9cembre 1852, le dernier monarque du pays en tant qu'empereur des Fran\u00e7ais."
+            "first_wiki_para" = "Napoléon III, né le 20 avril 1808 à Paris et mort le 9 janvier 1873 à Chislehurst (Royaume-Uni), est un monarque et homme d'État français. Il est à la fois sous son nom de Louis-Napoléon Bonaparte l'unique président de la Deuxième République, le premier chef d'État français élu au suffrage universel masculin, le 10 décembre 1848, le premier président de la République française et après la proclamation de l'Empire le 2 décembre 1852, le dernier monarque du pays en tant qu'empereur des Français."
         }. 
         {
             "id" = "Q12680". 
@@ -3007,7 +3007,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Paul_Doumer". 
             "start_mandate" = "1931-06-13". 
             "end_mandate" = "1932-05-07". 
-            "first_wiki_para" = "Joseph Athanase Doumer, dit Paul Doumer, n\u00e9 le 22 mars 1857 \u00e0 Aurillac (Cantal) et mort assassin\u00e9 le 7 mai 1932 \u00e0 Paris (Seine), est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique du 13 juin 1931 \u00e0 sa mort."
+            "first_wiki_para" = "Joseph Athanase Doumer, dit Paul Doumer, né le 22 mars 1857 à Aurillac (Cantal) et mort assassiné le 7 mai 1932 à Paris (Seine), est un homme d'État français. Il est président de la République du 13 juin 1931 à sa mort."
         }. 
         {
             "id" = "Q12950". 
@@ -3019,7 +3019,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Alain_Poher". 
             "start_mandate" = "1969-04-28". 
             "end_mandate" = "1969-06-20". 
-            "first_wiki_para" = "Alain Poher, n\u00e9 le 17 avril 1909 \u00e0 Ablon-sur-Seine (Seine-et-Oise) et mort le 9 d\u00e9cembre 1996 \u00e0 Paris\u00a016e, est un homme d'\u00c9tat fran\u00e7ais."
+            "first_wiki_para" = "Alain Poher, né le 17 avril 1909 à Ablon-sur-Seine (Seine-et-Oise) et mort le 9 décembre 1996 à Paris 16e, est un homme d'État français."
         }. 
         {
             "id" = "Q158749". 
@@ -3031,11 +3031,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Albert_Lebrun". 
             "start_mandate" = "1932-05-10". 
             "end_mandate" = "1940-07-11". 
-            "first_wiki_para" = "Albert Lebrun, n\u00e9 le 29 ao\u00fbt 1871 \u00e0 Mercy-le-Haut (alors en Lorraine rest\u00e9e fran\u00e7aise apr\u00e8s le trait\u00e9 de Francfort) et mort le 6 mars 1950 \u00e0 Paris (alors dans le d\u00e9partement de la Seine), est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 10 mai 1932 au 11 juillet 1940 (le dernier de la IIIe\u00a0R\u00e9publique)."
+            "first_wiki_para" = "Albert Lebrun, né le 29 août 1871 à Mercy-le-Haut (alors en Lorraine restée française après le traité de Francfort) et mort le 6 mars 1950 à Paris (alors dans le département de la Seine), est un homme d'État français. Il est président de la République française du 10 mai 1932 au 11 juillet 1940 (le dernier de la IIIe République)."
         }. 
         {
             "id" = "Q158768". 
-            "first_name" = "Ren\u00e9". 
+            "first_name" = "René". 
             "last_name" = "Coty". 
             "birth_date" = "1882-03-20". 
             "death_date" = "1962-11-22". 
@@ -3043,7 +3043,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Ren%C3%A9_Coty". 
             "start_mandate" = "1954-01-16". 
             "end_mandate" = "1959-01-08". 
-            "first_wiki_para" = "Ren\u00e9 Coty, n\u00e9 le 20 mars 1882 au Havre et mort le 22 novembre 1962 dans la m\u00eame ville, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique du 16 janvier 1954 au 8 janvier 1959."
+            "first_wiki_para" = "René Coty, né le 20 mars 1882 au Havre et mort le 22 novembre 1962 dans la même ville, est un homme d'État français. Il est président de la République du 16 janvier 1954 au 8 janvier 1959."
         }. 
         {
             "id" = "Q158772". 
@@ -3055,7 +3055,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Vincent_Auriol". 
             "start_mandate" = "1947-01-16". 
             "end_mandate" = "1954-01-16". 
-            "first_wiki_para" = "Vincent Auriol, n\u00e9 le 27 ao\u00fbt 1884 \u00e0 Revel (Haute-Garonne) et mort le 1er janvier 1966 \u00e0 Paris, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique du 16 janvier 1947 au 16 janvier 1954."
+            "first_wiki_para" = "Vincent Auriol, né le 27 août 1884 à Revel (Haute-Garonne) et mort le 1er janvier 1966 à Paris, est un homme d'État français. Il est président de la République du 16 janvier 1947 au 16 janvier 1954."
         }. 
         {
             "id" = "Q158838". 
@@ -3067,11 +3067,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Patrice_de_Mac_Mahon". 
             "start_mandate" = "1873-05-24". 
             "end_mandate" = "1879-01-30". 
-            "first_wiki_para" = "Patrice de Mac Mahon, comte de Mac Mahon, 1er duc de Magenta, mar\u00e9chal de France, n\u00e9 le 13 juin 1808 au ch\u00e2teau de Sully (Sa\u00f4ne-et-Loire) et mort le 17 octobre 1893 \u00e0 Montcresson (Loiret), est un officier militaire, administrateur colonial et homme d\u2019\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 24 mai 1873 au 30 janvier 1879."
+            "first_wiki_para" = "Patrice de Mac Mahon, comte de Mac Mahon, 1er duc de Magenta, maréchal de France, né le 13 juin 1808 au château de Sully (Saône-et-Loire) et mort le 17 octobre 1893 à Montcresson (Loiret), est un officier militaire, administrateur colonial et homme d’État français, président de la République du 24 mai 1873 au 30 janvier 1879."
         }. 
         {
             "id" = "Q169502". 
-            "first_name" = "\u00c9mile". 
+            "first_name" = "Émile". 
             "last_name" = "Loubet". 
             "birth_date" = "1838-12-31". 
             "death_date" = "1929-12-20". 
@@ -3079,19 +3079,19 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/%C3%89mile_Loubet". 
             "start_mandate" = "1899-02-18". 
             "end_mandate" = "1906-02-18". 
-            "first_wiki_para" = "\u00c9mile Loubet, n\u00e9 le 30 d\u00e9cembre 1838 \u00e0 Marsanne (Dr\u00f4me) et mort le 20 d\u00e9cembre 1929 \u00e0 Mont\u00e9limar (Dr\u00f4me), est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 18 f\u00e9vrier 1899 au 18 f\u00e9vrier 1906."
+            "first_wiki_para" = "Émile Loubet, né le 30 décembre 1838 à Marsanne (Drôme) et mort le 20 décembre 1929 à Montélimar (Drôme), est un homme d'État français. Il est président de la République française du 18 février 1899 au 18 février 1906."
         }. 
         {
             "id" = "Q191974". 
             "first_name" = "Raymond". 
-            "last_name" = "Poincar\u00e9". 
+            "last_name" = "Poincaré". 
             "birth_date" = "1860-08-20". 
             "death_date" = "1934-10-15". 
             "place_of_birth" = "Bar-le-Duc". 
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Raymond_Poincar%C3%A9". 
             "start_mandate" = "1913-02-18". 
             "end_mandate" = "1920-02-18". 
-            "first_wiki_para" = "Raymond Poincar\u00e9, n\u00e9 le 20 ao\u00fbt 1860 \u00e0 Bar-le-Duc (Meuse) et mort le 15 octobre 1934 \u00e0 Paris, est un avocat et homme d'\u00c9tat fran\u00e7ais. Il est le pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 18 f\u00e9vrier 1913 au 18 f\u00e9vrier 1920."
+            "first_wiki_para" = "Raymond Poincaré, né le 20 août 1860 à Bar-le-Duc (Meuse) et mort le 15 octobre 1934 à Paris, est un avocat et homme d'État français. Il est le président de la République française du 18 février 1913 au 18 février 1920."
         }. 
         {
             "id" = "Q215778". 
@@ -3103,7 +3103,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Sadi_Carnot_(homme_d%27%C3%89tat)". 
             "start_mandate" = "1887-12-03". 
             "end_mandate" = "1894-06-25". 
-            "first_wiki_para" = "Sadi Carnot, n\u00e9 le 11 ao\u00fbt 1837 \u00e0 Limoges (Haute-Vienne) et mort assassin\u00e9 le 25 juin 1894 \u00e0 Lyon (Rh\u00f4ne), est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 3 d\u00e9cembre 1887 \u00e0 sa mort."
+            "first_wiki_para" = "Sadi Carnot, né le 11 août 1837 à Limoges (Haute-Vienne) et mort assassiné le 25 juin 1894 à Lyon (Rhône), est un homme d'État français, président de la République du 3 décembre 1887 à sa mort."
         }. 
         {
             "id" = "Q274540". 
@@ -3115,7 +3115,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Alexandre_Millerand". 
             "start_mandate" = "1920-09-23". 
             "end_mandate" = "1924-06-11". 
-            "first_wiki_para" = "Alexandre Millerand, n\u00e9 le 10 f\u00e9vrier 1859 \u00e0 Paris et mort le 6 avril 1943 \u00e0 Versailles, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident du Conseil du 20 janvier au 23 septembre 1920, puis pr\u00e9sident de la R\u00e9publique du 23 septembre 1920 au 11 juin 1924."
+            "first_wiki_para" = "Alexandre Millerand, né le 10 février 1859 à Paris et mort le 6 avril 1943 à Versailles, est un homme d'État français. Il est président du Conseil du 20 janvier au 23 septembre 1920, puis président de la République du 23 septembre 1920 au 11 juin 1924."
         }. 
         {
             "id" = "Q296064". 
@@ -3127,11 +3127,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Gaston_Doumergue". 
             "start_mandate" = "1924-06-13". 
             "end_mandate" = "1931-06-13". 
-            "first_wiki_para" = "Gaston Doumergue, n\u00e9 le 1er ao\u00fbt 1863 \u00e0 Aigues-Vives (Gard) et mort le 18 juin 1937 dans la m\u00eame ville, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 13 juin 1924 au 13 juin 1931."
+            "first_wiki_para" = "Gaston Doumergue, né le 1er août 1863 à Aigues-Vives (Gard) et mort le 18 juin 1937 dans la même ville, est un homme d'État français. Il est président de la République française du 13 juin 1924 au 13 juin 1931."
         }. 
         {
             "id" = "Q296076". 
-            "first_name" = "F\u00e9lix". 
+            "first_name" = "Félix". 
             "last_name" = "Faure". 
             "birth_date" = "1841-01-30". 
             "death_date" = "1899-02-16". 
@@ -3139,31 +3139,31 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/F%C3%A9lix_Faure". 
             "start_mandate" = "1895-01-17". 
             "end_mandate" = "1899-02-16". 
-            "first_wiki_para" = "F\u00e9lix Faure, n\u00e9 le 30 janvier 1841 \u00e0 Paris (Seine) et mort le 16 f\u00e9vrier 1899 dans la m\u00eame ville, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique du 17 janvier 1895 \u00e0 sa mort."
+            "first_wiki_para" = "Félix Faure, né le 30 janvier 1841 à Paris (Seine) et mort le 16 février 1899 dans la même ville, est un homme d'État français. Il est président de la République du 17 janvier 1895 à sa mort."
         }. 
         {
             "id" = "Q296083". 
             "first_name" = "Jules". 
-            "last_name" = "Gr\u00e9vy". 
+            "last_name" = "Grévy". 
             "birth_date" = "1807-08-15". 
             "death_date" = "1891-09-09". 
             "place_of_birth" = "Mont-sous-Vaudrey". 
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Jules_Gr%C3%A9vy". 
             "start_mandate" = "1879-01-30". 
             "end_mandate" = "1887-12-02". 
-            "first_wiki_para" = "Fran\u00e7ois Judith Paul Gr\u00e9vy, n\u00e9 le 15 ao\u00fbt 1807 \u00e0 Mont-sous-Vaudrey et mort le 9 septembre 1891 dans la m\u00eame commune, est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 30 janvier 1879 au 2 d\u00e9cembre 1887."
+            "first_wiki_para" = "François Judith Paul Grévy, né le 15 août 1807 à Mont-sous-Vaudrey et mort le 9 septembre 1891 dans la même commune, est un homme d'État français, président de la République du 30 janvier 1879 au 2 décembre 1887."
         }. 
         {
             "id" = "Q296673". 
-            "first_name" = "Cl\u00e9ment". 
-            "last_name" = "Falli\u00e8res". 
+            "first_name" = "Clément". 
+            "last_name" = "Fallières". 
             "birth_date" = "1841-11-06". 
             "death_date" = "1931-06-22". 
-            "place_of_birth" = "M\u00e9zin". 
+            "place_of_birth" = "Mézin". 
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Armand_Falli%C3%A8res". 
             "start_mandate" = "1906-02-18". 
             "end_mandate" = "1913-02-18". 
-            "first_wiki_para" = "Armand Falli\u00e8res, n\u00e9 le 6 novembre 1841 \u00e0 M\u00e9zin (Lot-et-Garonne) et mort le 22 juin 1931 \u00e0 Villeneuve-de-M\u00e9zin (Lot-et-Garonne), est un homme d'\u00c9tat fran\u00e7ais, pr\u00e9sident de la R\u00e9publique fran\u00e7aise de 1906 \u00e0 1913."
+            "first_wiki_para" = "Armand Fallières, né le 6 novembre 1841 à Mézin (Lot-et-Garonne) et mort le 22 juin 1931 à Villeneuve-de-Mézin (Lot-et-Garonne), est un homme d'État français, président de la République française de 1906 à 1913."
         }. 
         {
             "id" = "Q309995". 
@@ -3175,7 +3175,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Paul_Deschanel". 
             "start_mandate" = "1920-02-18". 
             "end_mandate" = "1920-09-21". 
-            "first_wiki_para" = "Paul Deschanel, n\u00e9 le 13 f\u00e9vrier 1855 \u00e0 Schaerbeek (Belgique) et mort le 28 avril 1922 \u00e0 Paris (France), est un homme d'\u00c9tat, journaliste et \u00e9crivain fran\u00e7ais, pr\u00e9sident de la R\u00e9publique du 18 f\u00e9vrier au 21 septembre 1920."
+            "first_wiki_para" = "Paul Deschanel, né le 13 février 1855 à Schaerbeek (Belgique) et mort le 28 avril 1922 à Paris (France), est un homme d'État, journaliste et écrivain français, président de la République du 18 février au 21 septembre 1920."
         }. 
         {
             "id" = "Q312026". 
@@ -3187,7 +3187,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Georges_Bidault". 
             "start_mandate" = "1946-06-24". 
             "end_mandate" = "1946-10-14". 
-            "first_wiki_para" = "Georges Bidault, n\u00e9 le 5 octobre 1899 \u00e0 Moulins (Allier) et mort le 27 janvier 1983 \u00e0 Cambo-les-Bains (Pyr\u00e9n\u00e9es-Atlantiques), est un r\u00e9sistant et un homme d'\u00c9tat fran\u00e7ais."
+            "first_wiki_para" = "Georges Bidault, né le 5 octobre 1899 à Moulins (Allier) et mort le 27 janvier 1983 à Cambo-les-Bains (Pyrénées-Atlantiques), est un résistant et un homme d'État français."
         }. 
         {
             "id" = "Q315656". 
@@ -3199,7 +3199,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Jean_Casimir-Perier". 
             "start_mandate" = "1894-06-27". 
             "end_mandate" = "1895-01-16". 
-            "first_wiki_para" = "Jean Casimir-Perier, n\u00e9 le 8 novembre 1847 \u00e0 Paris et mort le 11 mars 1907 dans la m\u00eame ville, est un homme d'\u00c9tat fran\u00e7ais. Il est pr\u00e9sident de la R\u00e9publique fran\u00e7aise du 27 juin 1894 au 16 janvier 1895."
+            "first_wiki_para" = "Jean Casimir-Perier, né le 8 novembre 1847 à Paris et mort le 11 mars 1907 dans la même ville, est un homme d'État français. Il est président de la République française du 27 juin 1894 au 16 janvier 1895."
         }. 
         {
             "id" = "Q356032". 
@@ -3211,7 +3211,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Charles_Dupuy". 
             "start_mandate" = "1894-06-25". 
             "end_mandate" = "1894-06-27". 
-            "first_wiki_para" = "Charles Dupuy, n\u00e9 le 5 novembre 1851 au Puy-en-Velay et mort le 23 juillet 1923 \u00e0 Ille-sur-T\u00eat, est un homme d'\u00c9tat fran\u00e7ais. Il occupe \u00e0 plusieurs reprises la fonction de pr\u00e9sident du Conseil sous la IIIe R\u00e9publique, entre 1893 et 1899. Il est \u00e9galement pr\u00e9sident de la Chambre des d\u00e9put\u00e9s de 1893 \u00e0 1894."
+            "first_wiki_para" = "Charles Dupuy, né le 5 novembre 1851 au Puy-en-Velay et mort le 23 juillet 1923 à Ille-sur-Têt, est un homme d'État français. Il occupe à plusieurs reprises la fonction de président du Conseil sous la IIIe République, entre 1893 et 1899. Il est également président de la Chambre des députés de 1893 à 1894."
         }. 
         {
             "id" = "Q379702". 
@@ -3223,7 +3223,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Cavaignac". 
             "start_mandate" = "1848-06-28". 
             "end_mandate" = "1848-12-20". 
-            "first_wiki_para" = "Louis Eug\u00e8ne Cavaignac, connu aussi sous le nom de g\u00e9n\u00e9ral Cavaignac, n\u00e9 le 15 octobre 1802 (23 vend\u00e9miaire an XI) \u00e0 Paris et mort le 28 octobre 1857 dans son ch\u00e2teau d'Ourne \u00e0 Fl\u00e9e, est un g\u00e9n\u00e9ral et homme d'\u00c9tat fran\u00e7ais."
+            "first_wiki_para" = "Louis Eugène Cavaignac, connu aussi sous le nom de général Cavaignac, né le 15 octobre 1802 (23 vendémiaire an XI) à Paris et mort le 28 octobre 1857 dans son château d'Ourne à Flée, est un général et homme d'État français."
         }. 
         {
             "id" = "Q441235". 
@@ -3235,11 +3235,11 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Louis_Jules_Trochu". 
             "start_mandate" = "1870-09-04". 
             "end_mandate" = "1871-01-22". 
-            "first_wiki_para" = "Louis-Jules Trochu, n\u00e9 au Palais \u00e0 Belle-\u00cele-en-Mer (Morbihan) le 12 mars 1815 et mort \u00e0 Tours (Indre-et-Loire) le 7 octobre 1896, est un g\u00e9n\u00e9ral de division et homme d'\u00c9tat fran\u00e7ais sous le Second Empire."
+            "first_wiki_para" = "Louis-Jules Trochu, né au Palais à Belle-Île-en-Mer (Morbihan) le 12 mars 1815 et mort à Tours (Indre-et-Loire) le 7 octobre 1896, est un général de division et homme d'État français sous le Second Empire."
         }. 
         {
             "id" = "Q459212". 
-            "first_name" = "Fr\u00e9d\u00e9ric". 
+            "first_name" = "Frédéric". 
             "last_name" = "None". 
             "birth_date" = "1874-03-16". 
             "death_date" = "1958-05-20". 
@@ -3247,7 +3247,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Fran%C3%A7ois-Marsal". 
             "start_mandate" = "1924-06-11". 
             "end_mandate" = "1924-06-13". 
-            "first_wiki_para" = "Fr\u00e9d\u00e9ric Fran\u00e7ois-Marsal, n\u00e9 le 16 mars 1874 \u00e0 Paris 8e (Seine) et mort le 20 mai 1958 \u00e0 Gisors (Eure), est un homme d'affaires et un homme politique fran\u00e7ais de la droite r\u00e9publicaine, dont la carri\u00e8re politique a culmin\u00e9 avec son bref passage \u00e0 la pr\u00e9sidence du Conseil en 1924."
+            "first_wiki_para" = "Frédéric François-Marsal, né le 16 mars 1874 à Paris 8e (Seine) et mort le 20 mai 1958 à Gisors (Eure), est un homme d'affaires et un homme politique français de la droite républicaine, dont la carrière politique a culminé avec son bref passage à la présidence du Conseil en 1924."
         }. 
         {
             "id" = "Q3052772". 
@@ -3259,7 +3259,7 @@
             "wikipedia_url" = "https://fr.wikipedia.org/wiki/Emmanuel_Macron". 
             "start_mandate" = "2017-05-14". 
             "end_mandate" = null. 
-            "first_wiki_para" = "Emmanuel Macron ( \u00c9couter), n\u00e9 le 21 d\u00e9cembre 1977 \u00e0 Amiens (Somme), est un haut fonctionnaire, banquier d'affaires et homme d'\u00c9tat fran\u00e7ais. Il est Pr\u00e9sident de la R\u00e9publique fran\u00e7aise depuis le 14 mai 2017."
+            "first_wiki_para" = "Emmanuel Macron , né le 21 décembre 1977 à Amiens (Somme), est un haut fonctionnaire, banquier d'affaires et homme d'État français. Il est Président de la République française depuis le 14 mai 2017."
         }
     ]
 }
