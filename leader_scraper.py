@@ -66,9 +66,16 @@ def get_personal_details(wikipedia_url: str, session: Session) -> dict:
                 info_key = all_th.text.strip()
                 metadata[info_key] = []
             for all_td in elements:
-                text1 = re.sub(r'\(.*?\)','',all_td.text.strip())
-                text2 = re.sub(r'[^\w\s]','',text1.strip())
-                metadata[info_key] = re.sub(r'\s{2,}',' ',text2).split('\n')
+                list_items = all_td.find_all('li')
+                
+                text = re.sub(r'\(.*?\)|[^\w\s]','',all_td.text.strip())
+                text = re.sub(r'\d{5,}\w?|\&nbsp\;','',text)
+                metadata[info_key] = re.sub(r'\s{2,}',' ',text).split('\n')
+
+                if (len(list_items)>1):
+                    metadata[info_key] = []
+                    for check in all_td.find_all('li'):
+                        metadata[info_key].append(check.text)
 
     # Remove the empty key 'Personal details' and return the data
     metadata.pop('Personal details', None)
